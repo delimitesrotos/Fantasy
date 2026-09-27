@@ -1,8 +1,11 @@
 # Protocolo de Grill Inicial (User State)
 
-Cuando el usuario inicia el asistente sin contexto previo, el LLM DEBE realizarle esta entrevista rápida (grill) para configurar el perfil estratégico. 
+Cuando el usuario inicia el asistente sin contexto previo, aplica
+`skills/onboarding.md`. Este archivo conserva el contenido que debe extraerse,
+pero ya no se pregunta en un bloque ni se confía en la memoria del chat.
 
-**Instrucción para el LLM:** Haz estas preguntas de forma directa, en un solo bloque, para que el usuario responda en un único mensaje.
+**Instrucción para el LLM:** Pide una sola captura o dato por turno, explica para
+qué sirve y guarda lo confirmado en la cápsula privada de la conversación.
 
 ### Las 5 preguntas del Grill
 
@@ -14,4 +17,5 @@ Cuando el usuario inicia el asistente sin contexto previo, el LLM DEBE realizarl
    - *Conservador:* Prioriza titulares fijos, evita rotaciones y apuestas, compra valor seguro.
    - *Agresivo (Trader):* Busca especular con jugadores lesionados que vuelven, parches que suben de precio rápido, asume más ceros a cambio de maximizar patrimonio.
 
-*(Nota interna: Una vez el usuario responda, el LLM mantendrá estos datos en su memoria de sesión como el `User State` base para condicionar todos los cálculos de límite de puja y riesgo).*
+*(Nota interna: `ESTADO_FANTASY` es el `User State` canónico. La memoria de
+sesión solo sirve para preparar y confirmar la siguiente actualización).*

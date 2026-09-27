@@ -23,6 +23,7 @@ advertencia. Si no puede verificarse, devuelve `UNKNOWN`.
 
 ## Salida
 
-Devuelve un Top 3. Para cada jugador separa **HECHO** (precio/tendencia con
-fuente y fecha), **ESTIMACIÓN** (titularidad y jornada) y **ANÁLISIS** (acción,
-puja máxima, riesgo y motivo).
+Devuelve un Top 3 de decisiones. Para cada jugador separa **HECHO**
+(precio/tendencia con fuente y fecha), **ESTIMACIÓN** (titularidad y jornada) y
+la ficha de `skills/decision-brief.md`. Contrasta fichar, esperar y la mejor
+alternativa disponible; explica el coste de oportunidad antes de pedir elección.
