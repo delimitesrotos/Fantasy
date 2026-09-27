@@ -18,6 +18,9 @@
 - **EL ONCE:** once por posición.
 - **ESTIMACIONES:** probabilidades con fuente, jornada y hora de consulta.
 - **DUDAS/ROTACIONES:** hechos recientes y nivel de riesgo.
-- **DESCARTE DOLOROSO:** por qué queda fuera el jugador más discutible.
+- **DECISIÓN DISCUTIBLE:** compara al menos las dos alineaciones razonables,
+  explica techo, suelo, minutos, rival y qué noticia haría cambiar la elección.
+- **TU DECISIÓN:** ofrece una preferencia, pero pide al usuario que confirme el
+  once que quiere usar.
 
 No presentes una probabilidad `stale` como actual.

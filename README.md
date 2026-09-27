@@ -5,6 +5,10 @@ chat normal de ChatGPT, Gemini o Claude. El usuario no ejecuta scripts ni
 conecta su cuenta: aporta únicamente su estado privado y el mercado concreto de
 su liga; el repositorio aporta inteligencia y datos públicos validados.
 
+**Para una persona sin conocimientos técnicos:** abre
+[`EMPEZAR_AQUI.md`](EMPEZAR_AQUI.md), copia el único mensaje y deja que el chat
+guíe las capturas una a una.
+
 ## Las dos capas
 
 ### Inteligencia
@@ -28,13 +32,23 @@ actualización cuando existe y estado `fresh`, `stale` o `unknown`.
 
 ## Uso desde móvil
 
-1. Comparte este repositorio o `SKILL.md` con el chat.
-2. Completa una vez el grill de `protocolo_grill.md`.
-3. Envía una captura o lista diaria del mercado privado de tu liga.
-4. El chat consulta primero `metadata.json` y los snapshots frescos, y busca en
+1. Tu amigo abre un chat normal y envía este único mensaje:
+
+   > Lee `https://github.com/delimitesrotos/Fantasy` y sigue `SKILL.md`.
+   > Empezar Fantasy.
+
+2. El onboarding pide una sola captura por turno y mantiene reglas, equipo y
+   clasificación en una cápsula privada visible dentro de su conversación.
+3. Después basta escribir **¿Qué hago hoy?** o **Prepara mi jornada**. Si hace
+   falta, el chat pedirá una captura del mercado privado de ese día.
+4. El chat consulta primero la cápsula, `metadata.json` y los snapshots frescos, y busca en
    Internet solamente contexto complementario.
-5. Ejecuta manualmente cualquier compra, venta o alineación en la aplicación
-   oficial.
+5. Recibes alternativas justificadas con ventajas, costes, riesgos y umbrales.
+   Tú eliges y confirmas; después ejecutas manualmente la acción en la app.
+
+El propietario del repositorio no configura nada, no usa Drive y no recibe los
+datos privados. Si tu amigo cambia de chat, pega la última cápsula que el propio
+chat le mostró; no necesita entenderla ni editarla.
 
 Un valor leído por ti en la aplicación oficial tiene prioridad durante esa
 conversación. Si el snapshot está caducado y la fuente canónica no puede
@@ -57,6 +71,8 @@ python3 scripts/update_public_data.py --check
 
 Consulta [la arquitectura de datos](docs/data-architecture.md) y
 [la política de fuentes](source/data-policy.md) para los contratos completos.
+El [flujo de estado privado](docs/private-state-workflow.md) explica el onboarding,
+la actualización diaria y por qué supera a la memoria aislada de un chat.
 
 ## Seguridad absoluta
 

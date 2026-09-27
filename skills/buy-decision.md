@@ -18,7 +18,8 @@ Biwenger, Mister, Futmondo u otras plataformas.
 
 ## Workflow
 
-1. Lee saldo, reglas y plantilla del estado conversacional.
+1. Lee saldo, reglas y plantilla de la cápsula `ESTADO_FANTASY`; la memoria
+   oculta del chat no sustituye esos datos.
 2. Consulta primero `data/public/latest/metadata.json` y los snapshots frescos.
 3. Comprueba titularidad, lesión, sanción y rotación; la búsqueda web aquí aporta
    contexto, no un precio exacto sustituto.
@@ -28,6 +29,9 @@ Biwenger, Mister, Futmondo u otras plataformas.
 
 ## Salida
 
-Separa **HECHO**, **ESTIMACIÓN** y **ANÁLISIS**, y termina con decisión clara,
-precio máximo, jugador al que mejora y riesgo. Si VM es `UNKNOWN`, no fabriques
-un límite exacto: solicita el valor que muestra la app.
+Separa **HECHO**, **ESTIMACIÓN** y **ANÁLISIS**. Después aplica
+`skills/decision-brief.md`: compara comprar, no actuar y cualquier alternativa
+realista; explica caja, sustitución, coste de oportunidad, riesgo y
+reversibilidad. Da una preferencia y un precio máximo condicionado, pero pide al
+usuario que elija. Si VM es `UNKNOWN`, no fabriques un límite exacto: solicita
+el valor que muestra la app.

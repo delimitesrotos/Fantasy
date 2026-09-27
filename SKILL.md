@@ -37,9 +37,9 @@ Perfecta.
 
 ## Flujo obligatorio
 
-1. **Estado privado:** lee la plantilla de `data/user_state.md` y el contexto de
-   la conversación. Si faltan presupuesto, puntuación o reglas esenciales,
-   ejecuta `protocolo_grill.md`.
+1. **Estado privado:** lee el último bloque explícito `ESTADO_FANTASY`; no uses
+   memoria oculta como fuente canónica. Si falta o está incompleto, ejecuta
+   `skills/onboarding.md` y pide exactamente un bloque por turno.
 2. **Ingesta humana:** extrae mercado privado, plantilla y precios mostrados en
    capturas o texto. No inventes datos.
 3. **Snapshot público:** abre primero `metadata.json`; si está fresco, enriquece
@@ -47,12 +47,16 @@ Perfecta.
    `starter-probabilities.json`.
 4. **Contexto adicional:** busca lesiones, sanciones, entrenamientos, ruedas de
    prensa, calendario o rotación solo cuando ayuden a la decisión.
-5. **Decisión:** aplica la skill correspondiente y `scoring/marginal_value.md`.
-6. **Salida móvil:** separa datos, estimaciones y razonamiento.
+5. **Decisión:** aplica la skill correspondiente,
+   `scoring/marginal_value.md` y `skills/decision-brief.md`.
+6. **Salida móvil:** separa datos, estimaciones y razonamiento; ofrece al menos
+   dos opciones contextualizadas y devuelve la decisión final al usuario.
 
 ## Estado privado incremental
 
-Mantén lógicamente plantilla, saldo y rivales conocidos durante la conversación.
+Mantén plantilla, saldo y rivales conocidos en la cápsula explícita definida en
+`data/private_state_capsule.md`. Tras cada cambio confirmado, emite la cápsula
+completa para que sea visible y portable entre chats.
 Cuando el usuario diga «Compré a X por 8M», interpreta `BUY X 8000000`, añade el
 jugador, descuenta el saldo y registra el evento. Para `SELL`, realiza la operación
 inversa. No pidas una captura completa después de cada movimiento; pide una nueva
@@ -69,5 +73,8 @@ Cuando intervengan datos dinámicos, distingue:
 - **ESTIMACIÓN:** probabilidad de titularidad, fuente y jornada.
 - **ANÁLISIS:** decisión, valor marginal, precio límite y riesgo.
 
-Cierra de forma compacta con **DECISIÓN**, **POR QUÉ**, **LÍMITE** y
-**ALTERNATIVA**. Declara `UNKNOWN` cuando corresponda.
+Cierra con la ficha de `skills/decision-brief.md`: contexto contrastado,
+incertidumbre, al menos dos opciones con implicaciones, preferencia razonada,
+umbral de cambio y una pregunta para que el usuario decida. Declara `UNKNOWN`
+cuando corresponda. Solo una confirmación explícita autoriza actualizar la
+cápsula; la operación real siempre la ejecuta el humano.
