@@ -1,0 +1,56 @@
+name: Update public fantasy data
+
+on:
+  schedule:
+    - cron: "17 2,8,14,20 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: public-fantasy-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Update validated snapshot
+        id: update
+        shell: bash
+        run: |
+          set +e
+          python scripts/update_public_data.py
+          status=$?
+          echo "exit_code=$status" >> "$GITHUB_OUTPUT"
+          exit 0
+
+      - name: Commit snapshot or failure metadata
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/public/latest
+          if git diff --cached --quiet; then
+            echo "No public data changes to commit."
+            exit 0
+          fi
+          git commit -m "data: refresh public fantasy snapshot"
+          git push
+
+      - name: Fail visibly when validation failed
+        if: steps.update.outputs.exit_code != '0'
+        run: exit 1

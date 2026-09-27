@@ -1,0 +1,5785 @@
+{
+  "dataset": "players",
+  "generated_at": "2026-09-27T13:04:20.136752+02:00",
+  "players": [
+    {
+      "id": "futbolfantasy:10005",
+      "name": "Pablo Barrios",
+      "normalized_name": "pablo_barrios",
+      "position": "MED",
+      "source_id": "10005",
+      "team": "Atlético",
+      "team_source_id": "2"
+    },
+    {
+      "id": "futbolfantasy:10114",
+      "name": "Renato Veiga",
+      "normalized_name": "renato_veiga",
+      "position": "DEF",
+      "source_id": "10114",
+      "team": "Villarreal",
+      "team_source_id": "22"
+    },
+    {
+      "id": "futbolfantasy:10176",
+      "name": "Álvaro F. Carreras",
+      "normalized_name": "alvaro_f_carreras",
+      "position": "DEF",
+      "source_id": "10176",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:10191",
+      "name": "Alejandro Primo",
+      "normalized_name": "alejandro_primo",
+      "position": "POR",
+      "source_id": "10191",
+      "team": "Levante",
+      "team_source_id": "10"
+    },
+    {
+      "id": "futbolfantasy:10192",
+      "name": "Carlos Giménez",
+      "normalized_name": "carlos_gimenez",
+      "position": "DEF",
+      "source_id": "10192",
+      "team": "Atlético",
+      "team_source_id": "2"
+    },
+    {
+      "id": "futbolfantasy:10207",
+      "name": "Williot Swedberg",
+      "normalized_name": "williot_swedberg",
+      "position": "MED",
+      "source_id": "10207",
+      "team": "Celta",
+      "team_source_id": "5"
+    },
+    {
+      "id": "futbolfantasy:10208",
+      "name": "Jonathan Dubasin",
+      "normalized_name": "jonathan_dubasin",
+      "position": "DEL",
+      "source_id": "10208",
+      "team": "Osasuna",
+      "team_source_id": "13"
+    },
+    {
+      "id": "futbolfantasy:10209",
+      "name": "Facundo González",
+      "normalized_name": "facundo_gonzalez",
+      "position": "DEF",
+      "source_id": "10209",
+      "team": "Racing",
+      "team_source_id": "42"
+    },
+    {
+      "id": "futbolfantasy:10210",
+      "name": "Fran Pérez",
+      "normalized_name": "fran_perez",
+      "position": "MED",
+      "source_id": "10210",
+      "team": "Rayo",
+      "team_source_id": "14"
+    },
+    {
+      "id": "futbolfantasy:10213",
+      "name": "Beñat Gerenabarrena",
+      "normalized_name": "benat_gerenabarrena",
+      "position": "MED",
+      "source_id": "10213",
+      "team": "Athletic",
+      "team_source_id": "1"
+    },
+    {
+      "id": "futbolfantasy:10214",
+      "name": "Alex Padilla",
+      "normalized_name": "alex_padilla",
+      "position": "POR",
+      "source_id": "10214",
+      "team": "Athletic",
+      "team_source_id": "1"
+    },
+    {
+      "id": "futbolfantasy:10217",
+      "name": "Marc Casadó",
+      "normalized_name": "marc_casado",
+      "position": "MED",
+      "source_id": "10217",
+      "team": "Deportivo",
+      "team_source_id": "6"
+    },
+    {
+      "id": "futbolfantasy:10219",
+      "name": "Ángel Fortuño",
+      "normalized_name": "angel_fortuno",
+      "position": "POR",
+      "source_id": "10219",
+      "team": "Espanyol",
+      "team_source_id": "7"
+    },
+    {
+      "id": "futbolfantasy:10220",
+      "name": "Omar El Hilali",
+      "normalized_name": "omar_el_hilali",
+      "position": "DEF",
+      "source_id": "10220",
+      "team": "Espanyol",
+      "team_source_id": "7"
+    },
+    {
+      "id": "futbolfantasy:10233",
+      "name": "Ángel Ortiz",
+      "normalized_name": "angel_ortiz",
+      "position": "DEF",
+      "source_id": "10233",
+      "team": "Betis",
+      "team_source_id": "4"
+    },
+    {
+      "id": "futbolfantasy:10237",
+      "name": "Rodrigo Mendoza",
+      "normalized_name": "rodrigo_mendoza",
+      "position": "MED",
+      "source_id": "10237",
+      "team": "Atlético",
+      "team_source_id": "2"
+    },
+    {
+      "id": "futbolfantasy:10247",
+      "name": "Arnau Solà",
+      "normalized_name": "arnau_sola",
+      "position": "DEF",
+      "source_id": "10247",
+      "team": "Atlético",
+      "team_source_id": "2"
+    },
+    {
+      "id": "futbolfantasy:10258",
+      "name": "Pablo Ibáñez",
+      "normalized_name": "pablo_ibanez",
+      "position": "MED",
+      "source_id": "10258",
+      "team": "Alavés",
+      "team_source_id": "28"
+    },
+    {
+      "id": "futbolfantasy:10287",
+      "name": "Julián Álvarez",
+      "normalized_name": "julian_alvarez",
+      "position": "DEL",
+      "source_id": "10287",
+      "team": "Atlético",
+      "team_source_id": "2"
+    },
+    {
+      "id": "futbolfantasy:10326",
+      "name": "Karl Etta Eyong",
+      "normalized_name": "karl_etta_eyong",
+      "position": "DEL",
+      "source_id": "10326",
+      "team": "Levante",
+      "team_source_id": "10"
+    },
+    {
+      "id": "futbolfantasy:10328",
+      "name": "Marc Doménech",
+      "normalized_name": "marc_domenech",
+      "position": "DEL",
+      "source_id": "10328",
+      "team": "Atlético",
+      "team_source_id": "2"
+    },
+    {
+      "id": "futbolfantasy:10336",
+      "name": "Álvaro Mantilla",
+      "normalized_name": "alvaro_mantilla",
+      "position": "DEF",
+      "source_id": "10336",
+      "team": "Racing",
+      "team_source_id": "42"
+    },
+    {
+      "id": "futbolfantasy:10338",
+      "name": "Íñigo Sainz-Maza",
+      "normalized_name": "inigo_sainz_maza",
+      "position": "DEF",
+      "source_id": "10338",
+      "team": "Racing",
+      "team_source_id": "42"
+    },
+    {
+      "id": "futbolfantasy:10341",
+      "name": "Peque",
+      "normalized_name": "peque",
+      "position": "DEL",
+      "source_id": "10341",
+      "team": "Sevilla",
+      "team_source_id": "17"
+    },
+    {
+      "id": "futbolfantasy:10353",
+      "name": "Álex Pastor",
+      "normalized_name": "alex_pastor",
+      "position": "DEF",
+      "source_id": "10353",
+      "team": "Málaga",
+      "team_source_id": "11"
+    },
+    {
+      "id": "futbolfantasy:10357",
+      "name": "Adrià Altimira",
+      "normalized_name": "adria_altimira",
+      "position": "DEF",
+      "source_id": "10357",
+      "team": "Deportivo",
+      "team_source_id": "6"
+    },
+    {
+      "id": "futbolfantasy:10358",
+      "name": "Marc Aguado",
+      "normalized_name": "marc_aguado",
+      "position": "MED",
+      "source_id": "10358",
+      "team": "Elche",
+      "team_source_id": "21"
+    },
+    {
+      "id": "futbolfantasy:10393",
+      "name": "Morten Hjulmand",
+      "normalized_name": "morten_hjulmand",
+      "position": "MED",
+      "source_id": "10393",
+      "team": "Atlético",
+      "team_source_id": "2"
+    },
+    {
+      "id": "futbolfantasy:10448",
+      "name": "Carlos Benavidez",
+      "normalized_name": "carlos_benavidez",
+      "position": "MED",
+      "source_id": "10448",
+      "team": "Alavés",
+      "team_source_id": "28"
+    },
+    {
+      "id": "futbolfantasy:10463",
+      "name": "Orel Mangala",
+      "normalized_name": "orel_mangala",
+      "position": "MED",
+      "source_id": "10463",
+      "team": "Getafe",
+      "team_source_id": "8"
+    },
+    {
+      "id": "futbolfantasy:10473",
+      "name": "Giacomo Quagliata",
+      "normalized_name": "giacomo_quagliata",
+      "position": "DEF",
+      "source_id": "10473",
+      "team": "Deportivo",
+      "team_source_id": "6"
+    },
+    {
+      "id": "futbolfantasy:10476",
+      "name": "Abde Rebbach",
+      "normalized_name": "abde_rebbach",
+      "position": "DEL",
+      "source_id": "10476",
+      "team": "Alavés",
+      "team_source_id": "28"
+    },
+    {
+      "id": "futbolfantasy:10478",
+      "name": "Miguel Loureiro",
+      "normalized_name": "miguel_loureiro",
+      "position": "DEF",
+      "source_id": "10478",
+      "team": "Deportivo",
+      "team_source_id": "6"
+    },
+    {
+      "id": "futbolfantasy:10495",
+      "name": "Stefan Bajcetic",
+      "normalized_name": "stefan_bajcetic",
+      "position": "MED",
+      "source_id": "10495",
+      "team": "Celta",
+      "team_source_id": "5"
+    },
+    {
+      "id": "futbolfantasy:10533",
+      "name": "André Almeida",
+      "normalized_name": "andre_almeida",
+      "position": "MED",
+      "source_id": "10533",
+      "team": "Racing",
+      "team_source_id": "42"
+    },
+    {
+      "id": "futbolfantasy:1059",
+      "name": "Antonio Sivera",
+      "normalized_name": "antonio_sivera",
+      "position": "POR",
+      "source_id": "1059",
+      "team": "Alavés",
+      "team_source_id": "28"
+    },
+    {
+      "id": "futbolfantasy:1062",
+      "name": "Dani Ceballos",
+      "normalized_name": "dani_ceballos",
+      "position": "MED",
+      "source_id": "1062",
+      "team": "Betis",
+      "team_source_id": "4"
+    },
+    {
+      "id": "futbolfantasy:10638",
+      "name": "Tajon Buchanan",
+      "normalized_name": "tajon_buchanan",
+      "position": "MED",
+      "source_id": "10638",
+      "team": "Villarreal",
+      "team_source_id": "22"
+    },
+    {
+      "id": "futbolfantasy:10658",
+      "name": "Roony Bardghji",
+      "normalized_name": "roony_bardghji",
+      "position": "DEL",
+      "source_id": "10658",
+      "team": "Barcelona",
+      "team_source_id": "3"
+    },
+    {
+      "id": "futbolfantasy:10660",
+      "name": "Orri Steinn Óskarsson",
+      "normalized_name": "orri_steinn_oskarsson",
+      "position": "DEL",
+      "source_id": "10660",
+      "team": "Real Sociedad",
+      "team_source_id": "16"
+    },
+    {
+      "id": "futbolfantasy:10767",
+      "name": "Sergio Mestre",
+      "normalized_name": "sergio_mestre",
+      "position": "POR",
+      "source_id": "10767",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:10822",
+      "name": "Pablo Durán",
+      "normalized_name": "pablo_duran",
+      "position": "DEL",
+      "source_id": "10822",
+      "team": "Celta",
+      "team_source_id": "5"
+    },
+    {
+      "id": "futbolfantasy:10823",
+      "name": "Juan Cruz",
+      "normalized_name": "juan_cruz",
+      "position": "MED",
+      "source_id": "10823",
+      "team": "Málaga",
+      "team_source_id": "11"
+    },
+    {
+      "id": "futbolfantasy:10830",
+      "name": "Pablo Marín",
+      "normalized_name": "pablo_marin",
+      "position": "MED",
+      "source_id": "10830",
+      "team": "Real Sociedad",
+      "team_source_id": "16"
+    },
+    {
+      "id": "futbolfantasy:10832",
+      "name": "Moussa Diarra",
+      "normalized_name": "moussa_diarra",
+      "position": "DEF",
+      "source_id": "10832",
+      "team": "Málaga",
+      "team_source_id": "11"
+    },
+    {
+      "id": "futbolfantasy:10860",
+      "name": "Carlos Dotor",
+      "normalized_name": "carlos_dotor",
+      "position": "MED",
+      "source_id": "10860",
+      "team": "Málaga",
+      "team_source_id": "11"
+    },
+    {
+      "id": "futbolfantasy:10893",
+      "name": "Marcos Fernández",
+      "normalized_name": "marcos_fernandez",
+      "position": "DEL",
+      "source_id": "10893",
+      "team": "Espanyol",
+      "team_source_id": "7"
+    },
+    {
+      "id": "futbolfantasy:11172",
+      "name": "Carlos Romero",
+      "normalized_name": "carlos_romero",
+      "position": "DEF",
+      "source_id": "11172",
+      "team": "Villarreal",
+      "team_source_id": "22"
+    },
+    {
+      "id": "futbolfantasy:11180",
+      "name": "Manu Bueno",
+      "normalized_name": "manu_bueno",
+      "position": "MED",
+      "source_id": "11180",
+      "team": "Sevilla",
+      "team_source_id": "17"
+    },
+    {
+      "id": "futbolfantasy:11198",
+      "name": "Lorenzo Amatucci",
+      "normalized_name": "lorenzo_amatucci",
+      "position": "MED",
+      "source_id": "11198",
+      "team": "Deportivo",
+      "team_source_id": "6"
+    },
+    {
+      "id": "futbolfantasy:11202",
+      "name": "Mario Martín",
+      "normalized_name": "mario_martin",
+      "position": "MED",
+      "source_id": "11202",
+      "team": "Getafe",
+      "team_source_id": "8"
+    },
+    {
+      "id": "futbolfantasy:11214",
+      "name": "Facundo Buonanotte",
+      "normalized_name": "facundo_buonanotte",
+      "position": "MED",
+      "source_id": "11214",
+      "team": "Elche",
+      "team_source_id": "21"
+    },
+    {
+      "id": "futbolfantasy:1123",
+      "name": "Raúl De Tomás",
+      "normalized_name": "raul_de_tomas",
+      "position": "DEL",
+      "source_id": "1123",
+      "team": "Rayo",
+      "team_source_id": "14"
+    },
+    {
+      "id": "futbolfantasy:11230",
+      "name": "Abel Bretones",
+      "normalized_name": "abel_bretones",
+      "position": "DEF",
+      "source_id": "11230",
+      "team": "Osasuna",
+      "team_source_id": "13"
+    },
+    {
+      "id": "futbolfantasy:11286",
+      "name": "Jeanuël Belocian",
+      "normalized_name": "jeanuel_belocian",
+      "position": "DEF",
+      "source_id": "11286",
+      "team": "Racing",
+      "team_source_id": "42"
+    },
+    {
+      "id": "futbolfantasy:11362",
+      "name": "Iker Muñoz",
+      "normalized_name": "iker_munoz",
+      "position": "MED",
+      "source_id": "11362",
+      "team": "Osasuna",
+      "team_source_id": "13"
+    },
+    {
+      "id": "futbolfantasy:11439",
+      "name": "Arda Güler",
+      "normalized_name": "arda_guler",
+      "position": "MED",
+      "source_id": "11439",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:11467",
+      "name": "Quilindschy Hartman",
+      "normalized_name": "quilindschy_hartman",
+      "position": "DEF",
+      "source_id": "11467",
+      "team": "Espanyol",
+      "team_source_id": "7"
+    },
+    {
+      "id": "futbolfantasy:11520",
+      "name": "Lamine Yamal",
+      "normalized_name": "lamine_yamal",
+      "position": "DEL",
+      "source_id": "11520",
+      "team": "Barcelona",
+      "team_source_id": "3"
+    },
+    {
+      "id": "futbolfantasy:11554",
+      "name": "Fran González",
+      "normalized_name": "fran_gonzalez",
+      "position": "POR",
+      "source_id": "11554",
+      "team": "Sevilla",
+      "team_source_id": "17"
+    },
+    {
+      "id": "futbolfantasy:11562",
+      "name": "Yago Santiago",
+      "normalized_name": "yago_santiago",
+      "position": "MED",
+      "source_id": "11562",
+      "team": "Elche",
+      "team_source_id": "21"
+    },
+    {
+      "id": "futbolfantasy:11577",
+      "name": "Héctor Fort",
+      "normalized_name": "hector_fort",
+      "position": "DEF",
+      "source_id": "11577",
+      "team": "Real Sociedad",
+      "team_source_id": "16"
+    },
+    {
+      "id": "futbolfantasy:11579",
+      "name": "Arnau Ortiz",
+      "normalized_name": "arnau_ortiz",
+      "position": "DEL",
+      "source_id": "11579",
+      "team": "Atlético",
+      "team_source_id": "2"
+    },
+    {
+      "id": "futbolfantasy:11676",
+      "name": "Unai Egiluz",
+      "normalized_name": "unai_egiluz",
+      "position": "DEF",
+      "source_id": "11676",
+      "team": "Athletic",
+      "team_source_id": "1"
+    },
+    {
+      "id": "futbolfantasy:11677",
+      "name": "Hugo Rincón",
+      "normalized_name": "hugo_rincon",
+      "position": "DEF",
+      "source_id": "11677",
+      "team": "Athletic",
+      "team_source_id": "1"
+    },
+    {
+      "id": "futbolfantasy:11678",
+      "name": "Santiago Mouriño",
+      "normalized_name": "santiago_mourino",
+      "position": "DEF",
+      "source_id": "11678",
+      "team": "Villarreal",
+      "team_source_id": "22"
+    },
+    {
+      "id": "futbolfantasy:11680",
+      "name": "Isaac Romero",
+      "normalized_name": "isaac_romero",
+      "position": "DEL",
+      "source_id": "11680",
+      "team": "Sevilla",
+      "team_source_id": "17"
+    },
+    {
+      "id": "futbolfantasy:11683",
+      "name": "Jon Gorrotxategi",
+      "normalized_name": "jon_gorrotxategi",
+      "position": "MED",
+      "source_id": "11683",
+      "team": "Real Sociedad",
+      "team_source_id": "16"
+    },
+    {
+      "id": "futbolfantasy:11701",
+      "name": "Antal Yaakobishvili",
+      "normalized_name": "antal_yaakobishvili",
+      "position": "DEF",
+      "source_id": "11701",
+      "team": "Atlético",
+      "team_source_id": "2"
+    },
+    {
+      "id": "futbolfantasy:11706",
+      "name": "Pau Cubarsí",
+      "normalized_name": "pau_cubarsi",
+      "position": "DEF",
+      "source_id": "11706",
+      "team": "Barcelona",
+      "team_source_id": "3"
+    },
+    {
+      "id": "futbolfantasy:11709",
+      "name": "Fermín López",
+      "normalized_name": "fermin_lopez",
+      "position": "MED",
+      "source_id": "11709",
+      "team": "Barcelona",
+      "team_source_id": "3"
+    },
+    {
+      "id": "futbolfantasy:11714",
+      "name": "Jorge Benito",
+      "normalized_name": "jorge_benito",
+      "position": "POR",
+      "source_id": "11714",
+      "team": "Getafe",
+      "team_source_id": "8"
+    },
+    {
+      "id": "futbolfantasy:11719",
+      "name": "Selu Diallo",
+      "normalized_name": "selu_diallo",
+      "position": "MED",
+      "source_id": "11719",
+      "team": "Alavés",
+      "team_source_id": "28"
+    },
+    {
+      "id": "futbolfantasy:11758",
+      "name": "Alemão",
+      "normalized_name": "alemao",
+      "position": "DEL",
+      "source_id": "11758",
+      "team": "Rayo",
+      "team_source_id": "14"
+    },
+    {
+      "id": "futbolfantasy:11767",
+      "name": "Álvaro Núñez",
+      "normalized_name": "alvaro_nunez",
+      "position": "DEF",
+      "source_id": "11767",
+      "team": "Celta",
+      "team_source_id": "5"
+    },
+    {
+      "id": "futbolfantasy:11790",
+      "name": "Mario González",
+      "normalized_name": "mario_gonzalez",
+      "position": "MED",
+      "source_id": "11790",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:11792",
+      "name": "Jon Martín",
+      "normalized_name": "jon_martin",
+      "position": "DEF",
+      "source_id": "11792",
+      "team": "Real Sociedad",
+      "team_source_id": "16"
+    },
+    {
+      "id": "futbolfantasy:11793",
+      "name": "Alex Lebarbier",
+      "normalized_name": "alex_lebarbier",
+      "position": "DEF",
+      "source_id": "11793",
+      "team": "Real Sociedad",
+      "team_source_id": "16"
+    },
+    {
+      "id": "futbolfantasy:11807",
+      "name": "Pablo Campos",
+      "normalized_name": "pablo_campos",
+      "position": "POR",
+      "source_id": "11807",
+      "team": "Levante",
+      "team_source_id": "10"
+    },
+    {
+      "id": "futbolfantasy:11813",
+      "name": "Natan",
+      "normalized_name": "natan",
+      "position": "DEF",
+      "source_id": "11813",
+      "team": "Betis",
+      "team_source_id": "4"
+    },
+    {
+      "id": "futbolfantasy:11816",
+      "name": "Aitor Fraga",
+      "normalized_name": "aitor_fraga",
+      "position": "POR",
+      "source_id": "11816",
+      "team": "Real Sociedad",
+      "team_source_id": "16"
+    },
+    {
+      "id": "futbolfantasy:11830",
+      "name": "Dean Huijsen",
+      "normalized_name": "dean_huijsen",
+      "position": "DEF",
+      "source_id": "11830",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:11857",
+      "name": "Matteo Prati",
+      "normalized_name": "matteo_prati",
+      "position": "MED",
+      "source_id": "11857",
+      "team": "Racing",
+      "team_source_id": "42"
+    },
+    {
+      "id": "futbolfantasy:11861",
+      "name": "Dani Martínez",
+      "normalized_name": "dani_martinez",
+      "position": "DEF",
+      "source_id": "11861",
+      "team": "Atlético",
+      "team_source_id": "2"
+    },
+    {
+      "id": "futbolfantasy:11863",
+      "name": "Álex Calatrava",
+      "normalized_name": "alex_calatrava",
+      "position": "DEL",
+      "source_id": "11863",
+      "team": "Espanyol",
+      "team_source_id": "7"
+    },
+    {
+      "id": "futbolfantasy:11905",
+      "name": "Saba Sazonov",
+      "normalized_name": "saba_sazonov",
+      "position": "DEF",
+      "source_id": "11905",
+      "team": "Getafe",
+      "team_source_id": "8"
+    },
+    {
+      "id": "futbolfantasy:11916",
+      "name": "Andrés García",
+      "normalized_name": "andres_garcia",
+      "position": "MED",
+      "source_id": "11916",
+      "team": "Getafe",
+      "team_source_id": "8"
+    },
+    {
+      "id": "futbolfantasy:11983",
+      "name": "Álvaro Djaló",
+      "normalized_name": "alvaro_djalo",
+      "position": "DEL",
+      "source_id": "11983",
+      "team": "Athletic",
+      "team_source_id": "1"
+    },
+    {
+      "id": "futbolfantasy:11998",
+      "name": "Petar Ratkov",
+      "normalized_name": "petar_ratkov",
+      "position": "DEL",
+      "source_id": "11998",
+      "team": "Levante",
+      "team_source_id": "10"
+    },
+    {
+      "id": "futbolfantasy:12025",
+      "name": "Filip Ugrinic",
+      "normalized_name": "filip_ugrinic",
+      "position": "MED",
+      "source_id": "12025",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:12042",
+      "name": "Chidera Ejuke",
+      "normalized_name": "chidera_ejuke",
+      "position": "DEL",
+      "source_id": "12042",
+      "team": "Sevilla",
+      "team_source_id": "17"
+    },
+    {
+      "id": "futbolfantasy:12139",
+      "name": "Georges Mikautadze",
+      "normalized_name": "georges_mikautadze",
+      "position": "DEL",
+      "source_id": "12139",
+      "team": "Villarreal",
+      "team_source_id": "22"
+    },
+    {
+      "id": "futbolfantasy:12354",
+      "name": "Logan Costa",
+      "normalized_name": "logan_costa",
+      "position": "DEF",
+      "source_id": "12354",
+      "team": "Villarreal",
+      "team_source_id": "22"
+    },
+    {
+      "id": "futbolfantasy:12358",
+      "name": "Gabriel Suazo",
+      "normalized_name": "gabriel_suazo",
+      "position": "DEF",
+      "source_id": "12358",
+      "team": "Sevilla",
+      "team_source_id": "17"
+    },
+    {
+      "id": "futbolfantasy:12420",
+      "name": "Abdoulaye Faye",
+      "normalized_name": "abdoulaye_faye",
+      "position": "DEF",
+      "source_id": "12420",
+      "team": "Celta",
+      "team_source_id": "5"
+    },
+    {
+      "id": "futbolfantasy:12453",
+      "name": "Asier Osambela",
+      "normalized_name": "asier_osambela",
+      "position": "MED",
+      "source_id": "12453",
+      "team": "Osasuna",
+      "team_source_id": "13"
+    },
+    {
+      "id": "futbolfantasy:12475",
+      "name": "Adrián Niño",
+      "normalized_name": "adrian_nino",
+      "position": "DEL",
+      "source_id": "12475",
+      "team": "Málaga",
+      "team_source_id": "11"
+    },
+    {
+      "id": "futbolfantasy:12479",
+      "name": "Rúben Montero",
+      "normalized_name": "ruben_montero",
+      "position": "POR",
+      "source_id": "12479",
+      "team": "Alavés",
+      "team_source_id": "28"
+    },
+    {
+      "id": "futbolfantasy:12534",
+      "name": "Javi Rodríguez",
+      "normalized_name": "javi_rodriguez",
+      "position": "DEF",
+      "source_id": "12534",
+      "team": "Celta",
+      "team_source_id": "5"
+    },
+    {
+      "id": "futbolfantasy:12538",
+      "name": "Jon Aramburu",
+      "normalized_name": "jon_aramburu",
+      "position": "DEF",
+      "source_id": "12538",
+      "team": "Real Sociedad",
+      "team_source_id": "16"
+    },
+    {
+      "id": "futbolfantasy:12539",
+      "name": "Joselu Pérez",
+      "normalized_name": "joselu_perez",
+      "position": "DEL",
+      "source_id": "12539",
+      "team": "Getafe",
+      "team_source_id": "8"
+    },
+    {
+      "id": "futbolfantasy:12590",
+      "name": "Ibrahima Sow",
+      "normalized_name": "ibrahima_sow",
+      "position": "DEL",
+      "source_id": "12590",
+      "team": "Sevilla",
+      "team_source_id": "17"
+    },
+    {
+      "id": "futbolfantasy:12594",
+      "name": "David Otorbi",
+      "normalized_name": "david_otorbi",
+      "position": "DEL",
+      "source_id": "12594",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:12598",
+      "name": "Dani Requena",
+      "normalized_name": "dani_requena",
+      "position": "MED",
+      "source_id": "12598",
+      "team": "Levante",
+      "team_source_id": "10"
+    },
+    {
+      "id": "futbolfantasy:12605",
+      "name": "Mikel Jauregizar",
+      "normalized_name": "mikel_jauregizar",
+      "position": "MED",
+      "source_id": "12605",
+      "team": "Athletic",
+      "team_source_id": "1"
+    },
+    {
+      "id": "futbolfantasy:12608",
+      "name": "Rayane Belaid",
+      "normalized_name": "rayane_belaid",
+      "position": "DEL",
+      "source_id": "12608",
+      "team": "Rayo",
+      "team_source_id": "14"
+    },
+    {
+      "id": "futbolfantasy:12639",
+      "name": "Raúl Asencio",
+      "normalized_name": "raul_asencio",
+      "position": "DEF",
+      "source_id": "12639",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:12641",
+      "name": "Gerard Martín",
+      "normalized_name": "gerard_martin",
+      "position": "DEF",
+      "source_id": "12641",
+      "team": "Barcelona",
+      "team_source_id": "3"
+    },
+    {
+      "id": "futbolfantasy:12647",
+      "name": "Johnny Cardoso",
+      "normalized_name": "johnny_cardoso",
+      "position": "MED",
+      "source_id": "12647",
+      "team": "Atlético",
+      "team_source_id": "2"
+    },
+    {
+      "id": "futbolfantasy:12651",
+      "name": "Augusto Batalla",
+      "normalized_name": "augusto_batalla",
+      "position": "POR",
+      "source_id": "12651",
+      "team": "Rayo",
+      "team_source_id": "14"
+    },
+    {
+      "id": "futbolfantasy:12694",
+      "name": "Iñaki Rupérez",
+      "normalized_name": "inaki_ruperez",
+      "position": "DEF",
+      "source_id": "12694",
+      "team": "Real Sociedad",
+      "team_source_id": "16"
+    },
+    {
+      "id": "futbolfantasy:12695",
+      "name": "Djordjije Medenica",
+      "normalized_name": "djordjije_medenica",
+      "position": "POR",
+      "source_id": "12695",
+      "team": "Getafe",
+      "team_source_id": "8"
+    },
+    {
+      "id": "futbolfantasy:12823",
+      "name": "Iñigo Arguibide",
+      "normalized_name": "inigo_arguibide",
+      "position": "DEF",
+      "source_id": "12823",
+      "team": "Osasuna",
+      "team_source_id": "13"
+    },
+    {
+      "id": "futbolfantasy:12860",
+      "name": "Pau Navarro",
+      "normalized_name": "pau_navarro",
+      "position": "DEF",
+      "source_id": "12860",
+      "team": "Villarreal",
+      "team_source_id": "22"
+    },
+    {
+      "id": "futbolfantasy:12870",
+      "name": "Carlos Espí",
+      "normalized_name": "carlos_espi",
+      "position": "DEL",
+      "source_id": "12870",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:12878",
+      "name": "Buba Sangaré",
+      "normalized_name": "buba_sangare",
+      "position": "DEF",
+      "source_id": "12878",
+      "team": "Elche",
+      "team_source_id": "21"
+    },
+    {
+      "id": "futbolfantasy:12879",
+      "name": "Jorge Cabello",
+      "normalized_name": "jorge_cabello",
+      "position": "DEF",
+      "source_id": "12879",
+      "team": "Levante",
+      "team_source_id": "10"
+    },
+    {
+      "id": "futbolfantasy:12883",
+      "name": "Ian Forns",
+      "normalized_name": "ian_forns",
+      "position": "DEF",
+      "source_id": "12883",
+      "team": "Betis",
+      "team_source_id": "4"
+    },
+    {
+      "id": "futbolfantasy:12891",
+      "name": "Llorenç Serred",
+      "normalized_name": "llorenc_serred",
+      "position": "POR",
+      "source_id": "12891",
+      "team": "Espanyol",
+      "team_source_id": "7"
+    },
+    {
+      "id": "futbolfantasy:12917",
+      "name": "Alberto Risco",
+      "normalized_name": "alberto_risco",
+      "position": "MED",
+      "source_id": "12917",
+      "team": "Getafe",
+      "team_source_id": "8"
+    },
+    {
+      "id": "futbolfantasy:12918",
+      "name": "Rafel Bauzà",
+      "normalized_name": "rafel_bauza",
+      "position": "MED",
+      "source_id": "12918",
+      "team": "Espanyol",
+      "team_source_id": "7"
+    },
+    {
+      "id": "futbolfantasy:12922",
+      "name": "Adam Boayar",
+      "normalized_name": "adam_boayar",
+      "position": "MED",
+      "source_id": "12922",
+      "team": "Elche",
+      "team_source_id": "21"
+    },
+    {
+      "id": "futbolfantasy:12925",
+      "name": "Aitor Mañas",
+      "normalized_name": "aitor_manas",
+      "position": "DEL",
+      "source_id": "12925",
+      "team": "Alavés",
+      "team_source_id": "28"
+    },
+    {
+      "id": "futbolfantasy:12993",
+      "name": "Álvaro García",
+      "normalized_name": "alvaro_garcia",
+      "position": "DEF",
+      "source_id": "12993",
+      "team": "Villarreal",
+      "team_source_id": "22"
+    },
+    {
+      "id": "futbolfantasy:13035",
+      "name": "Javi Rueda",
+      "normalized_name": "javi_rueda",
+      "position": "DEF",
+      "source_id": "13035",
+      "team": "Celta",
+      "team_source_id": "5"
+    },
+    {
+      "id": "futbolfantasy:13036",
+      "name": "Yoel Lago",
+      "normalized_name": "yoel_lago",
+      "position": "DEF",
+      "source_id": "13036",
+      "team": "Celta",
+      "team_source_id": "5"
+    },
+    {
+      "id": "futbolfantasy:13040",
+      "name": "Jon Balda",
+      "normalized_name": "jon_balda",
+      "position": "DEF",
+      "source_id": "13040",
+      "team": "Real Sociedad",
+      "team_source_id": "16"
+    },
+    {
+      "id": "futbolfantasy:13119",
+      "name": "Vanja Drkusic",
+      "normalized_name": "vanja_drkusic",
+      "position": "DEF",
+      "source_id": "13119",
+      "team": "Espanyol",
+      "team_source_id": "7"
+    },
+    {
+      "id": "futbolfantasy:13145",
+      "name": "Paco Cortés",
+      "normalized_name": "paco_cortes",
+      "position": "DEL",
+      "source_id": "13145",
+      "team": "Levante",
+      "team_source_id": "10"
+    },
+    {
+      "id": "futbolfantasy:132",
+      "name": "Sergio Canales",
+      "normalized_name": "sergio_canales",
+      "position": "MED",
+      "source_id": "132",
+      "team": "Racing",
+      "team_source_id": "42"
+    },
+    {
+      "id": "futbolfantasy:13440",
+      "name": "Tani Oluwaseyi",
+      "normalized_name": "tani_oluwaseyi",
+      "position": "DEL",
+      "source_id": "13440",
+      "team": "Villarreal",
+      "team_source_id": "22"
+    },
+    {
+      "id": "futbolfantasy:13564",
+      "name": "Endrick",
+      "normalized_name": "endrick",
+      "position": "DEL",
+      "source_id": "13564",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:13608",
+      "name": "Sebastián Cáceres",
+      "normalized_name": "sebastian_caceres",
+      "position": "DEF",
+      "source_id": "13608",
+      "team": "Celta",
+      "team_source_id": "5"
+    },
+    {
+      "id": "futbolfantasy:13780",
+      "name": "Christantus Uche",
+      "normalized_name": "christantus_uche",
+      "position": "DEL",
+      "source_id": "13780",
+      "team": "Getafe",
+      "team_source_id": "8"
+    },
+    {
+      "id": "futbolfantasy:13801",
+      "name": "Pelayo Fernández",
+      "normalized_name": "pelayo_fernandez",
+      "position": "DEF",
+      "source_id": "13801",
+      "team": "Rayo",
+      "team_source_id": "14"
+    },
+    {
+      "id": "futbolfantasy:13808",
+      "name": "Miguel Román",
+      "normalized_name": "miguel_roman",
+      "position": "MED",
+      "source_id": "13808",
+      "team": "Celta",
+      "team_source_id": "5"
+    },
+    {
+      "id": "futbolfantasy:13812",
+      "name": "Sergio José Lozano",
+      "normalized_name": "sergio_jose_lozano",
+      "position": "DEF",
+      "source_id": "13812",
+      "team": "Rayo",
+      "team_source_id": "14"
+    },
+    {
+      "id": "futbolfantasy:13813",
+      "name": "Adrián Molina",
+      "normalized_name": "adrian_molina",
+      "position": "POR",
+      "source_id": "13813",
+      "team": "Rayo",
+      "team_source_id": "14"
+    },
+    {
+      "id": "futbolfantasy:13814",
+      "name": "Marco de la Sías",
+      "normalized_name": "marco_de_la_sias",
+      "position": "DEF",
+      "source_id": "13814",
+      "team": "Rayo",
+      "team_source_id": "14"
+    },
+    {
+      "id": "futbolfantasy:13822",
+      "name": "Pablo García",
+      "normalized_name": "pablo_garcia",
+      "position": "DEL",
+      "source_id": "13822",
+      "team": "Racing",
+      "team_source_id": "42"
+    },
+    {
+      "id": "futbolfantasy:13830",
+      "name": "Maroan Sannadi",
+      "normalized_name": "maroan_sannadi",
+      "position": "DEL",
+      "source_id": "13830",
+      "team": "Athletic",
+      "team_source_id": "1"
+    },
+    {
+      "id": "futbolfantasy:13864",
+      "name": "Marc Bernal",
+      "normalized_name": "marc_bernal",
+      "position": "MED",
+      "source_id": "13864",
+      "team": "Barcelona",
+      "team_source_id": "3"
+    },
+    {
+      "id": "futbolfantasy:13865",
+      "name": "Nico Guillén",
+      "normalized_name": "nico_guillen",
+      "position": "MED",
+      "source_id": "13865",
+      "team": "Sevilla",
+      "team_source_id": "17"
+    },
+    {
+      "id": "futbolfantasy:13871",
+      "name": "Taufik Seidu",
+      "normalized_name": "taufik_seidu",
+      "position": "MED",
+      "source_id": "13871",
+      "team": "Atlético",
+      "team_source_id": "2"
+    },
+    {
+      "id": "futbolfantasy:13876",
+      "name": "Diego Ferrer",
+      "normalized_name": "diego_ferrer",
+      "position": "POR",
+      "source_id": "13876",
+      "team": "Getafe",
+      "team_source_id": "8"
+    },
+    {
+      "id": "futbolfantasy:13877",
+      "name": "Jiri Letácek",
+      "normalized_name": "jiri_letacek",
+      "position": "POR",
+      "source_id": "13877",
+      "team": "Getafe",
+      "team_source_id": "8"
+    },
+    {
+      "id": "futbolfantasy:13883",
+      "name": "Martim Neto",
+      "normalized_name": "martim_neto",
+      "position": "MED",
+      "source_id": "13883",
+      "team": "Elche",
+      "team_source_id": "21"
+    },
+    {
+      "id": "futbolfantasy:13888",
+      "name": "Andrés Castrín",
+      "normalized_name": "andres_castrin",
+      "position": "DEF",
+      "source_id": "13888",
+      "team": "Sevilla",
+      "team_source_id": "17"
+    },
+    {
+      "id": "futbolfantasy:13970",
+      "name": "Dani Barcia",
+      "normalized_name": "dani_barcia",
+      "position": "DEF",
+      "source_id": "13970",
+      "team": "Deportivo",
+      "team_source_id": "6"
+    },
+    {
+      "id": "futbolfantasy:13972",
+      "name": "Diego Villares",
+      "normalized_name": "diego_villares",
+      "position": "MED",
+      "source_id": "13972",
+      "team": "Deportivo",
+      "team_source_id": "6"
+    },
+    {
+      "id": "futbolfantasy:13973",
+      "name": "Rubén López",
+      "normalized_name": "ruben_lopez",
+      "position": "MED",
+      "source_id": "13973",
+      "team": "Deportivo",
+      "team_source_id": "6"
+    },
+    {
+      "id": "futbolfantasy:13974",
+      "name": "Yeremay Hernández",
+      "normalized_name": "yeremay_hernandez",
+      "position": "DEL",
+      "source_id": "13974",
+      "team": "Deportivo",
+      "team_source_id": "6"
+    },
+    {
+      "id": "futbolfantasy:13975",
+      "name": "David Mella",
+      "normalized_name": "david_mella",
+      "position": "MED",
+      "source_id": "13975",
+      "team": "Deportivo",
+      "team_source_id": "6"
+    },
+    {
+      "id": "futbolfantasy:13978",
+      "name": "Carlos López",
+      "normalized_name": "carlos_lopez",
+      "position": "POR",
+      "source_id": "13978",
+      "team": "Málaga",
+      "team_source_id": "11"
+    },
+    {
+      "id": "futbolfantasy:13979",
+      "name": "Diego Murillo",
+      "normalized_name": "diego_murillo",
+      "position": "DEF",
+      "source_id": "13979",
+      "team": "Málaga",
+      "team_source_id": "11"
+    },
+    {
+      "id": "futbolfantasy:13982",
+      "name": "Carlos Puga",
+      "normalized_name": "carlos_puga",
+      "position": "DEF",
+      "source_id": "13982",
+      "team": "Málaga",
+      "team_source_id": "11"
+    },
+    {
+      "id": "futbolfantasy:13983",
+      "name": "Izan Merino",
+      "normalized_name": "izan_merino",
+      "position": "MED",
+      "source_id": "13983",
+      "team": "Málaga",
+      "team_source_id": "11"
+    },
+    {
+      "id": "futbolfantasy:13984",
+      "name": "Aarón Ochoa",
+      "normalized_name": "aaron_ochoa",
+      "position": "MED",
+      "source_id": "13984",
+      "team": "Málaga",
+      "team_source_id": "11"
+    },
+    {
+      "id": "futbolfantasy:14004",
+      "name": "Jozhua Vertrouwd",
+      "normalized_name": "jozhua_vertrouwd",
+      "position": "DEF",
+      "source_id": "14004",
+      "team": "Rayo",
+      "team_source_id": "14"
+    },
+    {
+      "id": "futbolfantasy:14016",
+      "name": "Mikel Santos",
+      "normalized_name": "mikel_santos",
+      "position": "POR",
+      "source_id": "14016",
+      "team": "Athletic",
+      "team_source_id": "1"
+    },
+    {
+      "id": "futbolfantasy:14017",
+      "name": "Peio Canales",
+      "normalized_name": "peio_canales",
+      "position": "MED",
+      "source_id": "14017",
+      "team": "Athletic",
+      "team_source_id": "1"
+    },
+    {
+      "id": "futbolfantasy:14019",
+      "name": "Alexis Ciria",
+      "normalized_name": "alexis_ciria",
+      "position": "DEL",
+      "source_id": "14019",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:14020",
+      "name": "Arkaitz Mariezkurrena",
+      "normalized_name": "arkaitz_mariezkurrena",
+      "position": "DEL",
+      "source_id": "14020",
+      "team": "Real Sociedad",
+      "team_source_id": "16"
+    },
+    {
+      "id": "futbolfantasy:14021",
+      "name": "Job Ochieng",
+      "normalized_name": "job_ochieng",
+      "position": "MED",
+      "source_id": "14021",
+      "team": "Real Sociedad",
+      "team_source_id": "16"
+    },
+    {
+      "id": "futbolfantasy:14022",
+      "name": "Alassane Diatta",
+      "normalized_name": "alassane_diatta",
+      "position": "MED",
+      "source_id": "14022",
+      "team": "Villarreal",
+      "team_source_id": "22"
+    },
+    {
+      "id": "futbolfantasy:14024",
+      "name": "Javier Hernández",
+      "normalized_name": "javier_hernandez",
+      "position": "MED",
+      "source_id": "14024",
+      "team": "Espanyol",
+      "team_source_id": "7"
+    },
+    {
+      "id": "futbolfantasy:14034",
+      "name": "Iker Córdoba",
+      "normalized_name": "iker_cordoba",
+      "position": "DEF",
+      "source_id": "14034",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:14036",
+      "name": "Joan Martínez",
+      "normalized_name": "joan_martinez",
+      "position": "DEF",
+      "source_id": "14036",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:14045",
+      "name": "Facundo Garcés",
+      "normalized_name": "facundo_garces",
+      "position": "DEF",
+      "source_id": "14045",
+      "team": "Alavés",
+      "team_source_id": "28"
+    },
+    {
+      "id": "futbolfantasy:14096",
+      "name": "Chupete",
+      "normalized_name": "chupete",
+      "position": "DEL",
+      "source_id": "14096",
+      "team": "Málaga",
+      "team_source_id": "11"
+    },
+    {
+      "id": "futbolfantasy:14097",
+      "name": "Pablo García",
+      "normalized_name": "pablo_garcia",
+      "position": "DEF",
+      "source_id": "14097",
+      "team": "Deportivo",
+      "team_source_id": "6"
+    },
+    {
+      "id": "futbolfantasy:14100",
+      "name": "Raúl Jiménez",
+      "normalized_name": "raul_jimenez",
+      "position": "POR",
+      "source_id": "14100",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:14105",
+      "name": "Jorge Salinas",
+      "normalized_name": "jorge_salinas",
+      "position": "DEF",
+      "source_id": "14105",
+      "team": "Racing",
+      "team_source_id": "42"
+    },
+    {
+      "id": "futbolfantasy:14115",
+      "name": "Matia Barzic",
+      "normalized_name": "matia_barzic",
+      "position": "DEF",
+      "source_id": "14115",
+      "team": "Elche",
+      "team_source_id": "21"
+    },
+    {
+      "id": "futbolfantasy:14118",
+      "name": "Ali Houary",
+      "normalized_name": "ali_houary",
+      "position": "DEL",
+      "source_id": "14118",
+      "team": "Elche",
+      "team_source_id": "21"
+    },
+    {
+      "id": "futbolfantasy:14125",
+      "name": "Luiz Junior",
+      "normalized_name": "luiz_junior",
+      "position": "POR",
+      "source_id": "14125",
+      "team": "Villarreal",
+      "team_source_id": "22"
+    },
+    {
+      "id": "futbolfantasy:14135",
+      "name": "Manu González",
+      "normalized_name": "manu_gonzalez",
+      "position": "POR",
+      "source_id": "14135",
+      "team": "Betis",
+      "team_source_id": "4"
+    },
+    {
+      "id": "futbolfantasy:14155",
+      "name": "Maguette Gueye",
+      "normalized_name": "maguette_gueye",
+      "position": "MED",
+      "source_id": "14155",
+      "team": "Racing",
+      "team_source_id": "42"
+    },
+    {
+      "id": "futbolfantasy:14177",
+      "name": "Andrés Céspedes",
+      "normalized_name": "andres_cespedes",
+      "position": "POR",
+      "source_id": "14177",
+      "team": "Málaga",
+      "team_source_id": "11"
+    },
+    {
+      "id": "futbolfantasy:14183",
+      "name": "Adam Aznou",
+      "normalized_name": "adam_aznou",
+      "position": "DEF",
+      "source_id": "14183",
+      "team": "Málaga",
+      "team_source_id": "11"
+    },
+    {
+      "id": "futbolfantasy:14199",
+      "name": "Couhaib Driouech",
+      "normalized_name": "couhaib_driouech",
+      "position": "DEL",
+      "source_id": "14199",
+      "team": "Celta",
+      "team_source_id": "5"
+    },
+    {
+      "id": "futbolfantasy:14210",
+      "name": "Zaid Romero",
+      "normalized_name": "zaid_romero",
+      "position": "DEF",
+      "source_id": "14210",
+      "team": "Getafe",
+      "team_source_id": "8"
+    },
+    {
+      "id": "futbolfantasy:14377",
+      "name": "Roy Revivo",
+      "normalized_name": "roy_revivo",
+      "position": "DEF",
+      "source_id": "14377",
+      "team": "Elche",
+      "team_source_id": "21"
+    },
+    {
+      "id": "futbolfantasy:14766",
+      "name": "Aitor Crespo",
+      "normalized_name": "aitor_crespo",
+      "position": "DEF",
+      "source_id": "14766",
+      "team": "Racing",
+      "team_source_id": "42"
+    },
+    {
+      "id": "futbolfantasy:14812",
+      "name": "Rubén Gómez",
+      "normalized_name": "ruben_gomez",
+      "position": "POR",
+      "source_id": "14812",
+      "team": "Villarreal",
+      "team_source_id": "22"
+    },
+    {
+      "id": "futbolfantasy:14816",
+      "name": "Jean Ives Valou",
+      "normalized_name": "jean_ives_valou",
+      "position": "DEF",
+      "source_id": "14816",
+      "team": "Getafe",
+      "team_source_id": "8"
+    },
+    {
+      "id": "futbolfantasy:14832",
+      "name": "Albert Niculaesei",
+      "normalized_name": "albert_niculaesei",
+      "position": "DEF",
+      "source_id": "14832",
+      "team": "Elche",
+      "team_source_id": "21"
+    },
+    {
+      "id": "futbolfantasy:14869",
+      "name": "Samu Fernández",
+      "normalized_name": "samu_fernandez",
+      "position": "DEF",
+      "source_id": "14869",
+      "team": "Deportivo",
+      "team_source_id": "6"
+    },
+    {
+      "id": "futbolfantasy:14876",
+      "name": "Kevin Sánchez",
+      "normalized_name": "kevin_sanchez",
+      "position": "DEL",
+      "source_id": "14876",
+      "team": "Deportivo",
+      "team_source_id": "6"
+    },
+    {
+      "id": "futbolfantasy:14881",
+      "name": "Alex Marchal",
+      "normalized_name": "alex_marchal",
+      "position": "MED",
+      "source_id": "14881",
+      "team": "Real Sociedad",
+      "team_source_id": "16"
+    },
+    {
+      "id": "futbolfantasy:14886",
+      "name": "Diego Aguado",
+      "normalized_name": "diego_aguado",
+      "position": "DEF",
+      "source_id": "14886",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:14903",
+      "name": "Hugo de Llanos",
+      "normalized_name": "hugo_de_llanos",
+      "position": "MED",
+      "source_id": "14903",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:14904",
+      "name": "Daniel Yáñez",
+      "normalized_name": "daniel_yanez",
+      "position": "DEL",
+      "source_id": "14904",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:14928",
+      "name": "José Ángel López",
+      "normalized_name": "jose_angel_lopez",
+      "position": "DEF",
+      "source_id": "14928",
+      "team": "Espanyol",
+      "team_source_id": "7"
+    },
+    {
+      "id": "futbolfantasy:14935",
+      "name": "Youssef Enríquez",
+      "normalized_name": "youssef_enriquez",
+      "position": "DEF",
+      "source_id": "14935",
+      "team": "Alavés",
+      "team_source_id": "28"
+    },
+    {
+      "id": "futbolfantasy:14962",
+      "name": "Mario Solórzano",
+      "normalized_name": "mario_solorzano",
+      "position": "MED",
+      "source_id": "14962",
+      "team": "Racing",
+      "team_source_id": "42"
+    },
+    {
+      "id": "futbolfantasy:14979",
+      "name": "Nicolás Valentini",
+      "normalized_name": "nicolas_valentini",
+      "position": "DEF",
+      "source_id": "14979",
+      "team": "Alavés",
+      "team_source_id": "28"
+    },
+    {
+      "id": "futbolfantasy:14980",
+      "name": "Jones El-Abdellaoui",
+      "normalized_name": "jones_el_abdellaoui",
+      "position": "DEL",
+      "source_id": "14980",
+      "team": "Celta",
+      "team_source_id": "5"
+    },
+    {
+      "id": "futbolfantasy:15000",
+      "name": "Pablo López",
+      "normalized_name": "pablo_lopez",
+      "position": "DEL",
+      "source_id": "15000",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:15033",
+      "name": "Simon Eriksson",
+      "normalized_name": "simon_eriksson",
+      "position": "POR",
+      "source_id": "15033",
+      "team": "Racing",
+      "team_source_id": "42"
+    },
+    {
+      "id": "futbolfantasy:15089",
+      "name": "Axel Tape",
+      "normalized_name": "axel_tape",
+      "position": "DEF",
+      "source_id": "15089",
+      "team": "Levante",
+      "team_source_id": "10"
+    },
+    {
+      "id": "futbolfantasy:15127",
+      "name": "Ángel Pérez",
+      "normalized_name": "angel_perez",
+      "position": "DEL",
+      "source_id": "15127",
+      "team": "Alavés",
+      "team_source_id": "28"
+    },
+    {
+      "id": "futbolfantasy:15133",
+      "name": "Grégoire Swiderski",
+      "normalized_name": "gregoire_swiderski",
+      "position": "POR",
+      "source_id": "15133",
+      "team": "Alavés",
+      "team_source_id": "28"
+    },
+    {
+      "id": "futbolfantasy:15135",
+      "name": "Pol Fortuny",
+      "normalized_name": "pol_fortuny",
+      "position": "MED",
+      "source_id": "15135",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:15164",
+      "name": "Zakaria Eddahchouri",
+      "normalized_name": "zakaria_eddahchouri",
+      "position": "DEL",
+      "source_id": "15164",
+      "team": "Deportivo",
+      "team_source_id": "6"
+    },
+    {
+      "id": "futbolfantasy:15227",
+      "name": "Mario Rivas",
+      "normalized_name": "mario_rivas",
+      "position": "DEF",
+      "source_id": "15227",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:15273",
+      "name": "Luken Beitia",
+      "normalized_name": "luken_beitia",
+      "position": "DEF",
+      "source_id": "15273",
+      "team": "Real Sociedad",
+      "team_source_id": "16"
+    },
+    {
+      "id": "futbolfantasy:15316",
+      "name": "Roger Hinojo",
+      "normalized_name": "roger_hinojo",
+      "position": "DEF",
+      "source_id": "15316",
+      "team": "Espanyol",
+      "team_source_id": "7"
+    },
+    {
+      "id": "futbolfantasy:15336",
+      "name": "Rafa Rodríguez",
+      "normalized_name": "rafa_rodriguez",
+      "position": "MED",
+      "source_id": "15336",
+      "team": "Málaga",
+      "team_source_id": "11"
+    },
+    {
+      "id": "futbolfantasy:15342",
+      "name": "Yan Diomande",
+      "normalized_name": "yan_diomande",
+      "position": "DEL",
+      "source_id": "15342",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:15344",
+      "name": "Rafa Garrido",
+      "normalized_name": "rafa_garrido",
+      "position": "DEF",
+      "source_id": "15344",
+      "team": "Málaga",
+      "team_source_id": "11"
+    },
+    {
+      "id": "futbolfantasy:15351",
+      "name": "Jonathan Asp Jensen",
+      "normalized_name": "jonathan_asp_jensen",
+      "position": "MED",
+      "source_id": "15351",
+      "team": "Deportivo",
+      "team_source_id": "6"
+    },
+    {
+      "id": "futbolfantasy:15409",
+      "name": "Alejandro Rego",
+      "normalized_name": "alejandro_rego",
+      "position": "DEF",
+      "source_id": "15409",
+      "team": "Athletic",
+      "team_source_id": "1"
+    },
+    {
+      "id": "futbolfantasy:15417",
+      "name": "Angel Recio",
+      "normalized_name": "angel_recio",
+      "position": "DEF",
+      "source_id": "15417",
+      "team": "Málaga",
+      "team_source_id": "11"
+    },
+    {
+      "id": "futbolfantasy:15422",
+      "name": "Salvi Esquivel",
+      "normalized_name": "salvi_esquivel",
+      "position": "POR",
+      "source_id": "15422",
+      "team": "Atlético",
+      "team_source_id": "2"
+    },
+    {
+      "id": "futbolfantasy:15423",
+      "name": "Lander Pinillos",
+      "normalized_name": "lander_pinillos",
+      "position": "MED",
+      "source_id": "15423",
+      "team": "Alavés",
+      "team_source_id": "28"
+    },
+    {
+      "id": "futbolfantasy:15505",
+      "name": "Federico Redondo",
+      "normalized_name": "federico_redondo",
+      "position": "MED",
+      "source_id": "15505",
+      "team": "Elche",
+      "team_source_id": "21"
+    },
+    {
+      "id": "futbolfantasy:15572",
+      "name": "Obed Vargas",
+      "normalized_name": "obed_vargas",
+      "position": "MED",
+      "source_id": "15572",
+      "team": "Atlético",
+      "team_source_id": "2"
+    },
+    {
+      "id": "futbolfantasy:1566",
+      "name": "Aissa Mandi",
+      "normalized_name": "aissa_mandi",
+      "position": "DEF",
+      "source_id": "1566",
+      "team": "Levante",
+      "team_source_id": "10"
+    },
+    {
+      "id": "futbolfantasy:15696",
+      "name": "Nelson Deossa",
+      "normalized_name": "nelson_deossa",
+      "position": "MED",
+      "source_id": "15696",
+      "team": "Betis",
+      "team_source_id": "4"
+    },
+    {
+      "id": "futbolfantasy:15736",
+      "name": "Facundo Bernal",
+      "normalized_name": "facundo_bernal",
+      "position": "MED",
+      "source_id": "15736",
+      "team": "Betis",
+      "team_source_id": "4"
+    },
+    {
+      "id": "futbolfantasy:15928",
+      "name": "Aliou Dieng",
+      "normalized_name": "aliou_dieng",
+      "position": "MED",
+      "source_id": "15928",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:15944",
+      "name": "Mamadou Sarr",
+      "normalized_name": "mamadou_sarr",
+      "position": "DEF",
+      "source_id": "15944",
+      "team": "Real Sociedad",
+      "team_source_id": "16"
+    },
+    {
+      "id": "futbolfantasy:15957",
+      "name": "Gabriel Moscardo",
+      "normalized_name": "gabriel_moscardo",
+      "position": "MED",
+      "source_id": "15957",
+      "team": "Espanyol",
+      "team_source_id": "7"
+    },
+    {
+      "id": "futbolfantasy:15961",
+      "name": "Jesús Fortea",
+      "normalized_name": "jesus_fortea",
+      "position": "DEF",
+      "source_id": "15961",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:16004",
+      "name": "Davinchi",
+      "normalized_name": "davinchi",
+      "position": "DEF",
+      "source_id": "16004",
+      "team": "Getafe",
+      "team_source_id": "8"
+    },
+    {
+      "id": "futbolfantasy:16014",
+      "name": "Antonio Martínez Bastida",
+      "normalized_name": "antonio_martinez_bastida",
+      "position": "MED",
+      "source_id": "16014",
+      "team": "Elche",
+      "team_source_id": "21"
+    },
+    {
+      "id": "futbolfantasy:16017",
+      "name": "Alejandro Panach",
+      "normalized_name": "alejandro_panach",
+      "position": "DEF",
+      "source_id": "16017",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:16018",
+      "name": "Aimar Blázquez",
+      "normalized_name": "aimar_blazquez",
+      "position": "DEL",
+      "source_id": "16018",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:16020",
+      "name": "Nacho Pérez",
+      "normalized_name": "nacho_perez",
+      "position": "DEF",
+      "source_id": "16020",
+      "team": "Levante",
+      "team_source_id": "10"
+    },
+    {
+      "id": "futbolfantasy:16099",
+      "name": "Lucas Noubi",
+      "normalized_name": "lucas_noubi",
+      "position": "DEF",
+      "source_id": "16099",
+      "team": "Deportivo",
+      "team_source_id": "6"
+    },
+    {
+      "id": "futbolfantasy:16146",
+      "name": "Samu Becerra",
+      "normalized_name": "samu_becerra",
+      "position": "MED",
+      "source_id": "16146",
+      "team": "Rayo",
+      "team_source_id": "14"
+    },
+    {
+      "id": "futbolfantasy:16147",
+      "name": "Iván Alonso",
+      "normalized_name": "ivan_alonso",
+      "position": "DEL",
+      "source_id": "16147",
+      "team": "Rayo",
+      "team_source_id": "14"
+    },
+    {
+      "id": "futbolfantasy:16149",
+      "name": "Moha Hamdoune",
+      "normalized_name": "moha_hamdoune",
+      "position": "MED",
+      "source_id": "16149",
+      "team": "Getafe",
+      "team_source_id": "8"
+    },
+    {
+      "id": "futbolfantasy:16154",
+      "name": "José Antonio Morante",
+      "normalized_name": "jose_antonio_morante",
+      "position": "DEL",
+      "source_id": "16154",
+      "team": "Betis",
+      "team_source_id": "4"
+    },
+    {
+      "id": "futbolfantasy:16155",
+      "name": "Theo Folgado",
+      "normalized_name": "theo_folgado",
+      "position": "POR",
+      "source_id": "16155",
+      "team": "Real Sociedad",
+      "team_source_id": "16"
+    },
+    {
+      "id": "futbolfantasy:16156",
+      "name": "Óscar Marcos",
+      "normalized_name": "oscar_marcos",
+      "position": "MED",
+      "source_id": "16156",
+      "team": "Celta",
+      "team_source_id": "5"
+    },
+    {
+      "id": "futbolfantasy:16158",
+      "name": "Mauro Echegoyen",
+      "normalized_name": "mauro_echegoyen",
+      "position": "MED",
+      "source_id": "16158",
+      "team": "Osasuna",
+      "team_source_id": "13"
+    },
+    {
+      "id": "futbolfantasy:16171",
+      "name": "Juan Hernández",
+      "normalized_name": "juan_hernandez",
+      "position": "MED",
+      "source_id": "16171",
+      "team": "Barcelona",
+      "team_source_id": "3"
+    },
+    {
+      "id": "futbolfantasy:16186",
+      "name": "Mikel Rodriguez",
+      "normalized_name": "mikel_rodriguez",
+      "position": "MED",
+      "source_id": "16186",
+      "team": "Alavés",
+      "team_source_id": "28"
+    },
+    {
+      "id": "futbolfantasy:16198",
+      "name": "Edu Altozano",
+      "normalized_name": "edu_altozano",
+      "position": "MED",
+      "source_id": "16198",
+      "team": "Sevilla",
+      "team_source_id": "17"
+    },
+    {
+      "id": "futbolfantasy:16201",
+      "name": "Mahamoud Barry",
+      "normalized_name": "mahamoud_barry",
+      "position": "MED",
+      "source_id": "16201",
+      "team": "Villarreal",
+      "team_source_id": "22"
+    },
+    {
+      "id": "futbolfantasy:16202",
+      "name": "Tyrhys Dolan",
+      "normalized_name": "tyrhys_dolan",
+      "position": "DEL",
+      "source_id": "16202",
+      "team": "Espanyol",
+      "team_source_id": "7"
+    },
+    {
+      "id": "futbolfantasy:16203",
+      "name": "Valentín Gómez",
+      "normalized_name": "valentin_gomez",
+      "position": "DEF",
+      "source_id": "16203",
+      "team": "Betis",
+      "team_source_id": "4"
+    },
+    {
+      "id": "futbolfantasy:16229",
+      "name": "Johaneko Louis-Jean",
+      "normalized_name": "johaneko_louis_jean",
+      "position": "DEF",
+      "source_id": "16229",
+      "team": "Athletic",
+      "team_source_id": "1"
+    },
+    {
+      "id": "futbolfantasy:16236",
+      "name": "Miguel Sierra",
+      "normalized_name": "miguel_sierra",
+      "position": "DEL",
+      "source_id": "16236",
+      "team": "Sevilla",
+      "team_source_id": "17"
+    },
+    {
+      "id": "futbolfantasy:16237",
+      "name": "Thiago Pitarch",
+      "normalized_name": "thiago_pitarch",
+      "position": "MED",
+      "source_id": "16237",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:16247",
+      "name": "Lander Astiazaran",
+      "normalized_name": "lander_astiazaran",
+      "position": "MED",
+      "source_id": "16247",
+      "team": "R. Sociedad B",
+      "team_source_id": "671"
+    },
+    {
+      "id": "futbolfantasy:16262",
+      "name": "Sergio Martínez",
+      "normalized_name": "sergio_martinez",
+      "position": "MED",
+      "source_id": "16262",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:16286",
+      "name": "Dani Lorenzo",
+      "normalized_name": "dani_lorenzo",
+      "position": "MED",
+      "source_id": "16286",
+      "team": "Málaga",
+      "team_source_id": "11"
+    },
+    {
+      "id": "futbolfantasy:16287",
+      "name": "Iván Corralejo",
+      "normalized_name": "ivan_corralejo",
+      "position": "MED",
+      "source_id": "16287",
+      "team": "Betis",
+      "team_source_id": "4"
+    },
+    {
+      "id": "futbolfantasy:16308",
+      "name": "Clemens Riedel",
+      "normalized_name": "clemens_riedel",
+      "position": "DEF",
+      "source_id": "16308",
+      "team": "Espanyol",
+      "team_source_id": "7"
+    },
+    {
+      "id": "futbolfantasy:16317",
+      "name": "Marcos Navarro",
+      "normalized_name": "marcos_navarro",
+      "position": "DEF",
+      "source_id": "16317",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:16349",
+      "name": "Adrián Pérez",
+      "normalized_name": "adrian_perez",
+      "position": "DEL",
+      "source_id": "16349",
+      "team": "Athletic",
+      "team_source_id": "1"
+    },
+    {
+      "id": "futbolfantasy:16350",
+      "name": "Iker Monreal",
+      "normalized_name": "iker_monreal",
+      "position": "DEF",
+      "source_id": "16350",
+      "team": "Athletic",
+      "team_source_id": "1"
+    },
+    {
+      "id": "futbolfantasy:16359",
+      "name": "Laro Gómez",
+      "normalized_name": "laro_gomez",
+      "position": "POR",
+      "source_id": "16359",
+      "team": "Racing",
+      "team_source_id": "42"
+    },
+    {
+      "id": "futbolfantasy:16723",
+      "name": "Eder Aller",
+      "normalized_name": "eder_aller",
+      "position": "POR",
+      "source_id": "16723",
+      "team": "Barcelona",
+      "team_source_id": "3"
+    },
+    {
+      "id": "futbolfantasy:16735",
+      "name": "Javi Navarro",
+      "normalized_name": "javi_navarro",
+      "position": "POR",
+      "source_id": "16735",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:16758",
+      "name": "Carlos Ballestero",
+      "normalized_name": "carlos_ballestero",
+      "position": "DEF",
+      "source_id": "16758",
+      "team": "Alavés",
+      "team_source_id": "28"
+    },
+    {
+      "id": "futbolfantasy:16760",
+      "name": "Pedro Felipe",
+      "normalized_name": "pedro_felipe",
+      "position": "DEF",
+      "source_id": "16760",
+      "team": "Racing",
+      "team_source_id": "42"
+    },
+    {
+      "id": "futbolfantasy:16763",
+      "name": "Hugo Ríos",
+      "normalized_name": "hugo_rios",
+      "position": "POR",
+      "source_id": "16763",
+      "team": "Deportivo",
+      "team_source_id": "6"
+    },
+    {
+      "id": "futbolfantasy:16764",
+      "name": "Quique Teijo",
+      "normalized_name": "quique_teijo",
+      "position": "DEF",
+      "source_id": "16764",
+      "team": "Deportivo",
+      "team_source_id": "6"
+    },
+    {
+      "id": "futbolfantasy:16765",
+      "name": "Xavi Espart",
+      "normalized_name": "xavi_espart",
+      "position": "DEF",
+      "source_id": "16765",
+      "team": "Barcelona",
+      "team_source_id": "3"
+    },
+    {
+      "id": "futbolfantasy:16767",
+      "name": "David Delgado",
+      "normalized_name": "david_delgado",
+      "position": "DEF",
+      "source_id": "16767",
+      "team": "Elche",
+      "team_source_id": "21"
+    },
+    {
+      "id": "futbolfantasy:16797",
+      "name": "Damián Canedo",
+      "normalized_name": "damian_canedo",
+      "position": "DEF",
+      "source_id": "16797",
+      "team": "Deportivo",
+      "team_source_id": "6"
+    },
+    {
+      "id": "futbolfantasy:16798",
+      "name": "Marc Jurado",
+      "normalized_name": "marc_jurado",
+      "position": "DEF",
+      "source_id": "16798",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:16801",
+      "name": "Pablo Meixús",
+      "normalized_name": "pablo_meixus",
+      "position": "DEF",
+      "source_id": "16801",
+      "team": "Celta",
+      "team_source_id": "5"
+    },
+    {
+      "id": "futbolfantasy:16802",
+      "name": "Andrés Antañón",
+      "normalized_name": "andres_antanon",
+      "position": "MED",
+      "source_id": "16802",
+      "team": "Celta",
+      "team_source_id": "5"
+    },
+    {
+      "id": "futbolfantasy:16803",
+      "name": "Hugo Burcio",
+      "normalized_name": "hugo_burcio",
+      "position": "MED",
+      "source_id": "16803",
+      "team": "Celta",
+      "team_source_id": "5"
+    },
+    {
+      "id": "futbolfantasy:16809",
+      "name": "Ferran Gómez",
+      "normalized_name": "ferran_gomez",
+      "position": "MED",
+      "source_id": "16809",
+      "team": "Espanyol",
+      "team_source_id": "7"
+    },
+    {
+      "id": "futbolfantasy:16810",
+      "name": "Selton Sánchez",
+      "normalized_name": "selton_sanchez",
+      "position": "MED",
+      "source_id": "16810",
+      "team": "Athletic",
+      "team_source_id": "1"
+    },
+    {
+      "id": "futbolfantasy:16818",
+      "name": "Asier Hierro",
+      "normalized_name": "asier_hierro",
+      "position": "DEL",
+      "source_id": "16818",
+      "team": "Athletic",
+      "team_source_id": "1"
+    },
+    {
+      "id": "futbolfantasy:16863",
+      "name": "Bil Nsongo",
+      "normalized_name": "bil_nsongo",
+      "position": "DEL",
+      "source_id": "16863",
+      "team": "Deportivo",
+      "team_source_id": "6"
+    },
+    {
+      "id": "futbolfantasy:16867",
+      "name": "Ibai Aguirre",
+      "normalized_name": "ibai_aguirre",
+      "position": "MED",
+      "source_id": "16867",
+      "team": "R. Sociedad B",
+      "team_source_id": "671"
+    },
+    {
+      "id": "futbolfantasy:16873",
+      "name": "Ángel Arcos",
+      "normalized_name": "angel_arcos",
+      "position": "MED",
+      "source_id": "16873",
+      "team": "Celta",
+      "team_source_id": "5"
+    },
+    {
+      "id": "futbolfantasy:16874",
+      "name": "Joel Fontanet",
+      "normalized_name": "joel_fontanet",
+      "position": "DEF",
+      "source_id": "16874",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:16917",
+      "name": "Jorge Montes",
+      "normalized_name": "jorge_montes",
+      "position": "DEF",
+      "source_id": "16917",
+      "team": "Getafe",
+      "team_source_id": "8"
+    },
+    {
+      "id": "futbolfantasy:16920",
+      "name": "Izei Hernández",
+      "normalized_name": "izei_hernandez",
+      "position": "MED",
+      "source_id": "16920",
+      "team": "Alavés",
+      "team_source_id": "28"
+    },
+    {
+      "id": "futbolfantasy:16922",
+      "name": "Gorka Carrera",
+      "normalized_name": "gorka_carrera",
+      "position": "DEL",
+      "source_id": "16922",
+      "team": "Real Sociedad",
+      "team_source_id": "16"
+    },
+    {
+      "id": "futbolfantasy:16924",
+      "name": "Huseini Nakoha",
+      "normalized_name": "huseini_nakoha",
+      "position": "DEF",
+      "source_id": "16924",
+      "team": "Levante",
+      "team_source_id": "10"
+    },
+    {
+      "id": "futbolfantasy:16931",
+      "name": "Xanet Oláiz",
+      "normalized_name": "xanet_olaiz",
+      "position": "DEF",
+      "source_id": "16931",
+      "team": "Alavés",
+      "team_source_id": "28"
+    },
+    {
+      "id": "futbolfantasy:16933",
+      "name": "Pablo Rosón",
+      "normalized_name": "pablo_roson",
+      "position": "MED",
+      "source_id": "16933",
+      "team": "Levante",
+      "team_source_id": "10"
+    },
+    {
+      "id": "futbolfantasy:16938",
+      "name": "Carlos Macià",
+      "normalized_name": "carlos_macia",
+      "position": "MED",
+      "source_id": "16938",
+      "team": "Villarreal",
+      "team_source_id": "22"
+    },
+    {
+      "id": "futbolfantasy:16940",
+      "name": "Aleksa Puric",
+      "normalized_name": "aleksa_puric",
+      "position": "DEF",
+      "source_id": "16940",
+      "team": "Atlético",
+      "team_source_id": "2"
+    },
+    {
+      "id": "futbolfantasy:16948",
+      "name": "Jorge Cestero",
+      "normalized_name": "jorge_cestero",
+      "position": "MED",
+      "source_id": "16948",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:16975",
+      "name": "Iker Muñoz",
+      "normalized_name": "iker_munoz",
+      "position": "DEF",
+      "source_id": "16975",
+      "team": "Sevilla",
+      "team_source_id": "17"
+    },
+    {
+      "id": "futbolfantasy:16976",
+      "name": "Noé Carrillo",
+      "normalized_name": "noe_carrillo",
+      "position": "MED",
+      "source_id": "16976",
+      "team": "Deportivo",
+      "team_source_id": "6"
+    },
+    {
+      "id": "futbolfantasy:16982",
+      "name": "Unai Santos",
+      "normalized_name": "unai_santos",
+      "position": "DEF",
+      "source_id": "16982",
+      "team": "Osasuna",
+      "team_source_id": "13"
+    },
+    {
+      "id": "futbolfantasy:17116",
+      "name": "Thiago Fernández",
+      "normalized_name": "thiago_fernandez",
+      "position": "MED",
+      "source_id": "17116",
+      "team": "Levante",
+      "team_source_id": "10"
+    },
+    {
+      "id": "futbolfantasy:17119",
+      "name": "Joselillo Gaitán",
+      "normalized_name": "joselillo_gaitan",
+      "position": "MED",
+      "source_id": "17119",
+      "team": "Villarreal",
+      "team_source_id": "22"
+    },
+    {
+      "id": "futbolfantasy:17129",
+      "name": "Julio Díaz",
+      "normalized_name": "julio_diaz",
+      "position": "DEF",
+      "source_id": "17129",
+      "team": "Sevilla",
+      "team_source_id": "17"
+    },
+    {
+      "id": "futbolfantasy:17130",
+      "name": "Iker Luque",
+      "normalized_name": "iker_luque",
+      "position": "DEL",
+      "source_id": "17130",
+      "team": "Racing",
+      "team_source_id": "42"
+    },
+    {
+      "id": "futbolfantasy:17145",
+      "name": "Adrián Riquelme",
+      "normalized_name": "adrian_riquelme",
+      "position": "MED",
+      "source_id": "17145",
+      "team": "Getafe",
+      "team_source_id": "8"
+    },
+    {
+      "id": "futbolfantasy:17148",
+      "name": "Giorgi Guliashvili",
+      "normalized_name": "giorgi_guliashvili",
+      "position": "DEL",
+      "source_id": "17148",
+      "team": "Racing",
+      "team_source_id": "42"
+    },
+    {
+      "id": "futbolfantasy:17151",
+      "name": "Abiel Osorio",
+      "normalized_name": "abiel_osorio",
+      "position": "DEL",
+      "source_id": "17151",
+      "team": "Elche",
+      "team_source_id": "21"
+    },
+    {
+      "id": "futbolfantasy:17161",
+      "name": "Sebastián Boselli",
+      "normalized_name": "sebastian_boselli",
+      "position": "DEF",
+      "source_id": "17161",
+      "team": "Getafe",
+      "team_source_id": "8"
+    },
+    {
+      "id": "futbolfantasy:17166",
+      "name": "Dani Mesonero",
+      "normalized_name": "dani_mesonero",
+      "position": "MED",
+      "source_id": "17166",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:17190",
+      "name": "Álex Sánchez",
+      "normalized_name": "alex_sanchez",
+      "position": "MED",
+      "source_id": "17190",
+      "team": "Elche",
+      "team_source_id": "21"
+    },
+    {
+      "id": "futbolfantasy:17248",
+      "name": "Lucas Cepeda",
+      "normalized_name": "lucas_cepeda",
+      "position": "DEL",
+      "source_id": "17248",
+      "team": "Elche",
+      "team_source_id": "21"
+    },
+    {
+      "id": "futbolfantasy:17275",
+      "name": "Alex Freeman",
+      "normalized_name": "alex_freeman",
+      "position": "DEF",
+      "source_id": "17275",
+      "team": "Villarreal",
+      "team_source_id": "22"
+    },
+    {
+      "id": "futbolfantasy:17284",
+      "name": "Ville Koski",
+      "normalized_name": "ville_koski",
+      "position": "DEF",
+      "source_id": "17284",
+      "team": "Alavés",
+      "team_source_id": "28"
+    },
+    {
+      "id": "futbolfantasy:17376",
+      "name": "Aaron Ndive Mayol",
+      "normalized_name": "aaron_ndive_mayol",
+      "position": "MED",
+      "source_id": "17376",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:17406",
+      "name": "Lamini Fati",
+      "normalized_name": "lamini_fati",
+      "position": "DEF",
+      "source_id": "17406",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:1743",
+      "name": "Mathew Ryan",
+      "normalized_name": "mathew_ryan",
+      "position": "POR",
+      "source_id": "1743",
+      "team": "Levante",
+      "team_source_id": "10"
+    },
+    {
+      "id": "futbolfantasy:17445",
+      "name": "Adama Timera",
+      "normalized_name": "adama_timera",
+      "position": "DEF",
+      "source_id": "17445",
+      "team": "Espanyol",
+      "team_source_id": "7"
+    },
+    {
+      "id": "futbolfantasy:17495",
+      "name": "Javi Morcillo",
+      "normalized_name": "javi_morcillo",
+      "position": "MED",
+      "source_id": "17495",
+      "team": "Elche",
+      "team_source_id": "21"
+    },
+    {
+      "id": "futbolfantasy:175",
+      "name": "Iago Aspas",
+      "normalized_name": "iago_aspas",
+      "position": "DEL",
+      "source_id": "175",
+      "team": "Celta",
+      "team_source_id": "5"
+    },
+    {
+      "id": "futbolfantasy:17529",
+      "name": "Miguel Cubo",
+      "normalized_name": "miguel_cubo",
+      "position": "DEL",
+      "source_id": "17529",
+      "team": "Atlético",
+      "team_source_id": "2"
+    },
+    {
+      "id": "futbolfantasy:17663",
+      "name": "Hamza Abdelkarim",
+      "normalized_name": "hamza_abdelkarim",
+      "position": "DEL",
+      "source_id": "17663",
+      "team": "Barcelona",
+      "team_source_id": "3"
+    },
+    {
+      "id": "futbolfantasy:17695",
+      "name": "Nathan-Dylan Saliba",
+      "normalized_name": "nathan_dylan_saliba",
+      "position": "MED",
+      "source_id": "17695",
+      "team": "Villarreal",
+      "team_source_id": "22"
+    },
+    {
+      "id": "futbolfantasy:1778",
+      "name": "Denis Suárez",
+      "normalized_name": "denis_suarez",
+      "position": "MED",
+      "source_id": "1778",
+      "team": "Alavés",
+      "team_source_id": "28"
+    },
+    {
+      "id": "futbolfantasy:18006",
+      "name": "Enzo Bardelli",
+      "normalized_name": "enzo_bardelli",
+      "position": "MED",
+      "source_id": "18006",
+      "team": "Levante",
+      "team_source_id": "10"
+    },
+    {
+      "id": "futbolfantasy:18014",
+      "name": "Arouna Sangante",
+      "normalized_name": "arouna_sangante",
+      "position": "DEF",
+      "source_id": "18014",
+      "team": "Sevilla",
+      "team_source_id": "17"
+    },
+    {
+      "id": "futbolfantasy:18018",
+      "name": "Justin de Haas",
+      "normalized_name": "justin_de_haas",
+      "position": "DEF",
+      "source_id": "18018",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:18021",
+      "name": "Álvaro Padilla",
+      "normalized_name": "alvaro_padilla",
+      "position": "DEL",
+      "source_id": "18021",
+      "team": "Elche",
+      "team_source_id": "21"
+    },
+    {
+      "id": "futbolfantasy:18026",
+      "name": "Manuel Ángel Castillo",
+      "normalized_name": "manuel_angel_castillo",
+      "position": "MED",
+      "source_id": "18026",
+      "team": "Sevilla",
+      "team_source_id": "17"
+    },
+    {
+      "id": "futbolfantasy:18027",
+      "name": "Igor Galdin",
+      "normalized_name": "igor_galdin",
+      "position": "POR",
+      "source_id": "18027",
+      "team": "Levante",
+      "team_source_id": "10"
+    },
+    {
+      "id": "futbolfantasy:18028",
+      "name": "Marc Santos",
+      "normalized_name": "marc_santos",
+      "position": "DEF",
+      "source_id": "18028",
+      "team": "Levante",
+      "team_source_id": "10"
+    },
+    {
+      "id": "futbolfantasy:18029",
+      "name": "Alberto Calatrava",
+      "normalized_name": "alberto_calatrava",
+      "position": "MED",
+      "source_id": "18029",
+      "team": "Levante",
+      "team_source_id": "10"
+    },
+    {
+      "id": "futbolfantasy:18030",
+      "name": "Bright Ede",
+      "normalized_name": "bright_ede",
+      "position": "DEF",
+      "source_id": "18030",
+      "team": "Deportivo",
+      "team_source_id": "6"
+    },
+    {
+      "id": "futbolfantasy:18031",
+      "name": "Ryunosuke Sato",
+      "normalized_name": "ryunosuke_sato",
+      "position": "DEL",
+      "source_id": "18031",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:18039",
+      "name": "Cheikh Thiam",
+      "normalized_name": "cheikh_thiam",
+      "position": "MED",
+      "source_id": "18039",
+      "team": "Villarreal",
+      "team_source_id": "22"
+    },
+    {
+      "id": "futbolfantasy:18041",
+      "name": "Nizar El Jmili",
+      "normalized_name": "nizar_el_jmili",
+      "position": "DEL",
+      "source_id": "18041",
+      "team": "Villarreal",
+      "team_source_id": "22"
+    },
+    {
+      "id": "futbolfantasy:18048",
+      "name": "Marco Román",
+      "normalized_name": "marco_roman",
+      "position": "MED",
+      "source_id": "18048",
+      "team": "Rayo",
+      "team_source_id": "14"
+    },
+    {
+      "id": "futbolfantasy:18053",
+      "name": "Asier Bonel",
+      "normalized_name": "asier_bonel",
+      "position": "DEL",
+      "source_id": "18053",
+      "team": "Osasuna",
+      "team_source_id": "13"
+    },
+    {
+      "id": "futbolfantasy:18201",
+      "name": "Kike Ribes",
+      "normalized_name": "kike_ribes",
+      "position": "DEF",
+      "source_id": "18201",
+      "team": "Celta Fortuna",
+      "team_source_id": "823"
+    },
+    {
+      "id": "futbolfantasy:18213",
+      "name": "Jorge Domínguez",
+      "normalized_name": "jorge_dominguez",
+      "position": "DEF",
+      "source_id": "18213",
+      "team": "Atlético",
+      "team_source_id": "2"
+    },
+    {
+      "id": "futbolfantasy:18214",
+      "name": "Jorge Castillo",
+      "normalized_name": "jorge_castillo",
+      "position": "MED",
+      "source_id": "18214",
+      "team": "Atlético",
+      "team_source_id": "2"
+    },
+    {
+      "id": "futbolfantasy:18218",
+      "name": "Andrés Vallecillo",
+      "normalized_name": "andres_vallecillo",
+      "position": "MED",
+      "source_id": "18218",
+      "team": "Racing",
+      "team_source_id": "42"
+    },
+    {
+      "id": "futbolfantasy:18221",
+      "name": "Jorge Castellanos",
+      "normalized_name": "jorge_castellanos",
+      "position": "MED",
+      "source_id": "18221",
+      "team": "Racing",
+      "team_source_id": "42"
+    },
+    {
+      "id": "futbolfantasy:18222",
+      "name": "Hugo Pérez",
+      "normalized_name": "hugo_perez",
+      "position": "MED",
+      "source_id": "18222",
+      "team": "Racing",
+      "team_source_id": "42"
+    },
+    {
+      "id": "futbolfantasy:18224",
+      "name": "Miguel Ángel Santaella",
+      "normalized_name": "miguel_angel_santaella",
+      "position": "DEF",
+      "source_id": "18224",
+      "team": "Málaga",
+      "team_source_id": "11"
+    },
+    {
+      "id": "futbolfantasy:18225",
+      "name": "Juani",
+      "normalized_name": "juani",
+      "position": "DEL",
+      "source_id": "18225",
+      "team": "Málaga",
+      "team_source_id": "11"
+    },
+    {
+      "id": "futbolfantasy:18228",
+      "name": "Rodrigo Gamón",
+      "normalized_name": "rodrigo_gamon",
+      "position": "DEF",
+      "source_id": "18228",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:18240",
+      "name": "Brian Fariñas",
+      "normalized_name": "brian_farinas",
+      "position": "MED",
+      "source_id": "18240",
+      "team": "Barcelona",
+      "team_source_id": "3"
+    },
+    {
+      "id": "futbolfantasy:18241",
+      "name": "Manel Usedo",
+      "normalized_name": "manel_usedo",
+      "position": "MED",
+      "source_id": "18241",
+      "team": "Levante",
+      "team_source_id": "10"
+    },
+    {
+      "id": "futbolfantasy:18250",
+      "name": "Ibrahima Danfakha",
+      "normalized_name": "ibrahima_danfakha",
+      "position": "DEL",
+      "source_id": "18250",
+      "team": "Getafe",
+      "team_source_id": "8"
+    },
+    {
+      "id": "futbolfantasy:1826",
+      "name": "Jan Oblak",
+      "normalized_name": "jan_oblak",
+      "position": "POR",
+      "source_id": "1826",
+      "team": "Atlético",
+      "team_source_id": "2"
+    },
+    {
+      "id": "futbolfantasy:18268",
+      "name": "Jordi Pesquer",
+      "normalized_name": "jordi_pesquer",
+      "position": "DEF",
+      "source_id": "18268",
+      "team": "Barcelona",
+      "team_source_id": "3"
+    },
+    {
+      "id": "futbolfantasy:18273",
+      "name": "Gnangoro Bouare",
+      "normalized_name": "gnangoro_bouare",
+      "position": "MED",
+      "source_id": "18273",
+      "team": "Rayo",
+      "team_source_id": "14"
+    },
+    {
+      "id": "futbolfantasy:18279",
+      "name": "Jaume Durá",
+      "normalized_name": "jaume_dura",
+      "position": "MED",
+      "source_id": "18279",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:18282",
+      "name": "Yassir Zabiri",
+      "normalized_name": "yassir_zabiri",
+      "position": "DEL",
+      "source_id": "18282",
+      "team": "Racing",
+      "team_source_id": "42"
+    },
+    {
+      "id": "futbolfantasy:18283",
+      "name": "Kayne van Oevelen",
+      "normalized_name": "kayne_van_oevelen",
+      "position": "POR",
+      "source_id": "18283",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:18294",
+      "name": "Yanis Musuayi",
+      "normalized_name": "yanis_musuayi",
+      "position": "DEL",
+      "source_id": "18294",
+      "team": "Levante",
+      "team_source_id": "10"
+    },
+    {
+      "id": "futbolfantasy:18314",
+      "name": "Robbie Ure",
+      "normalized_name": "robbie_ure",
+      "position": "DEL",
+      "source_id": "18314",
+      "team": "Sevilla",
+      "team_source_id": "17"
+    },
+    {
+      "id": "futbolfantasy:18316",
+      "name": "Rockson Yeboah",
+      "normalized_name": "rockson_yeboah",
+      "position": "DEF",
+      "source_id": "18316",
+      "team": "Osasuna",
+      "team_source_id": "13"
+    },
+    {
+      "id": "futbolfantasy:18378",
+      "name": "Joseph Otu",
+      "normalized_name": "joseph_otu",
+      "position": "MED",
+      "source_id": "18378",
+      "team": "Málaga",
+      "team_source_id": "11"
+    },
+    {
+      "id": "futbolfantasy:18406",
+      "name": "Ifeanyi Ndukwe",
+      "normalized_name": "ifeanyi_ndukwe",
+      "position": "DEF",
+      "source_id": "18406",
+      "team": "Levante",
+      "team_source_id": "10"
+    },
+    {
+      "id": "futbolfantasy:18411",
+      "name": "Curro Burgos",
+      "normalized_name": "curro_burgos",
+      "position": "DEF",
+      "source_id": "18411",
+      "team": "Getafe",
+      "team_source_id": "8"
+    },
+    {
+      "id": "futbolfantasy:18412",
+      "name": "Óscar López",
+      "normalized_name": "oscar_lopez",
+      "position": "MED",
+      "source_id": "18412",
+      "team": "Getafe",
+      "team_source_id": "8"
+    },
+    {
+      "id": "futbolfantasy:18418",
+      "name": "Álvaro de Pablo",
+      "normalized_name": "alvaro_de_pablo",
+      "position": "POR",
+      "source_id": "18418",
+      "team": "Betis",
+      "team_source_id": "4"
+    },
+    {
+      "id": "futbolfantasy:18437",
+      "name": "Lucas Stassin",
+      "normalized_name": "lucas_stassin",
+      "position": "DEL",
+      "source_id": "18437",
+      "team": "Sevilla",
+      "team_source_id": "17"
+    },
+    {
+      "id": "futbolfantasy:18438",
+      "name": "Kevin Lomónaco",
+      "normalized_name": "kevin_lomonaco",
+      "position": "DEF",
+      "source_id": "18438",
+      "team": "Elche",
+      "team_source_id": "21"
+    },
+    {
+      "id": "futbolfantasy:1859",
+      "name": "Josan Ferrández",
+      "normalized_name": "josan_ferrandez",
+      "position": "MED",
+      "source_id": "1859",
+      "team": "Elche",
+      "team_source_id": "21"
+    },
+    {
+      "id": "futbolfantasy:1881",
+      "name": "Unai López",
+      "normalized_name": "unai_lopez",
+      "position": "MED",
+      "source_id": "1881",
+      "team": "Rayo",
+      "team_source_id": "14"
+    },
+    {
+      "id": "futbolfantasy:1882",
+      "name": "Joao Cancelo",
+      "normalized_name": "joao_cancelo",
+      "position": "DEF",
+      "source_id": "1882",
+      "team": "Barcelona",
+      "team_source_id": "3"
+    },
+    {
+      "id": "futbolfantasy:189",
+      "name": "Jonny Castro",
+      "normalized_name": "jonny_castro",
+      "position": "DEF",
+      "source_id": "189",
+      "team": "Alavés",
+      "team_source_id": "28"
+    },
+    {
+      "id": "futbolfantasy:1919",
+      "name": "David Soria",
+      "normalized_name": "david_soria",
+      "position": "POR",
+      "source_id": "1919",
+      "team": "Getafe",
+      "team_source_id": "8"
+    },
+    {
+      "id": "futbolfantasy:1927",
+      "name": "Pere Milla",
+      "normalized_name": "pere_milla",
+      "position": "DEL",
+      "source_id": "1927",
+      "team": "Espanyol",
+      "team_source_id": "7"
+    },
+    {
+      "id": "futbolfantasy:1928",
+      "name": "Lucas Torró",
+      "normalized_name": "lucas_torro",
+      "position": "MED",
+      "source_id": "1928",
+      "team": "Osasuna",
+      "team_source_id": "13"
+    },
+    {
+      "id": "futbolfantasy:1931",
+      "name": "Marcos Llorente",
+      "normalized_name": "marcos_llorente",
+      "position": "DEF",
+      "source_id": "1931",
+      "team": "Atlético",
+      "team_source_id": "2"
+    },
+    {
+      "id": "futbolfantasy:1934",
+      "name": "Iñaki Williams",
+      "normalized_name": "inaki_williams",
+      "position": "DEL",
+      "source_id": "1934",
+      "team": "Athletic",
+      "team_source_id": "1"
+    },
+    {
+      "id": "futbolfantasy:1945",
+      "name": "Borja Iglesias",
+      "normalized_name": "borja_iglesias",
+      "position": "DEL",
+      "source_id": "1945",
+      "team": "Celta",
+      "team_source_id": "5"
+    },
+    {
+      "id": "futbolfantasy:1972",
+      "name": "Yeray Álvarez",
+      "normalized_name": "yeray_alvarez",
+      "position": "DEF",
+      "source_id": "1972",
+      "team": "Athletic",
+      "team_source_id": "1"
+    },
+    {
+      "id": "futbolfantasy:1975",
+      "name": "Álex Remiro",
+      "normalized_name": "alex_remiro",
+      "position": "POR",
+      "source_id": "1975",
+      "team": "Real Sociedad",
+      "team_source_id": "16"
+    },
+    {
+      "id": "futbolfantasy:1989",
+      "name": "Borja Mayoral",
+      "normalized_name": "borja_mayoral",
+      "position": "DEL",
+      "source_id": "1989",
+      "team": "Getafe",
+      "team_source_id": "8"
+    },
+    {
+      "id": "futbolfantasy:2153",
+      "name": "Héctor Bellerín",
+      "normalized_name": "hector_bellerin",
+      "position": "DEF",
+      "source_id": "2153",
+      "team": "Betis",
+      "team_source_id": "4"
+    },
+    {
+      "id": "futbolfantasy:2242",
+      "name": "Gonçalo Guedes",
+      "normalized_name": "goncalo_guedes",
+      "position": "DEL",
+      "source_id": "2242",
+      "team": "Real Sociedad",
+      "team_source_id": "16"
+    },
+    {
+      "id": "futbolfantasy:2288",
+      "name": "Dani Olmo",
+      "normalized_name": "dani_olmo",
+      "position": "MED",
+      "source_id": "2288",
+      "team": "Barcelona",
+      "team_source_id": "3"
+    },
+    {
+      "id": "futbolfantasy:2413",
+      "name": "Emil Audero",
+      "normalized_name": "emil_audero",
+      "position": "POR",
+      "source_id": "2413",
+      "team": "Rayo",
+      "team_source_id": "14"
+    },
+    {
+      "id": "futbolfantasy:2417",
+      "name": "Andreas Christensen",
+      "normalized_name": "andreas_christensen",
+      "position": "DEF",
+      "source_id": "2417",
+      "team": "Barcelona",
+      "team_source_id": "3"
+    },
+    {
+      "id": "futbolfantasy:2534",
+      "name": "Wojciech Szczesny",
+      "normalized_name": "wojciech_szczesny",
+      "position": "POR",
+      "source_id": "2534",
+      "team": "Barcelona",
+      "team_source_id": "3"
+    },
+    {
+      "id": "futbolfantasy:2536",
+      "name": "Antonio Rüdiger",
+      "normalized_name": "antonio_rudiger",
+      "position": "DEF",
+      "source_id": "2536",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:2632",
+      "name": "Pablo Fornals",
+      "normalized_name": "pablo_fornals",
+      "position": "MED",
+      "source_id": "2632",
+      "team": "Betis",
+      "team_source_id": "4"
+    },
+    {
+      "id": "futbolfantasy:2663",
+      "name": "Pablo Maffeo",
+      "normalized_name": "pablo_maffeo",
+      "position": "DEF",
+      "source_id": "2663",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:2675",
+      "name": "Mikel Oyarzabal",
+      "normalized_name": "mikel_oyarzabal",
+      "position": "DEL",
+      "source_id": "2675",
+      "team": "Real Sociedad",
+      "team_source_id": "16"
+    },
+    {
+      "id": "futbolfantasy:2715",
+      "name": "Pepelu",
+      "normalized_name": "pepelu",
+      "position": "MED",
+      "source_id": "2715",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:2727",
+      "name": "Ezequiel Ponce",
+      "normalized_name": "ezequiel_ponce",
+      "position": "DEL",
+      "source_id": "2727",
+      "team": "Elche",
+      "team_source_id": "21"
+    },
+    {
+      "id": "futbolfantasy:2733",
+      "name": "Rodri Hernández",
+      "normalized_name": "rodri_hernandez",
+      "position": "MED",
+      "source_id": "2733",
+      "team": "Barcelona",
+      "team_source_id": "3"
+    },
+    {
+      "id": "futbolfantasy:2751",
+      "name": "Kike García",
+      "normalized_name": "kike_garcia",
+      "position": "DEL",
+      "source_id": "2751",
+      "team": "Espanyol",
+      "team_source_id": "7"
+    },
+    {
+      "id": "futbolfantasy:2759",
+      "name": "Carles Aleñá",
+      "normalized_name": "carles_alena",
+      "position": "MED",
+      "source_id": "2759",
+      "team": "Alavés",
+      "team_source_id": "28"
+    },
+    {
+      "id": "futbolfantasy:2771",
+      "name": "Álex Grimaldo",
+      "normalized_name": "alex_grimaldo",
+      "position": "DEF",
+      "source_id": "2771",
+      "team": "Atlético",
+      "team_source_id": "2"
+    },
+    {
+      "id": "futbolfantasy:2799",
+      "name": "Carlos Soler",
+      "normalized_name": "carlos_soler",
+      "position": "MED",
+      "source_id": "2799",
+      "team": "Real Sociedad",
+      "team_source_id": "16"
+    },
+    {
+      "id": "futbolfantasy:2802",
+      "name": "Igor Zubeldia",
+      "normalized_name": "igor_zubeldia",
+      "position": "DEF",
+      "source_id": "2802",
+      "team": "Real Sociedad",
+      "team_source_id": "16"
+    },
+    {
+      "id": "futbolfantasy:2807",
+      "name": "Álvaro Odriozola",
+      "normalized_name": "alvaro_odriozola",
+      "position": "DEF",
+      "source_id": "2807",
+      "team": "Real Sociedad",
+      "team_source_id": "16"
+    },
+    {
+      "id": "futbolfantasy:3106",
+      "name": "Péter Gulácsi",
+      "normalized_name": "peter_gulacsi",
+      "position": "POR",
+      "source_id": "3106",
+      "team": "Villarreal",
+      "team_source_id": "22"
+    },
+    {
+      "id": "futbolfantasy:3174",
+      "name": "Einar Galilea",
+      "normalized_name": "einar_galilea",
+      "position": "DEF",
+      "source_id": "3174",
+      "team": "Málaga",
+      "team_source_id": "11"
+    },
+    {
+      "id": "futbolfantasy:3178",
+      "name": "Kiko Femenia",
+      "normalized_name": "kiko_femenia",
+      "position": "DEF",
+      "source_id": "3178",
+      "team": "Getafe",
+      "team_source_id": "8"
+    },
+    {
+      "id": "futbolfantasy:3204",
+      "name": "Álex Berenguer",
+      "normalized_name": "alex_berenguer",
+      "position": "DEL",
+      "source_id": "3204",
+      "team": "Athletic",
+      "team_source_id": "1"
+    },
+    {
+      "id": "futbolfantasy:3206",
+      "name": "Kike Barja",
+      "normalized_name": "kike_barja",
+      "position": "DEL",
+      "source_id": "3206",
+      "team": "Osasuna",
+      "team_source_id": "13"
+    },
+    {
+      "id": "futbolfantasy:3215",
+      "name": "Marc Roca",
+      "normalized_name": "marc_roca",
+      "position": "MED",
+      "source_id": "3215",
+      "team": "Betis",
+      "team_source_id": "4"
+    },
+    {
+      "id": "futbolfantasy:322",
+      "name": "Marc Bartra",
+      "normalized_name": "marc_bartra",
+      "position": "DEF",
+      "source_id": "322",
+      "team": "Betis",
+      "team_source_id": "4"
+    },
+    {
+      "id": "futbolfantasy:3226",
+      "name": "Mariano Díaz",
+      "normalized_name": "mariano_diaz",
+      "position": "DEL",
+      "source_id": "3226",
+      "team": "Alavés",
+      "team_source_id": "28"
+    },
+    {
+      "id": "futbolfantasy:3235",
+      "name": "Diego Rico",
+      "normalized_name": "diego_rico",
+      "position": "DEF",
+      "source_id": "3235",
+      "team": "Osasuna",
+      "team_source_id": "13"
+    },
+    {
+      "id": "futbolfantasy:3246",
+      "name": "Aarón Martín",
+      "normalized_name": "aaron_martin",
+      "position": "DEF",
+      "source_id": "3246",
+      "team": "Racing",
+      "team_source_id": "42"
+    },
+    {
+      "id": "futbolfantasy:3255",
+      "name": "Iván Villar",
+      "normalized_name": "ivan_villar",
+      "position": "POR",
+      "source_id": "3255",
+      "team": "Celta",
+      "team_source_id": "5"
+    },
+    {
+      "id": "futbolfantasy:336",
+      "name": "Isco Alarcón",
+      "normalized_name": "isco_alarcon",
+      "position": "MED",
+      "source_id": "336",
+      "team": "Betis",
+      "team_source_id": "4"
+    },
+    {
+      "id": "futbolfantasy:340",
+      "name": "Juanmi Jiménez",
+      "normalized_name": "juanmi_jimenez",
+      "position": "DEL",
+      "source_id": "340",
+      "team": "Getafe",
+      "team_source_id": "8"
+    },
+    {
+      "id": "futbolfantasy:3414",
+      "name": "Pierre-Emerick Aubameyang",
+      "normalized_name": "pierre_emerick_aubameyang",
+      "position": "DEL",
+      "source_id": "3414",
+      "team": "Deportivo",
+      "team_source_id": "6"
+    },
+    {
+      "id": "futbolfantasy:3427",
+      "name": "Thomas Lemar",
+      "normalized_name": "thomas_lemar",
+      "position": "MED",
+      "source_id": "3427",
+      "team": "Elche",
+      "team_source_id": "21"
+    },
+    {
+      "id": "futbolfantasy:3429",
+      "name": "Kylian Mbappé",
+      "normalized_name": "kylian_mbappe",
+      "position": "DEL",
+      "source_id": "3429",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:3431",
+      "name": "Bernardo Silva",
+      "normalized_name": "bernardo_silva",
+      "position": "MED",
+      "source_id": "3431",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:3589",
+      "name": "Dominik Livakovic",
+      "normalized_name": "dominik_livakovic",
+      "position": "POR",
+      "source_id": "3589",
+      "team": "Barcelona",
+      "team_source_id": "3"
+    },
+    {
+      "id": "futbolfantasy:3605",
+      "name": "Angeliño",
+      "normalized_name": "angelino",
+      "position": "DEF",
+      "source_id": "3605",
+      "team": "Deportivo",
+      "team_source_id": "6"
+    },
+    {
+      "id": "futbolfantasy:3607",
+      "name": "Mouctar Diakhaby",
+      "normalized_name": "mouctar_diakhaby",
+      "position": "DEF",
+      "source_id": "3607",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:3612",
+      "name": "Álvaro Fernández",
+      "normalized_name": "alvaro_fernandez",
+      "position": "POR",
+      "source_id": "3612",
+      "team": "Deportivo",
+      "team_source_id": "6"
+    },
+    {
+      "id": "futbolfantasy:3623",
+      "name": "Pedro Díaz",
+      "normalized_name": "pedro_diaz",
+      "position": "MED",
+      "source_id": "3623",
+      "team": "Rayo",
+      "team_source_id": "14"
+    },
+    {
+      "id": "futbolfantasy:3671",
+      "name": "Asier Villalibre",
+      "normalized_name": "asier_villalibre",
+      "position": "DEL",
+      "source_id": "3671",
+      "team": "Racing",
+      "team_source_id": "42"
+    },
+    {
+      "id": "futbolfantasy:3686",
+      "name": "Álvaro Valles",
+      "normalized_name": "alvaro_valles",
+      "position": "POR",
+      "source_id": "3686",
+      "team": "Betis",
+      "team_source_id": "4"
+    },
+    {
+      "id": "futbolfantasy:3693",
+      "name": "Unai Simón",
+      "normalized_name": "unai_simon",
+      "position": "POR",
+      "source_id": "3693",
+      "team": "Athletic",
+      "team_source_id": "1"
+    },
+    {
+      "id": "futbolfantasy:3717",
+      "name": "Giovani Lo Celso",
+      "normalized_name": "giovani_lo_celso",
+      "position": "MED",
+      "source_id": "3717",
+      "team": "Betis",
+      "team_source_id": "4"
+    },
+    {
+      "id": "futbolfantasy:3724",
+      "name": "Gabriel Jesus",
+      "normalized_name": "gabriel_jesus",
+      "position": "DEL",
+      "source_id": "3724",
+      "team": "Barcelona",
+      "team_source_id": "3"
+    },
+    {
+      "id": "futbolfantasy:3732",
+      "name": "Daniel Raba",
+      "normalized_name": "daniel_raba",
+      "position": "DEL",
+      "source_id": "3732",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:3736",
+      "name": "Jon Guridi",
+      "normalized_name": "jon_guridi",
+      "position": "MED",
+      "source_id": "3736",
+      "team": "Sevilla",
+      "team_source_id": "17"
+    },
+    {
+      "id": "futbolfantasy:3738",
+      "name": "Edu Expósito",
+      "normalized_name": "edu_exposito",
+      "position": "MED",
+      "source_id": "3738",
+      "team": "Espanyol",
+      "team_source_id": "7"
+    },
+    {
+      "id": "futbolfantasy:3751",
+      "name": "Enes Ünal",
+      "normalized_name": "enes_unal",
+      "position": "DEL",
+      "source_id": "3751",
+      "team": "Getafe",
+      "team_source_id": "8"
+    },
+    {
+      "id": "futbolfantasy:3758",
+      "name": "Federico Valverde",
+      "normalized_name": "federico_valverde",
+      "position": "MED",
+      "source_id": "3758",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:3759",
+      "name": "Marko Dmitrovic",
+      "normalized_name": "marko_dmitrovic",
+      "position": "POR",
+      "source_id": "3759",
+      "team": "Espanyol",
+      "team_source_id": "7"
+    },
+    {
+      "id": "futbolfantasy:3785",
+      "name": "Unai Núñez",
+      "normalized_name": "unai_nunez",
+      "position": "DEF",
+      "source_id": "3785",
+      "team": "Espanyol",
+      "team_source_id": "7"
+    },
+    {
+      "id": "futbolfantasy:3799",
+      "name": "Andoni Gorosabel",
+      "normalized_name": "andoni_gorosabel",
+      "position": "DEF",
+      "source_id": "3799",
+      "team": "Espanyol",
+      "team_source_id": "7"
+    },
+    {
+      "id": "futbolfantasy:3802",
+      "name": "Ander Guevara",
+      "normalized_name": "ander_guevara",
+      "position": "MED",
+      "source_id": "3802",
+      "team": "Alavés",
+      "team_source_id": "28"
+    },
+    {
+      "id": "futbolfantasy:3807",
+      "name": "Javi Puado",
+      "normalized_name": "javi_puado",
+      "position": "MED",
+      "source_id": "3807",
+      "team": "Espanyol",
+      "team_source_id": "7"
+    },
+    {
+      "id": "futbolfantasy:3836",
+      "name": "Manu Hernando",
+      "normalized_name": "manu_hernando",
+      "position": "DEF",
+      "source_id": "3836",
+      "team": "Racing",
+      "team_source_id": "42"
+    },
+    {
+      "id": "futbolfantasy:3879",
+      "name": "Pol Lozano",
+      "normalized_name": "pol_lozano",
+      "position": "MED",
+      "source_id": "3879",
+      "team": "Espanyol",
+      "team_source_id": "7"
+    },
+    {
+      "id": "futbolfantasy:3881",
+      "name": "Dakonam Djené",
+      "normalized_name": "dakonam_djene",
+      "position": "DEF",
+      "source_id": "3881",
+      "team": "Getafe",
+      "team_source_id": "8"
+    },
+    {
+      "id": "futbolfantasy:392",
+      "name": "Ximo Navarro",
+      "normalized_name": "ximo_navarro",
+      "position": "DEF",
+      "source_id": "392",
+      "team": "Deportivo",
+      "team_source_id": "6"
+    },
+    {
+      "id": "futbolfantasy:404",
+      "name": "Pedro Bigas",
+      "normalized_name": "pedro_bigas",
+      "position": "DEF",
+      "source_id": "404",
+      "team": "Elche",
+      "team_source_id": "21"
+    },
+    {
+      "id": "futbolfantasy:4208",
+      "name": "Marcão",
+      "normalized_name": "marcao",
+      "position": "DEF",
+      "source_id": "4208",
+      "team": "Sevilla",
+      "team_source_id": "17"
+    },
+    {
+      "id": "futbolfantasy:4288",
+      "name": "Raphinha",
+      "normalized_name": "raphinha",
+      "position": "DEL",
+      "source_id": "4288",
+      "team": "Barcelona",
+      "team_source_id": "3"
+    },
+    {
+      "id": "futbolfantasy:4397",
+      "name": "Marcos Alonso",
+      "normalized_name": "marcos_alonso",
+      "position": "DEF",
+      "source_id": "4397",
+      "team": "Celta",
+      "team_source_id": "5"
+    },
+    {
+      "id": "futbolfantasy:44",
+      "name": "Íñigo Ruiz de Galarreta",
+      "normalized_name": "inigo_ruiz_de_galarreta",
+      "position": "MED",
+      "source_id": "44",
+      "team": "Athletic",
+      "team_source_id": "1"
+    },
+    {
+      "id": "futbolfantasy:4434",
+      "name": "Ademola Lookman",
+      "normalized_name": "ademola_lookman",
+      "position": "DEL",
+      "source_id": "4434",
+      "team": "Atlético",
+      "team_source_id": "2"
+    },
+    {
+      "id": "futbolfantasy:4480",
+      "name": "Trent Alexander-Arnold",
+      "normalized_name": "trent_alexander_arnold",
+      "position": "DEF",
+      "source_id": "4480",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:4511",
+      "name": "Ayoze Pérez",
+      "normalized_name": "ayoze_perez",
+      "position": "DEL",
+      "source_id": "4511",
+      "team": "Villarreal",
+      "team_source_id": "22"
+    },
+    {
+      "id": "futbolfantasy:4620",
+      "name": "Junior Firpo",
+      "normalized_name": "junior_firpo",
+      "position": "DEF",
+      "source_id": "4620",
+      "team": "Betis",
+      "team_source_id": "4"
+    },
+    {
+      "id": "futbolfantasy:4705",
+      "name": "Juan Foyth",
+      "normalized_name": "juan_foyth",
+      "position": "DEF",
+      "source_id": "4705",
+      "team": "Villarreal",
+      "team_source_id": "22"
+    },
+    {
+      "id": "futbolfantasy:4884",
+      "name": "Ibrahima Konaté",
+      "normalized_name": "ibrahima_konate",
+      "position": "DEF",
+      "source_id": "4884",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:4976",
+      "name": "Jeremy Toljan",
+      "normalized_name": "jeremy_toljan",
+      "position": "DEF",
+      "source_id": "4976",
+      "team": "Levante",
+      "team_source_id": "10"
+    },
+    {
+      "id": "futbolfantasy:5013",
+      "name": "Marc Cucurella",
+      "normalized_name": "marc_cucurella",
+      "position": "DEF",
+      "source_id": "5013",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:5019",
+      "name": "Hugo Duro",
+      "normalized_name": "hugo_duro",
+      "position": "DEL",
+      "source_id": "5019",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:5022",
+      "name": "Bambo Diaby",
+      "normalized_name": "bambo_diaby",
+      "position": "DEF",
+      "source_id": "5022",
+      "team": "Elche",
+      "team_source_id": "21"
+    },
+    {
+      "id": "futbolfantasy:5032",
+      "name": "Toni Martinez",
+      "normalized_name": "toni_martinez",
+      "position": "DEL",
+      "source_id": "5032",
+      "team": "Alavés",
+      "team_source_id": "28"
+    },
+    {
+      "id": "futbolfantasy:5035",
+      "name": "Brahim Díaz",
+      "normalized_name": "brahim_diaz",
+      "position": "MED",
+      "source_id": "5035",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:5051",
+      "name": "Aitor Ruibal",
+      "normalized_name": "aitor_ruibal",
+      "position": "DEL",
+      "source_id": "5051",
+      "team": "Betis",
+      "team_source_id": "4"
+    },
+    {
+      "id": "futbolfantasy:5080",
+      "name": "Cristian Rivero",
+      "normalized_name": "cristian_rivero",
+      "position": "POR",
+      "source_id": "5080",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:5083",
+      "name": "Abdel Abqar",
+      "normalized_name": "abdel_abqar",
+      "position": "DEF",
+      "source_id": "5083",
+      "team": "Getafe",
+      "team_source_id": "8"
+    },
+    {
+      "id": "futbolfantasy:5124",
+      "name": "Lucas Boyé",
+      "normalized_name": "lucas_boye",
+      "position": "DEL",
+      "source_id": "5124",
+      "team": "Alavés",
+      "team_source_id": "28"
+    },
+    {
+      "id": "futbolfantasy:5134",
+      "name": "Alexander Sorloth",
+      "normalized_name": "alexander_sorloth",
+      "position": "DEL",
+      "source_id": "5134",
+      "team": "Atlético",
+      "team_source_id": "2"
+    },
+    {
+      "id": "futbolfantasy:5194",
+      "name": "Grady Diangana",
+      "normalized_name": "grady_diangana",
+      "position": "DEL",
+      "source_id": "5194",
+      "team": "Elche",
+      "team_source_id": "21"
+    },
+    {
+      "id": "futbolfantasy:5227",
+      "name": "Gonzalo Villar",
+      "normalized_name": "gonzalo_villar",
+      "position": "MED",
+      "source_id": "5227",
+      "team": "Elche",
+      "team_source_id": "21"
+    },
+    {
+      "id": "futbolfantasy:5228",
+      "name": "Mujaid Sadick",
+      "normalized_name": "mujaid_sadick",
+      "position": "DEF",
+      "source_id": "5228",
+      "team": "Rayo",
+      "team_source_id": "14"
+    },
+    {
+      "id": "futbolfantasy:5245",
+      "name": "Dani Vivian",
+      "normalized_name": "dani_vivian",
+      "position": "DEF",
+      "source_id": "5245",
+      "team": "Athletic",
+      "team_source_id": "1"
+    },
+    {
+      "id": "futbolfantasy:5526",
+      "name": "Andriy Lunin",
+      "normalized_name": "andriy_lunin",
+      "position": "POR",
+      "source_id": "5526",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:5546",
+      "name": "Cucho Hernández",
+      "normalized_name": "cucho_hernandez",
+      "position": "DEL",
+      "source_id": "5546",
+      "team": "Betis",
+      "team_source_id": "4"
+    },
+    {
+      "id": "futbolfantasy:5549",
+      "name": "Santi Comesaña",
+      "normalized_name": "santi_comesana",
+      "position": "MED",
+      "source_id": "5549",
+      "team": "Villarreal",
+      "team_source_id": "22"
+    },
+    {
+      "id": "futbolfantasy:5553",
+      "name": "Fernando Calero",
+      "normalized_name": "fernando_calero",
+      "position": "DEF",
+      "source_id": "5553",
+      "team": "Málaga",
+      "team_source_id": "11"
+    },
+    {
+      "id": "futbolfantasy:5565",
+      "name": "Vinicius Junior",
+      "normalized_name": "vinicius_junior",
+      "position": "DEL",
+      "source_id": "5565",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:5587",
+      "name": "Adrià Pedrosa",
+      "normalized_name": "adria_pedrosa",
+      "position": "DEF",
+      "source_id": "5587",
+      "team": "Rayo",
+      "team_source_id": "14"
+    },
+    {
+      "id": "futbolfantasy:5671",
+      "name": "Juan Berrocal",
+      "normalized_name": "juan_berrocal",
+      "position": "DEF",
+      "source_id": "5671",
+      "team": "Málaga",
+      "team_source_id": "11"
+    },
+    {
+      "id": "futbolfantasy:5705",
+      "name": "Luiz Felipe",
+      "normalized_name": "luiz_felipe",
+      "position": "DEF",
+      "source_id": "5705",
+      "team": "Rayo",
+      "team_source_id": "14"
+    },
+    {
+      "id": "futbolfantasy:582",
+      "name": "Leandro Cabrera",
+      "normalized_name": "leandro_cabrera",
+      "position": "DEF",
+      "source_id": "582",
+      "team": "Espanyol",
+      "team_source_id": "7"
+    },
+    {
+      "id": "futbolfantasy:5859",
+      "name": "Gorka Guruzeta",
+      "normalized_name": "gorka_guruzeta",
+      "position": "DEL",
+      "source_id": "5859",
+      "team": "Athletic",
+      "team_source_id": "1"
+    },
+    {
+      "id": "futbolfantasy:59",
+      "name": "Thibaut Courtois",
+      "normalized_name": "thibaut_courtois",
+      "position": "POR",
+      "source_id": "59",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:5942",
+      "name": "Juan Musso",
+      "normalized_name": "juan_musso",
+      "position": "POR",
+      "source_id": "5942",
+      "team": "Atlético",
+      "team_source_id": "2"
+    },
+    {
+      "id": "futbolfantasy:5978",
+      "name": "Ionut Radu",
+      "normalized_name": "ionut_radu",
+      "position": "POR",
+      "source_id": "5978",
+      "team": "Celta",
+      "team_source_id": "5"
+    },
+    {
+      "id": "futbolfantasy:5995",
+      "name": "David Hancko",
+      "normalized_name": "david_hancko",
+      "position": "DEF",
+      "source_id": "5995",
+      "team": "Atlético",
+      "team_source_id": "2"
+    },
+    {
+      "id": "futbolfantasy:6002",
+      "name": "Robin Le Normand",
+      "normalized_name": "robin_le_normand",
+      "position": "DEF",
+      "source_id": "6002",
+      "team": "Atlético",
+      "team_source_id": "2"
+    },
+    {
+      "id": "futbolfantasy:6050",
+      "name": "Joaquín Muñoz",
+      "normalized_name": "joaquin_munoz",
+      "position": "DEL",
+      "source_id": "6050",
+      "team": "Málaga",
+      "team_source_id": "11"
+    },
+    {
+      "id": "futbolfantasy:6055",
+      "name": "Denzel Dumfries",
+      "normalized_name": "denzel_dumfries",
+      "position": "DEF",
+      "source_id": "6055",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:6062",
+      "name": "Éder Militão",
+      "normalized_name": "eder_militao",
+      "position": "DEF",
+      "source_id": "6062",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:6158",
+      "name": "Ferland Mendy",
+      "normalized_name": "ferland_mendy",
+      "position": "DEF",
+      "source_id": "6158",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:6174",
+      "name": "Arnaut Danjuma",
+      "normalized_name": "arnaut_danjuma",
+      "position": "DEL",
+      "source_id": "6174",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:6180",
+      "name": "Sergio Gómez",
+      "normalized_name": "sergio_gomez",
+      "position": "DEF",
+      "source_id": "6180",
+      "team": "Real Sociedad",
+      "team_source_id": "16"
+    },
+    {
+      "id": "futbolfantasy:6210",
+      "name": "Frenkie de Jong",
+      "normalized_name": "frenkie_de_jong",
+      "position": "MED",
+      "source_id": "6210",
+      "team": "Barcelona",
+      "team_source_id": "3"
+    },
+    {
+      "id": "futbolfantasy:6235",
+      "name": "Odysseas Vlachodimos",
+      "normalized_name": "odysseas_vlachodimos",
+      "position": "POR",
+      "source_id": "6235",
+      "team": "Sevilla",
+      "team_source_id": "17"
+    },
+    {
+      "id": "futbolfantasy:63",
+      "name": "Koke Resurrección",
+      "normalized_name": "koke_resurreccion",
+      "position": "MED",
+      "source_id": "63",
+      "team": "Atlético",
+      "team_source_id": "2"
+    },
+    {
+      "id": "futbolfantasy:6310",
+      "name": "Cristian Romero",
+      "normalized_name": "cristian_romero",
+      "position": "DEF",
+      "source_id": "6310",
+      "team": "Atlético",
+      "team_source_id": "2"
+    },
+    {
+      "id": "futbolfantasy:6337",
+      "name": "Kang-In Lee",
+      "normalized_name": "kang_in_lee",
+      "position": "MED",
+      "source_id": "6337",
+      "team": "Atlético",
+      "team_source_id": "2"
+    },
+    {
+      "id": "futbolfantasy:6346",
+      "name": "Adrián de la Fuente",
+      "normalized_name": "adrian_de_la_fuente",
+      "position": "DEF",
+      "source_id": "6346",
+      "team": "Levante",
+      "team_source_id": "10"
+    },
+    {
+      "id": "futbolfantasy:6363",
+      "name": "Ander Barrenetxea",
+      "normalized_name": "ander_barrenetxea",
+      "position": "MED",
+      "source_id": "6363",
+      "team": "Real Sociedad",
+      "team_source_id": "16"
+    },
+    {
+      "id": "futbolfantasy:6392",
+      "name": "Fran García",
+      "normalized_name": "fran_garcia",
+      "position": "DEF",
+      "source_id": "6392",
+      "team": "Betis",
+      "team_source_id": "4"
+    },
+    {
+      "id": "futbolfantasy:6393",
+      "name": "Álvaro Fidalgo",
+      "normalized_name": "alvaro_fidalgo",
+      "position": "MED",
+      "source_id": "6393",
+      "team": "Betis",
+      "team_source_id": "4"
+    },
+    {
+      "id": "futbolfantasy:6394",
+      "name": "Aihen Muñoz",
+      "normalized_name": "aihen_munoz",
+      "position": "DEF",
+      "source_id": "6394",
+      "team": "Real Sociedad",
+      "team_source_id": "16"
+    },
+    {
+      "id": "futbolfantasy:6442",
+      "name": "Iñigo Vicente",
+      "normalized_name": "inigo_vicente",
+      "position": "DEL",
+      "source_id": "6442",
+      "team": "Racing",
+      "team_source_id": "42"
+    },
+    {
+      "id": "futbolfantasy:6446",
+      "name": "Yangel Herrera",
+      "normalized_name": "yangel_herrera",
+      "position": "MED",
+      "source_id": "6446",
+      "team": "Real Sociedad",
+      "team_source_id": "16"
+    },
+    {
+      "id": "futbolfantasy:6450",
+      "name": "Rodrigo Riquelme",
+      "normalized_name": "rodrigo_riquelme",
+      "position": "MED",
+      "source_id": "6450",
+      "team": "Betis",
+      "team_source_id": "4"
+    },
+    {
+      "id": "futbolfantasy:6487",
+      "name": "Javi Galán",
+      "normalized_name": "javi_galan",
+      "position": "DEF",
+      "source_id": "6487",
+      "team": "Celta",
+      "team_source_id": "5"
+    },
+    {
+      "id": "futbolfantasy:6493",
+      "name": "Alejandro Catena",
+      "normalized_name": "alejandro_catena",
+      "position": "DEF",
+      "source_id": "6493",
+      "team": "Osasuna",
+      "team_source_id": "13"
+    },
+    {
+      "id": "futbolfantasy:6560",
+      "name": "Andrei Ratiu",
+      "normalized_name": "andrei_ratiu",
+      "position": "DEF",
+      "source_id": "6560",
+      "team": "Rayo",
+      "team_source_id": "14"
+    },
+    {
+      "id": "futbolfantasy:6562",
+      "name": "Sergio Camello",
+      "normalized_name": "sergio_camello",
+      "position": "DEL",
+      "source_id": "6562",
+      "team": "Rayo",
+      "team_source_id": "14"
+    },
+    {
+      "id": "futbolfantasy:6563",
+      "name": "Iván Martín",
+      "normalized_name": "ivan_martin",
+      "position": "MED",
+      "source_id": "6563",
+      "team": "Racing",
+      "team_source_id": "42"
+    },
+    {
+      "id": "futbolfantasy:6580",
+      "name": "Harvey Elliott",
+      "normalized_name": "harvey_elliott",
+      "position": "MED",
+      "source_id": "6580",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:660",
+      "name": "Rubén García",
+      "normalized_name": "ruben_garcia",
+      "position": "MED",
+      "source_id": "660",
+      "team": "Osasuna",
+      "team_source_id": "13"
+    },
+    {
+      "id": "futbolfantasy:6605",
+      "name": "Manu Sánchez",
+      "normalized_name": "manu_sanchez",
+      "position": "DEF",
+      "source_id": "6605",
+      "team": "Levante",
+      "team_source_id": "10"
+    },
+    {
+      "id": "futbolfantasy:6611",
+      "name": "Sergio Herrera",
+      "normalized_name": "sergio_herrera",
+      "position": "POR",
+      "source_id": "6611",
+      "team": "Osasuna",
+      "team_source_id": "13"
+    },
+    {
+      "id": "futbolfantasy:663",
+      "name": "José Gayà",
+      "normalized_name": "jose_gaya",
+      "position": "DEF",
+      "source_id": "663",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:6631",
+      "name": "Rodrygo Goes",
+      "normalized_name": "rodrygo_goes",
+      "position": "DEL",
+      "source_id": "6631",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:6633",
+      "name": "Jorge de Frutos",
+      "normalized_name": "jorge_de_frutos",
+      "position": "DEL",
+      "source_id": "6633",
+      "team": "Rayo",
+      "team_source_id": "14"
+    },
+    {
+      "id": "futbolfantasy:6635",
+      "name": "Ante Budimir",
+      "normalized_name": "ante_budimir",
+      "position": "DEL",
+      "source_id": "6635",
+      "team": "Osasuna",
+      "team_source_id": "13"
+    },
+    {
+      "id": "futbolfantasy:6665",
+      "name": "Luis Rioja",
+      "normalized_name": "luis_rioja",
+      "position": "MED",
+      "source_id": "6665",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:6674",
+      "name": "Jules Koundé",
+      "normalized_name": "jules_kounde",
+      "position": "DEF",
+      "source_id": "6674",
+      "team": "Barcelona",
+      "team_source_id": "3"
+    },
+    {
+      "id": "futbolfantasy:6814",
+      "name": "Eneko Jauregi",
+      "normalized_name": "eneko_jauregi",
+      "position": "DEL",
+      "source_id": "6814",
+      "team": "Málaga",
+      "team_source_id": "11"
+    },
+    {
+      "id": "futbolfantasy:6853",
+      "name": "Randy Nteka",
+      "normalized_name": "randy_nteka",
+      "position": "DEL",
+      "source_id": "6853",
+      "team": "Rayo",
+      "team_source_id": "14"
+    },
+    {
+      "id": "futbolfantasy:6882",
+      "name": "Tete Morente",
+      "normalized_name": "tete_morente",
+      "position": "DEL",
+      "source_id": "6882",
+      "team": "Elche",
+      "team_source_id": "21"
+    },
+    {
+      "id": "futbolfantasy:6885",
+      "name": "Aleix Febas",
+      "normalized_name": "aleix_febas",
+      "position": "MED",
+      "source_id": "6885",
+      "team": "Celta",
+      "team_source_id": "5"
+    },
+    {
+      "id": "futbolfantasy:6889",
+      "name": "Óscar Valentín",
+      "normalized_name": "oscar_valentin",
+      "position": "MED",
+      "source_id": "6889",
+      "team": "Rayo",
+      "team_source_id": "14"
+    },
+    {
+      "id": "futbolfantasy:6890",
+      "name": "Andrés Martín",
+      "normalized_name": "andres_martin",
+      "position": "DEL",
+      "source_id": "6890",
+      "team": "Racing",
+      "team_source_id": "42"
+    },
+    {
+      "id": "futbolfantasy:6957",
+      "name": "Isi Palazón",
+      "normalized_name": "isi_palazon",
+      "position": "DEL",
+      "source_id": "6957",
+      "team": "Rayo",
+      "team_source_id": "14"
+    },
+    {
+      "id": "futbolfantasy:697",
+      "name": "Aymeric Laporte",
+      "normalized_name": "aymeric_laporte",
+      "position": "DEF",
+      "source_id": "697",
+      "team": "Athletic",
+      "team_source_id": "1"
+    },
+    {
+      "id": "futbolfantasy:6973",
+      "name": "Alfonso Herrero",
+      "normalized_name": "alfonso_herrero",
+      "position": "POR",
+      "source_id": "6973",
+      "team": "Málaga",
+      "team_source_id": "11"
+    },
+    {
+      "id": "futbolfantasy:698",
+      "name": "Germán Parreño",
+      "normalized_name": "german_parreno",
+      "position": "POR",
+      "source_id": "698",
+      "team": "Deportivo",
+      "team_source_id": "6"
+    },
+    {
+      "id": "futbolfantasy:7006",
+      "name": "Oihan Sancet",
+      "normalized_name": "oihan_sancet",
+      "position": "MED",
+      "source_id": "7006",
+      "team": "Athletic",
+      "team_source_id": "1"
+    },
+    {
+      "id": "futbolfantasy:7027",
+      "name": "Raúl García",
+      "normalized_name": "raul_garcia",
+      "position": "DEL",
+      "source_id": "7027",
+      "team": "Osasuna",
+      "team_source_id": "13"
+    },
+    {
+      "id": "futbolfantasy:7028",
+      "name": "Nemanja Gudelj",
+      "normalized_name": "nemanja_gudelj",
+      "position": "MED",
+      "source_id": "7028",
+      "team": "Getafe",
+      "team_source_id": "8"
+    },
+    {
+      "id": "futbolfantasy:707",
+      "name": "Diego Javier Llorente",
+      "normalized_name": "diego_javier_llorente",
+      "position": "DEF",
+      "source_id": "707",
+      "team": "Betis",
+      "team_source_id": "4"
+    },
+    {
+      "id": "futbolfantasy:7081",
+      "name": "Fernando Niño",
+      "normalized_name": "fernando_nino",
+      "position": "DEL",
+      "source_id": "7081",
+      "team": "Elche",
+      "team_source_id": "21"
+    },
+    {
+      "id": "futbolfantasy:7082",
+      "name": "Jorge Herrando",
+      "normalized_name": "jorge_herrando",
+      "position": "DEF",
+      "source_id": "7082",
+      "team": "Osasuna",
+      "team_source_id": "13"
+    },
+    {
+      "id": "futbolfantasy:7091",
+      "name": "Takefusa Kubo",
+      "normalized_name": "takefusa_kubo",
+      "position": "MED",
+      "source_id": "7091",
+      "team": "Real Sociedad",
+      "team_source_id": "16"
+    },
+    {
+      "id": "futbolfantasy:7100",
+      "name": "Marash Kumbulla",
+      "normalized_name": "marash_kumbulla",
+      "position": "DEF",
+      "source_id": "7100",
+      "team": "Rayo",
+      "team_source_id": "14"
+    },
+    {
+      "id": "futbolfantasy:7199",
+      "name": "Sergio Carreira",
+      "normalized_name": "sergio_carreira",
+      "position": "DEF",
+      "source_id": "7199",
+      "team": "Celta",
+      "team_source_id": "5"
+    },
+    {
+      "id": "futbolfantasy:7201",
+      "name": "Iker Losada",
+      "normalized_name": "iker_losada",
+      "position": "DEL",
+      "source_id": "7201",
+      "team": "Betis",
+      "team_source_id": "4"
+    },
+    {
+      "id": "futbolfantasy:7203",
+      "name": "Aimar Oroz",
+      "normalized_name": "aimar_oroz",
+      "position": "MED",
+      "source_id": "7203",
+      "team": "Osasuna",
+      "team_source_id": "13"
+    },
+    {
+      "id": "futbolfantasy:7204",
+      "name": "Jon Moncayola",
+      "normalized_name": "jon_moncayola",
+      "position": "MED",
+      "source_id": "7204",
+      "team": "Osasuna",
+      "team_source_id": "13"
+    },
+    {
+      "id": "futbolfantasy:7209",
+      "name": "Nicolas Pépé",
+      "normalized_name": "nicolas_pepe",
+      "position": "DEL",
+      "source_id": "7209",
+      "team": "Villarreal",
+      "team_source_id": "22"
+    },
+    {
+      "id": "futbolfantasy:7249",
+      "name": "Lucien Agoume",
+      "normalized_name": "lucien_agoume",
+      "position": "MED",
+      "source_id": "7249",
+      "team": "Sevilla",
+      "team_source_id": "17"
+    },
+    {
+      "id": "futbolfantasy:7251",
+      "name": "Iván Balliu",
+      "normalized_name": "ivan_balliu",
+      "position": "DEF",
+      "source_id": "7251",
+      "team": "Rayo",
+      "team_source_id": "14"
+    },
+    {
+      "id": "futbolfantasy:7257",
+      "name": "Pedri González",
+      "normalized_name": "pedri_gonzalez",
+      "position": "MED",
+      "source_id": "7257",
+      "team": "Barcelona",
+      "team_source_id": "3"
+    },
+    {
+      "id": "futbolfantasy:7279",
+      "name": "Joan Garcia",
+      "normalized_name": "joan_garcia",
+      "position": "POR",
+      "source_id": "7279",
+      "team": "Barcelona",
+      "team_source_id": "3"
+    },
+    {
+      "id": "futbolfantasy:7293",
+      "name": "Robert Navarro",
+      "normalized_name": "robert_navarro",
+      "position": "MED",
+      "source_id": "7293",
+      "team": "Athletic",
+      "team_source_id": "1"
+    },
+    {
+      "id": "futbolfantasy:7307",
+      "name": "Pathé Ciss",
+      "normalized_name": "pathe_ciss",
+      "position": "MED",
+      "source_id": "7307",
+      "team": "Rayo",
+      "team_source_id": "14"
+    },
+    {
+      "id": "futbolfantasy:7309",
+      "name": "Riki Rodríguez",
+      "normalized_name": "riki_rodriguez",
+      "position": "MED",
+      "source_id": "7309",
+      "team": "Deportivo",
+      "team_source_id": "6"
+    },
+    {
+      "id": "futbolfantasy:735",
+      "name": "Yuri Berchiche",
+      "normalized_name": "yuri_berchiche",
+      "position": "DEF",
+      "source_id": "735",
+      "team": "Athletic",
+      "team_source_id": "1"
+    },
+    {
+      "id": "futbolfantasy:7542",
+      "name": "Eric Garcia",
+      "normalized_name": "eric_garcia",
+      "position": "DEF",
+      "source_id": "7542",
+      "team": "Barcelona",
+      "team_source_id": "3"
+    },
+    {
+      "id": "futbolfantasy:7554",
+      "name": "Diego Conde",
+      "normalized_name": "diego_conde",
+      "position": "POR",
+      "source_id": "7554",
+      "team": "Betis",
+      "team_source_id": "4"
+    },
+    {
+      "id": "futbolfantasy:7570",
+      "name": "Dani Cárdenas",
+      "normalized_name": "dani_cardenas",
+      "position": "POR",
+      "source_id": "7570",
+      "team": "Rayo",
+      "team_source_id": "14"
+    },
+    {
+      "id": "futbolfantasy:7589",
+      "name": "Troy Parrott",
+      "normalized_name": "troy_parrott",
+      "position": "DEL",
+      "source_id": "7589",
+      "team": "Betis",
+      "team_source_id": "4"
+    },
+    {
+      "id": "futbolfantasy:7595",
+      "name": "Anthony Gordon",
+      "normalized_name": "anthony_gordon",
+      "position": "DEL",
+      "source_id": "7595",
+      "team": "Barcelona",
+      "team_source_id": "3"
+    },
+    {
+      "id": "futbolfantasy:7614",
+      "name": "Pablo Martínez",
+      "normalized_name": "pablo_martinez",
+      "position": "MED",
+      "source_id": "7614",
+      "team": "Málaga",
+      "team_source_id": "11"
+    },
+    {
+      "id": "futbolfantasy:7629",
+      "name": "Iván Romero",
+      "normalized_name": "ivan_romero",
+      "position": "DEL",
+      "source_id": "7629",
+      "team": "Levante",
+      "team_source_id": "10"
+    },
+    {
+      "id": "futbolfantasy:7638",
+      "name": "Jesús Areso",
+      "normalized_name": "jesus_areso",
+      "position": "DEF",
+      "source_id": "7638",
+      "team": "Athletic",
+      "team_source_id": "1"
+    },
+    {
+      "id": "futbolfantasy:7644",
+      "name": "Víctor García",
+      "normalized_name": "victor_garcia",
+      "position": "DEF",
+      "source_id": "7644",
+      "team": "Levante",
+      "team_source_id": "10"
+    },
+    {
+      "id": "futbolfantasy:7645",
+      "name": "Álex Baena",
+      "normalized_name": "alex_baena",
+      "position": "MED",
+      "source_id": "7645",
+      "team": "Atlético",
+      "team_source_id": "2"
+    },
+    {
+      "id": "futbolfantasy:7658",
+      "name": "Germán Valera",
+      "normalized_name": "german_valera",
+      "position": "MED",
+      "source_id": "7658",
+      "team": "Elche",
+      "team_source_id": "21"
+    },
+    {
+      "id": "futbolfantasy:7676",
+      "name": "Guido Rodríguez",
+      "normalized_name": "guido_rodriguez",
+      "position": "MED",
+      "source_id": "7676",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:7686",
+      "name": "Julen Lobete",
+      "normalized_name": "julen_lobete",
+      "position": "DEL",
+      "source_id": "7686",
+      "team": "Málaga",
+      "team_source_id": "11"
+    },
+    {
+      "id": "futbolfantasy:7703",
+      "name": "Ramón Enríquez",
+      "normalized_name": "ramon_enriquez",
+      "position": "MED",
+      "source_id": "7703",
+      "team": "Málaga",
+      "team_source_id": "11"
+    },
+    {
+      "id": "futbolfantasy:7725",
+      "name": "Jon Pacheco",
+      "normalized_name": "jon_pacheco",
+      "position": "DEF",
+      "source_id": "7725",
+      "team": "Real Sociedad",
+      "team_source_id": "16"
+    },
+    {
+      "id": "futbolfantasy:775",
+      "name": "José María Giménez",
+      "normalized_name": "jose_maria_gimenez",
+      "position": "DEF",
+      "source_id": "775",
+      "team": "Deportivo",
+      "team_source_id": "6"
+    },
+    {
+      "id": "futbolfantasy:7786",
+      "name": "Giorgi Kochorashvili",
+      "normalized_name": "giorgi_kochorashvili",
+      "position": "MED",
+      "source_id": "7786",
+      "team": "Sevilla",
+      "team_source_id": "17"
+    },
+    {
+      "id": "futbolfantasy:7842",
+      "name": "Ferran Jutglà",
+      "normalized_name": "ferran_jutgla",
+      "position": "DEL",
+      "source_id": "7842",
+      "team": "Celta",
+      "team_source_id": "5"
+    },
+    {
+      "id": "futbolfantasy:7870",
+      "name": "Raul Moro",
+      "normalized_name": "raul_moro",
+      "position": "DEL",
+      "source_id": "7870",
+      "team": "Osasuna",
+      "team_source_id": "13"
+    },
+    {
+      "id": "futbolfantasy:7902",
+      "name": "Hugo Novoa",
+      "normalized_name": "hugo_novoa",
+      "position": "DEF",
+      "source_id": "7902",
+      "team": "Alavés",
+      "team_source_id": "28"
+    },
+    {
+      "id": "futbolfantasy:7916",
+      "name": "Aitor Paredes",
+      "normalized_name": "aitor_paredes",
+      "position": "DEF",
+      "source_id": "7916",
+      "team": "Athletic",
+      "team_source_id": "1"
+    },
+    {
+      "id": "futbolfantasy:7917",
+      "name": "Beñat Prados",
+      "normalized_name": "benat_prados",
+      "position": "MED",
+      "source_id": "7917",
+      "team": "Athletic",
+      "team_source_id": "1"
+    },
+    {
+      "id": "futbolfantasy:7920",
+      "name": "Nico Serrano",
+      "normalized_name": "nico_serrano",
+      "position": "DEL",
+      "source_id": "7920",
+      "team": "Athletic",
+      "team_source_id": "1"
+    },
+    {
+      "id": "futbolfantasy:7995",
+      "name": "Francho Serrano",
+      "normalized_name": "francho_serrano",
+      "position": "MED",
+      "source_id": "7995",
+      "team": "Getafe",
+      "team_source_id": "8"
+    },
+    {
+      "id": "futbolfantasy:8080",
+      "name": "Miguel Rodríguez",
+      "normalized_name": "miguel_rodriguez",
+      "position": "DEL",
+      "source_id": "8080",
+      "team": "Alavés",
+      "team_source_id": "28"
+    },
+    {
+      "id": "futbolfantasy:8082",
+      "name": "Ilaix Moriba",
+      "normalized_name": "ilaix_moriba",
+      "position": "MED",
+      "source_id": "8082",
+      "team": "Celta",
+      "team_source_id": "5"
+    },
+    {
+      "id": "futbolfantasy:8088",
+      "name": "Oriol Rey",
+      "normalized_name": "oriol_rey",
+      "position": "MED",
+      "source_id": "8088",
+      "team": "Levante",
+      "team_source_id": "10"
+    },
+    {
+      "id": "futbolfantasy:8091",
+      "name": "Félix Correia",
+      "normalized_name": "felix_correia",
+      "position": "DEL",
+      "source_id": "8091",
+      "team": "Sevilla",
+      "team_source_id": "17"
+    },
+    {
+      "id": "futbolfantasy:8228",
+      "name": "Urko González de Zarate",
+      "normalized_name": "urko_gonzalez_de_zarate",
+      "position": "MED",
+      "source_id": "8228",
+      "team": "Espanyol",
+      "team_source_id": "7"
+    },
+    {
+      "id": "futbolfantasy:8250",
+      "name": "José Salinas",
+      "normalized_name": "jose_salinas",
+      "position": "DEF",
+      "source_id": "8250",
+      "team": "Málaga",
+      "team_source_id": "11"
+    },
+    {
+      "id": "futbolfantasy:8273",
+      "name": "Víctor Chust",
+      "normalized_name": "victor_chust",
+      "position": "DEF",
+      "source_id": "8273",
+      "team": "Elche",
+      "team_source_id": "21"
+    },
+    {
+      "id": "futbolfantasy:829",
+      "name": "Aitor Fernández",
+      "normalized_name": "aitor_fernandez",
+      "position": "POR",
+      "source_id": "829",
+      "team": "Osasuna",
+      "team_source_id": "13"
+    },
+    {
+      "id": "futbolfantasy:8294",
+      "name": "Umar Sadiq",
+      "normalized_name": "umar_sadiq",
+      "position": "DEL",
+      "source_id": "8294",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:8337",
+      "name": "Georgiy Tsitaishvili",
+      "normalized_name": "georgiy_tsitaishvili",
+      "position": "DEL",
+      "source_id": "8337",
+      "team": "Rayo",
+      "team_source_id": "14"
+    },
+    {
+      "id": "futbolfantasy:8386",
+      "name": "Jude Bellingham",
+      "normalized_name": "jude_bellingham",
+      "position": "MED",
+      "source_id": "8386",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:8392",
+      "name": "Luka Sucic",
+      "normalized_name": "luka_sucic",
+      "position": "MED",
+      "source_id": "8392",
+      "team": "Real Sociedad",
+      "team_source_id": "16"
+    },
+    {
+      "id": "futbolfantasy:8395",
+      "name": "Karim Adeyemi",
+      "normalized_name": "karim_adeyemi",
+      "position": "DEL",
+      "source_id": "8395",
+      "team": "Barcelona",
+      "team_source_id": "3"
+    },
+    {
+      "id": "futbolfantasy:8405",
+      "name": "Antony",
+      "normalized_name": "antony",
+      "position": "DEL",
+      "source_id": "8405",
+      "team": "Betis",
+      "team_source_id": "4"
+    },
+    {
+      "id": "futbolfantasy:841",
+      "name": "Moi Gómez",
+      "normalized_name": "moi_gomez",
+      "position": "MED",
+      "source_id": "841",
+      "team": "Osasuna",
+      "team_source_id": "13"
+    },
+    {
+      "id": "futbolfantasy:8413",
+      "name": "Pape Gueye",
+      "normalized_name": "pape_gueye",
+      "position": "MED",
+      "source_id": "8413",
+      "team": "Villarreal",
+      "team_source_id": "22"
+    },
+    {
+      "id": "futbolfantasy:843",
+      "name": "Gerard Moreno",
+      "normalized_name": "gerard_moreno",
+      "position": "DEL",
+      "source_id": "843",
+      "team": "Villarreal",
+      "team_source_id": "22"
+    },
+    {
+      "id": "futbolfantasy:8479",
+      "name": "Eduardo Camavinga",
+      "normalized_name": "eduardo_camavinga",
+      "position": "MED",
+      "source_id": "8479",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:8485",
+      "name": "Romain Del Castillo",
+      "normalized_name": "romain_del_castillo",
+      "position": "DEL",
+      "source_id": "8485",
+      "team": "Osasuna",
+      "team_source_id": "13"
+    },
+    {
+      "id": "futbolfantasy:8496",
+      "name": "Martín Satriano",
+      "normalized_name": "martin_satriano",
+      "position": "DEL",
+      "source_id": "8496",
+      "team": "Getafe",
+      "team_source_id": "8"
+    },
+    {
+      "id": "futbolfantasy:863",
+      "name": "Florian Lejeune",
+      "normalized_name": "florian_lejeune",
+      "position": "DEF",
+      "source_id": "863",
+      "team": "Rayo",
+      "team_source_id": "14"
+    },
+    {
+      "id": "futbolfantasy:8634",
+      "name": "Rafael Romero",
+      "normalized_name": "rafael_romero",
+      "position": "POR",
+      "source_id": "8634",
+      "team": "Sevilla",
+      "team_source_id": "17"
+    },
+    {
+      "id": "futbolfantasy:8651",
+      "name": "Beñat Turrientes",
+      "normalized_name": "benat_turrientes",
+      "position": "MED",
+      "source_id": "8651",
+      "team": "Real Sociedad",
+      "team_source_id": "16"
+    },
+    {
+      "id": "futbolfantasy:867",
+      "name": "Álvaro García",
+      "normalized_name": "alvaro_garcia",
+      "position": "MED",
+      "source_id": "867",
+      "team": "Rayo",
+      "team_source_id": "14"
+    },
+    {
+      "id": "futbolfantasy:8679",
+      "name": "Unai Marrero",
+      "normalized_name": "unai_marrero",
+      "position": "POR",
+      "source_id": "8679",
+      "team": "Real Sociedad",
+      "team_source_id": "16"
+    },
+    {
+      "id": "futbolfantasy:8684",
+      "name": "Jesús Vázquez",
+      "normalized_name": "jesus_vazquez",
+      "position": "DEF",
+      "source_id": "8684",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:8686",
+      "name": "Juan Iglesias",
+      "normalized_name": "juan_iglesias",
+      "position": "DEF",
+      "source_id": "8686",
+      "team": "Sevilla",
+      "team_source_id": "17"
+    },
+    {
+      "id": "futbolfantasy:8693",
+      "name": "Nico Williams",
+      "normalized_name": "nico_williams",
+      "position": "DEL",
+      "source_id": "8693",
+      "team": "Athletic",
+      "team_source_id": "1"
+    },
+    {
+      "id": "futbolfantasy:8695",
+      "name": "Boyomo",
+      "normalized_name": "boyomo",
+      "position": "DEF",
+      "source_id": "8695",
+      "team": "Osasuna",
+      "team_source_id": "13"
+    },
+    {
+      "id": "futbolfantasy:8703",
+      "name": "Alfonso González",
+      "normalized_name": "alfonso_gonzalez",
+      "position": "DEL",
+      "source_id": "8703",
+      "team": "Sevilla",
+      "team_source_id": "17"
+    },
+    {
+      "id": "futbolfantasy:8712",
+      "name": "Mario Soriano",
+      "normalized_name": "mario_soriano",
+      "position": "MED",
+      "source_id": "8712",
+      "team": "Deportivo",
+      "team_source_id": "6"
+    },
+    {
+      "id": "futbolfantasy:8737",
+      "name": "Antonio Blanco",
+      "normalized_name": "antonio_blanco",
+      "position": "MED",
+      "source_id": "8737",
+      "team": "Alavés",
+      "team_source_id": "28"
+    },
+    {
+      "id": "futbolfantasy:8780",
+      "name": "David Larrubia",
+      "normalized_name": "david_larrubia",
+      "position": "MED",
+      "source_id": "8780",
+      "team": "Málaga",
+      "team_source_id": "11"
+    },
+    {
+      "id": "futbolfantasy:8782",
+      "name": "Iván Azón",
+      "normalized_name": "ivan_azon",
+      "position": "DEL",
+      "source_id": "8782",
+      "team": "Getafe",
+      "team_source_id": "8"
+    },
+    {
+      "id": "futbolfantasy:8944",
+      "name": "Ramón Terrats",
+      "normalized_name": "ramon_terrats",
+      "position": "MED",
+      "source_id": "8944",
+      "team": "Getafe",
+      "team_source_id": "8"
+    },
+    {
+      "id": "futbolfantasy:8961",
+      "name": "Jon Ander Olasagasti",
+      "normalized_name": "jon_ander_olasagasti",
+      "position": "MED",
+      "source_id": "8961",
+      "team": "Levante",
+      "team_source_id": "10"
+    },
+    {
+      "id": "futbolfantasy:8972",
+      "name": "Pablo Ramón",
+      "normalized_name": "pablo_ramon",
+      "position": "DEF",
+      "source_id": "8972",
+      "team": "Racing",
+      "team_source_id": "42"
+    },
+    {
+      "id": "futbolfantasy:8986",
+      "name": "Eneko Ortiz",
+      "normalized_name": "eneko_ortiz",
+      "position": "DEF",
+      "source_id": "8986",
+      "team": "Villarreal",
+      "team_source_id": "22"
+    },
+    {
+      "id": "futbolfantasy:8988",
+      "name": "Hugo Sotelo",
+      "normalized_name": "hugo_sotelo",
+      "position": "MED",
+      "source_id": "8988",
+      "team": "Levante",
+      "team_source_id": "10"
+    },
+    {
+      "id": "futbolfantasy:899",
+      "name": "Johan Mojica",
+      "normalized_name": "johan_mojica",
+      "position": "DEF",
+      "source_id": "899",
+      "team": "Getafe",
+      "team_source_id": "8"
+    },
+    {
+      "id": "futbolfantasy:9011",
+      "name": "Arsen Zakharyan",
+      "normalized_name": "arsen_zakharyan",
+      "position": "MED",
+      "source_id": "9011",
+      "team": "Real Sociedad",
+      "team_source_id": "16"
+    },
+    {
+      "id": "futbolfantasy:9012",
+      "name": "Altay Bayindir",
+      "normalized_name": "altay_bayindir",
+      "position": "POR",
+      "source_id": "9012",
+      "team": "Celta",
+      "team_source_id": "5"
+    },
+    {
+      "id": "futbolfantasy:9125",
+      "name": "Rubén Vargas",
+      "normalized_name": "ruben_vargas",
+      "position": "DEL",
+      "source_id": "9125",
+      "team": "Sevilla",
+      "team_source_id": "17"
+    },
+    {
+      "id": "futbolfantasy:9157",
+      "name": "Roger Brugué",
+      "normalized_name": "roger_brugue",
+      "position": "DEL",
+      "source_id": "9157",
+      "team": "Levante",
+      "team_source_id": "10"
+    },
+    {
+      "id": "futbolfantasy:9161",
+      "name": "Matías Dituro",
+      "normalized_name": "matias_dituro",
+      "position": "POR",
+      "source_id": "9161",
+      "team": "Elche",
+      "team_source_id": "21"
+    },
+    {
+      "id": "futbolfantasy:9201",
+      "name": "Sergi Canós",
+      "normalized_name": "sergi_canos",
+      "position": "DEL",
+      "source_id": "9201",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:9213",
+      "name": "Julen Agirrezabala",
+      "normalized_name": "julen_agirrezabala",
+      "position": "POR",
+      "source_id": "9213",
+      "team": "Racing",
+      "team_source_id": "42"
+    },
+    {
+      "id": "futbolfantasy:9218",
+      "name": "Arnau Martínez",
+      "normalized_name": "arnau_martinez",
+      "position": "DEF",
+      "source_id": "9218",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:9234",
+      "name": "José Manuel Copete",
+      "normalized_name": "jose_manuel_copete",
+      "position": "DEF",
+      "source_id": "9234",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:9273",
+      "name": "Pablo Gavi",
+      "normalized_name": "pablo_gavi",
+      "position": "MED",
+      "source_id": "9273",
+      "team": "Barcelona",
+      "team_source_id": "3"
+    },
+    {
+      "id": "futbolfantasy:9276",
+      "name": "Giuliano Simeone",
+      "normalized_name": "giuliano_simeone",
+      "position": "DEL",
+      "source_id": "9276",
+      "team": "Atlético",
+      "team_source_id": "2"
+    },
+    {
+      "id": "futbolfantasy:9304",
+      "name": "Diego López",
+      "normalized_name": "diego_lopez",
+      "position": "DEL",
+      "source_id": "9304",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:9316",
+      "name": "Alejandro Balde",
+      "normalized_name": "alejandro_balde",
+      "position": "DEF",
+      "source_id": "9316",
+      "team": "Barcelona",
+      "team_source_id": "3"
+    },
+    {
+      "id": "futbolfantasy:9317",
+      "name": "José Ángel Carmona",
+      "normalized_name": "jose_angel_carmona",
+      "position": "DEF",
+      "source_id": "9317",
+      "team": "Sevilla",
+      "team_source_id": "17"
+    },
+    {
+      "id": "futbolfantasy:9321",
+      "name": "Haitam Abaida",
+      "normalized_name": "haitam_abaida",
+      "position": "DEL",
+      "source_id": "9321",
+      "team": "Málaga",
+      "team_source_id": "11"
+    },
+    {
+      "id": "futbolfantasy:9405",
+      "name": "Leo Román",
+      "normalized_name": "leo_roman",
+      "position": "POR",
+      "source_id": "9405",
+      "team": "Deportivo",
+      "team_source_id": "6"
+    },
+    {
+      "id": "futbolfantasy:943",
+      "name": "Dimitri Foulquier",
+      "normalized_name": "dimitri_foulquier",
+      "position": "DEF",
+      "source_id": "943",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:9500",
+      "name": "Fábio Cardoso",
+      "normalized_name": "fabio_cardoso",
+      "position": "DEF",
+      "source_id": "9500",
+      "team": "Sevilla",
+      "team_source_id": "17"
+    },
+    {
+      "id": "futbolfantasy:9531",
+      "name": "Valentin Rosier",
+      "normalized_name": "valentin_rosier",
+      "position": "DEF",
+      "source_id": "9531",
+      "team": "Osasuna",
+      "team_source_id": "13"
+    },
+    {
+      "id": "futbolfantasy:9573",
+      "name": "Jonathan David",
+      "normalized_name": "jonathan_david",
+      "position": "DEL",
+      "source_id": "9573",
+      "team": "Atlético",
+      "team_source_id": "2"
+    },
+    {
+      "id": "futbolfantasy:9612",
+      "name": "Carl Starfelt",
+      "normalized_name": "carl_starfelt",
+      "position": "DEF",
+      "source_id": "9612",
+      "team": "Celta",
+      "team_source_id": "5"
+    },
+    {
+      "id": "futbolfantasy:9638",
+      "name": "Coke Carrillo",
+      "normalized_name": "coke_carrillo",
+      "position": "POR",
+      "source_id": "9638",
+      "team": "Celta",
+      "team_source_id": "5"
+    },
+    {
+      "id": "futbolfantasy:9669",
+      "name": "Aurélien Tchouaméni",
+      "normalized_name": "aurelien_tchouameni",
+      "position": "MED",
+      "source_id": "9669",
+      "team": "Real Madrid",
+      "team_source_id": "15"
+    },
+    {
+      "id": "futbolfantasy:9670",
+      "name": "Youssouf Fofana",
+      "normalized_name": "youssouf_fofana",
+      "position": "MED",
+      "source_id": "9670",
+      "team": "Sevilla",
+      "team_source_id": "17"
+    },
+    {
+      "id": "futbolfantasy:9695",
+      "name": "Rubén Sánchez",
+      "normalized_name": "ruben_sanchez",
+      "position": "DEF",
+      "source_id": "9695",
+      "team": "Elche",
+      "team_source_id": "21"
+    },
+    {
+      "id": "futbolfantasy:972",
+      "name": "Adama Traoré",
+      "normalized_name": "adama_traore",
+      "position": "DEL",
+      "source_id": "972",
+      "team": "Deportivo",
+      "team_source_id": "6"
+    },
+    {
+      "id": "futbolfantasy:9740",
+      "name": "Hugo Álvarez",
+      "normalized_name": "hugo_alvarez",
+      "position": "MED",
+      "source_id": "9740",
+      "team": "Celta",
+      "team_source_id": "5"
+    },
+    {
+      "id": "futbolfantasy:9744",
+      "name": "Hugo González",
+      "normalized_name": "hugo_gonzalez",
+      "position": "MED",
+      "source_id": "9744",
+      "team": "Celta",
+      "team_source_id": "5"
+    },
+    {
+      "id": "futbolfantasy:9750",
+      "name": "Abde Ezzalzouli",
+      "normalized_name": "abde_ezzalzouli",
+      "position": "DEL",
+      "source_id": "9750",
+      "team": "Betis",
+      "team_source_id": "4"
+    },
+    {
+      "id": "futbolfantasy:9759",
+      "name": "Alejandro Iturbe",
+      "normalized_name": "alejandro_iturbe",
+      "position": "POR",
+      "source_id": "9759",
+      "team": "Elche",
+      "team_source_id": "21"
+    },
+    {
+      "id": "futbolfantasy:9762",
+      "name": "César Tárrega",
+      "normalized_name": "cesar_tarrega",
+      "position": "DEF",
+      "source_id": "9762",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:9763",
+      "name": "Ilias Akhomach",
+      "normalized_name": "ilias_akhomach",
+      "position": "DEL",
+      "source_id": "9763",
+      "team": "Villarreal",
+      "team_source_id": "22"
+    },
+    {
+      "id": "futbolfantasy:9772",
+      "name": "Luismi Cruz",
+      "normalized_name": "luismi_cruz",
+      "position": "DEL",
+      "source_id": "9772",
+      "team": "Deportivo",
+      "team_source_id": "6"
+    },
+    {
+      "id": "futbolfantasy:9779",
+      "name": "Bryan Zaragoza",
+      "normalized_name": "bryan_zaragoza",
+      "position": "DEL",
+      "source_id": "9779",
+      "team": "Espanyol",
+      "team_source_id": "7"
+    },
+    {
+      "id": "futbolfantasy:9823",
+      "name": "Marc Pubill",
+      "normalized_name": "marc_pubill",
+      "position": "DEF",
+      "source_id": "9823",
+      "team": "Atlético",
+      "team_source_id": "2"
+    },
+    {
+      "id": "futbolfantasy:9850",
+      "name": "Jofre Carreras",
+      "normalized_name": "jofre_carreras",
+      "position": "DEL",
+      "source_id": "9850",
+      "team": "Espanyol",
+      "team_source_id": "7"
+    },
+    {
+      "id": "futbolfantasy:9854",
+      "name": "Arnau Comas",
+      "normalized_name": "arnau_comas",
+      "position": "DEF",
+      "source_id": "9854",
+      "team": "Deportivo",
+      "team_source_id": "6"
+    },
+    {
+      "id": "futbolfantasy:989",
+      "name": "Stole Dimitrievski",
+      "normalized_name": "stole_dimitrievski",
+      "position": "POR",
+      "source_id": "989",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:9897",
+      "name": "Adrián Rodríguez",
+      "normalized_name": "adrian_rodriguez",
+      "position": "POR",
+      "source_id": "9897",
+      "team": "Alavés",
+      "team_source_id": "28"
+    },
+    {
+      "id": "futbolfantasy:9909",
+      "name": "Nahuel Tenaglia",
+      "normalized_name": "nahuel_tenaglia",
+      "position": "DEF",
+      "source_id": "9909",
+      "team": "Alavés",
+      "team_source_id": "28"
+    },
+    {
+      "id": "futbolfantasy:9927",
+      "name": "Javi Guerra",
+      "normalized_name": "javi_guerra",
+      "position": "MED",
+      "source_id": "9927",
+      "team": "Valencia",
+      "team_source_id": "18"
+    },
+    {
+      "id": "futbolfantasy:9930",
+      "name": "Juan Carlos Arana",
+      "normalized_name": "juan_carlos_arana",
+      "position": "DEL",
+      "source_id": "9930",
+      "team": "Racing",
+      "team_source_id": "42"
+    },
+    {
+      "id": "futbolfantasy:9931",
+      "name": "Kike Salas",
+      "normalized_name": "kike_salas",
+      "position": "DEF",
+      "source_id": "9931",
+      "team": "Sevilla",
+      "team_source_id": "17"
+    },
+    {
+      "id": "futbolfantasy:9987",
+      "name": "Roberto Fernández",
+      "normalized_name": "roberto_fernandez",
+      "position": "DEL",
+      "source_id": "9987",
+      "team": "Espanyol",
+      "team_source_id": "7"
+    },
+    {
+      "id": "futbolfantasy:9989",
+      "name": "Sergi Cardona",
+      "normalized_name": "sergi_cardona",
+      "position": "DEF",
+      "source_id": "9989",
+      "team": "Villarreal",
+      "team_source_id": "22"
+    },
+    {
+      "id": "futbolfantasy:9990",
+      "name": "Alberto Moleiro",
+      "normalized_name": "alberto_moleiro",
+      "position": "MED",
+      "source_id": "9990",
+      "team": "Villarreal",
+      "team_source_id": "22"
+    }
+  ],
+  "schema_version": 1
+}
