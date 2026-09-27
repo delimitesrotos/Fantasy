@@ -32,6 +32,12 @@ def validate_snapshot(
     source_ids = [player.source_id for player in snapshot.players]
     if len(source_ids) != len(set(source_ids)):
         raise ValidationError("duplicate player ID from source")
+    composite_aliases = [
+        (player.normalized_name, player.team_source_id, player.position)
+        for player in snapshot.players
+    ]
+    if len(composite_aliases) != len(set(composite_aliases)):
+        raise ValidationError("ambiguous normalized identity within team and position")
     if len({player.team_source_id for player in snapshot.players}) < minimum_teams:
         raise ValidationError("team count is below the minimum")
     if {player.position for player in snapshot.players} != REQUIRED_POSITIONS:

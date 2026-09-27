@@ -61,6 +61,21 @@ class ValidateSnapshotTests(unittest.TestCase):
                 minimum_teams=1,
             )
 
+    def test_rejects_ambiguous_normalized_identity_within_same_team_and_position(self):
+        snapshot = make_snapshot()
+        ambiguous = replace(
+            snapshot.players[1],
+            normalized_name=snapshot.players[0].normalized_name,
+            team_source_id=snapshot.players[0].team_source_id,
+            position=snapshot.players[0].position,
+        )
+        with self.assertRaisesRegex(ValidationError, "ambiguous normalized identity"):
+            validate_snapshot(
+                replace(snapshot, players=(snapshot.players[0], ambiguous) + snapshot.players[2:]),
+                minimum_players=4,
+                minimum_teams=1,
+            )
+
     def test_rejects_non_positive_market_value(self):
         snapshot = make_snapshot()
         bad_value = replace(snapshot.market_values[0], value=0)
