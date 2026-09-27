@@ -5,7 +5,7 @@
     "starter_probabilities": 514
   },
   "dataset": "metadata",
-  "generated_at": "2026-09-27T13:04:20.136752+02:00",
+  "generated_at": "2026-09-27T20:26:55.159984+02:00",
   "pipeline_status": "valid",
   "platform": "laliga_fantasy_oficial",
   "schema_version": 1,
@@ -13,9 +13,9 @@
     "market_values": {
       "error": null,
       "freshness_max_age_hours": 30,
-      "last_success": "2026-09-27T13:04:20.136752+02:00",
+      "last_success": "2026-09-27T20:26:55.159984+02:00",
       "provider": "futbolfantasy",
-      "retrieved_at": "2026-09-27T13:04:20.136752+02:00",
+      "retrieved_at": "2026-09-27T20:26:55.159984+02:00",
       "source_updated_at": "2026-09-27T03:00:00+02:00",
       "status": "fresh",
       "url": "https://www.futbolfantasy.com/analytics/laliga-fantasy/mercado"
@@ -23,9 +23,9 @@
     "starter_probabilities": {
       "error": null,
       "freshness_max_age_hours": 8,
-      "last_success": "2026-09-27T13:04:20.136752+02:00",
+      "last_success": "2026-09-27T20:26:55.159984+02:00",
       "provider": "futbolfantasy",
-      "retrieved_at": "2026-09-27T13:04:20.136752+02:00",
+      "retrieved_at": "2026-09-27T20:26:55.159984+02:00",
       "source_updated_at": null,
       "status": "fresh",
       "url": "https://www.futbolfantasy.com/analytics/laliga-fantasy/mercado"
