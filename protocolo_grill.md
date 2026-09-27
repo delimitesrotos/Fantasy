@@ -5,7 +5,7 @@ Cuando el usuario inicia el asistente sin contexto previo, aplica
 pero ya no se pregunta en un bloque ni se confía en la memoria del chat.
 
 **Instrucción para el LLM:** Pide una sola captura o dato por turno, explica para
-qué sirve y guarda lo confirmado en la cápsula privada de la conversación.
+qué sirve y guarda lo confirmado en la hoja privada del Drive del jugador.
 
 ### Las 5 preguntas del Grill
 
@@ -17,5 +17,5 @@ qué sirve y guarda lo confirmado en la cápsula privada de la conversación.
    - *Conservador:* Prioriza titulares fijos, evita rotaciones y apuestas, compra valor seguro.
    - *Agresivo (Trader):* Busca especular con jugadores lesionados que vuelven, parches que suben de precio rápido, asume más ceros a cambio de maximizar patrimonio.
 
-*(Nota interna: `ESTADO_FANTASY` es el `User State` canónico. La memoria de
-sesión solo sirve para preparar y confirmar la siguiente actualización).*
+*(Nota interna: la hoja privada es el `User State` canónico. La memoria de
+sesión solo sirve para preparar y confirmar la siguiente escritura).*

@@ -4,16 +4,28 @@ from scripts.private_state.onboarding import next_onboarding_step
 
 
 class OnboardingStateMachineTests(unittest.TestCase):
-    def test_daily_trigger_routes_to_first_missing_stage(self):
+    def test_first_stage_requires_friends_drive_document(self):
         result = next_onboarding_step({}, "¿Qué hago hoy?")
 
-        self.assertEqual(result["stage"], "league_rules")
+        self.assertEqual(result["stage"], "drive_setup")
         self.assertEqual(result["flow"], "onboarding")
         self.assertEqual(len(result["questions"]), 1)
-        self.assertIn("reglas", result["questions"][0].lower())
+        self.assertIn("tu google drive", result["questions"][0].lower())
+
+    def test_drive_stage_is_not_complete_without_canonical_sheet_url(self):
+        state = {"drive_setup": {"complete": True}}
+
+        result = next_onboarding_step(state, "Empezar Fantasy")
+
+        self.assertEqual(result["stage"], "drive_setup")
+        self.assertEqual(result["action"], "connect_or_create_private_sheet")
 
     def test_partial_state_resumes_at_first_missing_stage(self):
         state = {
+            "drive_setup": {
+                "complete": True,
+                "spreadsheet_url": "https://docs.google.com/spreadsheets/d/example",
+            },
             "league_rules": {"complete": True},
             "own_team": {"complete": True},
             "standings": {"complete": False},
@@ -28,6 +40,10 @@ class OnboardingStateMachineTests(unittest.TestCase):
 
     def test_rival_rosters_are_progressive_and_do_not_block_ready_state(self):
         state = {
+            "drive_setup": {
+                "complete": True,
+                "spreadsheet_url": "https://docs.google.com/spreadsheets/d/example",
+            },
             "league_rules": {"complete": True},
             "own_team": {"complete": True},
             "standings": {"complete": True},
@@ -43,6 +59,10 @@ class OnboardingStateMachineTests(unittest.TestCase):
 
     def test_ready_state_routes_matchday_trigger(self):
         state = {
+            "drive_setup": {
+                "complete": True,
+                "spreadsheet_url": "https://docs.google.com/spreadsheets/d/example",
+            },
             "league_rules": {"complete": True},
             "own_team": {"complete": True},
             "standings": {"complete": True},

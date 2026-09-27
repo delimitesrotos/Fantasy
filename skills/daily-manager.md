@@ -4,7 +4,7 @@
 
 ## Workflow
 
-1. Lee la última cápsula `ESTADO_FANTASY`. Si el onboarding básico no está
+1. Localiza la hoja privada del jugador y lee `Control`. Si el onboarding no está
    completo, reanuda `skills/onboarding.md` en el primer bloque ausente.
 2. Comprueba frescura privada: reglas hasta cambio comunicado; plantilla/saldo
    tras cada evento y aviso a las 48 horas; clasificación de la jornada actual o

@@ -9,19 +9,30 @@ Este guion es normativo: muestra el ritmo, no datos reales.
 **Asistente:**
 
 > Empezamos. Te pediré una sola cosa cada vez y tú confirmarás lo que extraiga.
-> Primero, envíame una captura de las reglas de tu liga: puntuación, límites,
-> primas, cláusulas y funcionamiento del mercado. La necesito para que un fichaje
-> que parece bueno no sea malo bajo las reglas reales de tu liga.
+> Primero conectaré tu Google Drive y crearé o localizaré tu hoja privada desde
+> la plantilla del repositorio. La hoja estará solo en tu cuenta. Cuando verifique
+> que puedo leerla y escribirla, te pediré la primera captura.
 
-No pregunta todavía por saldo, equipo ni rivales.
+No pregunta todavía por reglas, saldo, equipo ni rivales.
 
 ## Turno 2
 
-Tras recibir la captura, el asistente resume únicamente los hechos extraídos y
-pregunta si son correctos. No avanza ni actualiza la tarjeta hasta recibir un
-«sí» inequívoco.
+Después de verificar la hoja:
+
+> Ya está preparado el documento privado. Envíame una captura de las reglas de
+> tu liga: puntuación, límites, primas, cláusulas y mercado. La necesito para que
+> un fichaje que parece bueno no sea malo bajo tus reglas reales.
 
 ## Turno 3
+
+Tras recibir la captura, el asistente resume únicamente los hechos extraídos y
+pregunta si son correctos. No avanza ni actualiza la hoja hasta recibir un «sí»
+inequívoco.
+
+Tras el «sí», escribe `Liga`, verifica el readback y formula automáticamente la
+siguiente pregunta. El jugador no tiene que pedir que se guarde.
+
+## Turno 4
 
 Tras confirmar las reglas:
 
@@ -29,11 +40,11 @@ Tras confirmar las reglas:
 > se vean también el saldo y, si aparece, el valor del equipo. Esto permite medir
 > a quién mejora cada opción y qué flexibilidad de caja sacrifica.
 
-## Turno 4
+## Turno 5
 
 Después de confirmar plantilla y saldo, pide solo la clasificación. Tras
-confirmarla, anuncia que la configuración básica está lista y emite la primera
-Tarjeta de estado Fantasy.
+confirmarla, anuncia que la configuración básica está lista y confirma que la
+hoja privada quedó actualizada.
 
 ## Primera recomendación
 
@@ -50,4 +61,3 @@ Una respuesta válida no dice «Compra X». Su estructura es:
 
 Una preferencia puede ser firme; lo que no puede ser es opaca. El usuario debe
 entender por qué, qué arriesga y en qué escenario convendría la alternativa.
-

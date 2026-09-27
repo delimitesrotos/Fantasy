@@ -37,18 +37,23 @@ actualización cuando existe y estado `fresh`, `stale` o `unknown`.
    > Lee `https://github.com/delimitesrotos/Fantasy` y sigue `SKILL.md`.
    > Empezar Fantasy.
 
-2. El onboarding pide una sola captura por turno y mantiene reglas, equipo y
-   clasificación en una cápsula privada visible dentro de su conversación.
+2. El onboarding guía la conexión del Google Drive de tu amigo y crea/localiza
+   allí una copia privada de `templates/Fantasy-Estado-Privado.xlsx`.
 3. Después basta escribir **¿Qué hago hoy?** o **Prepara mi jornada**. Si hace
    falta, el chat pedirá una captura del mercado privado de ese día.
-4. El chat consulta primero la cápsula, `metadata.json` y los snapshots frescos, y busca en
-   Internet solamente contexto complementario.
+4. El chat consulta primero la hoja privada, `metadata.json` y los snapshots
+   frescos, y busca en Internet solamente contexto complementario.
 5. Recibes alternativas justificadas con ventajas, costes, riesgos y umbrales.
    Tú eliges y confirmas; después ejecutas manualmente la acción en la app.
 
-El propietario del repositorio no configura nada, no usa Drive y no recibe los
-datos privados. Si tu amigo cambia de chat, pega la última cápsula que el propio
-chat le mostró; no necesita entenderla ni editarla.
+El propietario del repositorio no configura nada, no usa su Drive y no recibe
+los datos privados. La hoja se crea únicamente en el Drive conectado de tu
+amigo. En un chat nuevo, el asistente vuelve a localizarla y lee `Control`.
+
+Cada mensaje ejecuta primero `skills/private-state-runtime.md`. Si contiene una
+captura, audio, compra, venta, saldo, regla o dato de rival, el chat inicia la
+actualización por sí mismo, verifica la escritura y solo después analiza. Tu
+amigo no necesita saber que debe pedir «actualiza la hoja».
 
 Un valor leído por ti en la aplicación oficial tiene prioridad durante esa
 conversación. Si el snapshot está caducado y la fuente canónica no puede

@@ -5,22 +5,26 @@
 Abre un chat normal y pega este mensaje:
 
 > Lee https://github.com/delimitesrotos/Fantasy y sigue exactamente `SKILL.md`.
-> No me des recomendaciones sin contexto: compárame alternativas, consecuencias
-> y el criterio que usarías, pero deja que yo decida. Empezar Fantasy.
+> Usa únicamente mi Google Drive conectado para crear o localizar mi hoja
+> privada desde `templates/Fantasy-Estado-Privado.xlsx`. Actualízala
+> automáticamente cuando te dé datos, sin esperar que yo lo pida. No me des
+> recomendaciones sin contexto: compárame alternativas y deja que yo decida.
+> Empezar Fantasy.
 
-El chat se encarga de guiar el resto. No hay que instalar código, editar
-archivos, crear una hoja ni conectar la cuenta de LALIGA.
+El chat se encarga de guiar el resto. El jugador solo debe autorizar una vez su
+propio Google Drive; no instala código, no edita archivos y no conecta LALIGA.
 
 ## Qué ocurrirá
 
-1. Pedirá **una captura de las reglas** y explicará para qué la necesita.
-2. Tras confirmarlas, pedirá **plantilla y saldo**.
-3. Tras confirmarlos, pedirá **la clasificación**.
-4. Declarará lista la configuración básica. Los equipos rivales se completan
+1. Guiará la conexión de **Google Drive** y creará/localizará la hoja privada.
+2. Pedirá **una captura de las reglas** y la guardará tras validarla.
+3. Pedirá **plantilla y saldo** y actualizará la hoja.
+4. Pedirá **la clasificación** y actualizará rivales.
+5. Declarará lista la configuración básica. Los equipos rivales se completan
    poco a poco, sin bloquear el uso.
-5. Para el día a día bastará escribir **¿Qué hago hoy?** y enviar el mercado si
+6. Para el día a día bastará escribir **¿Qué hago hoy?** y enviar el mercado si
    el chat lo solicita.
-6. Para el once bastará escribir **Prepara mi jornada**.
+7. Para el once bastará escribir **Prepara mi jornada**.
 
 ## Cómo decide el jugador
 
@@ -39,8 +43,6 @@ alineado hasta que el jugador lo confirme.
 
 ## Si abre otro chat
 
-El chat muestra después de cada cambio una **Tarjeta de estado Fantasy**. El
-jugador solo pega esa tarjeta debajo del enlace del repositorio. No tiene que
-entenderla ni editarla. Si no la conserva, el chat reconstruye el estado con las
-tres capturas iniciales.
-
+Conecta el mismo Drive y pega el mismo mensaje inicial. El chat busca la hoja,
+lee `Control` y continúa desde el primer paso pendiente. No depende de Memory ni
+obliga al jugador a copiar estados.
