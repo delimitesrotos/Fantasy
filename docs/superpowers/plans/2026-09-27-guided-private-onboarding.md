@@ -4,9 +4,9 @@
 
 **Goal:** Add a persistent private-state onboarding flow and deliberative decision briefs for a non-technical Fantasy user.
 
-**Architecture:** The repository defines and tests the state machine, a portable `ESTADO_FANTASY` capsule and the recommendation contract. A normal chat asks for one missing input, records only confirmed changes in the visible capsule and can resume from that capsule in a new chat.
+**Architecture:** The repository defines and tests onboarding, a mandatory private-state turn controller, a versioned `.xlsx` template and the recommendation contract. A normal chat creates a private Google Sheet in the player's connected Drive, persists detected changes before analysis and resumes from Drive in a new chat.
 
-**Tech Stack:** Python 3 standard library, Markdown skills and a YAML-shaped portable state capsule.
+**Tech Stack:** Python 3 standard library, Markdown skills, Excel template and Google Drive/Sheets actions in the player's chat.
 
 **Spec:** `docs/superpowers/specs/2026-09-27-guided-private-onboarding-design.md`
 
@@ -79,24 +79,24 @@
 - Produces: exact non-technical onboarding dialogue and agent operating procedure.
 
 - [ ] Document the canonical sheet lifecycle and freshness policy.
-- [ ] Add exact trigger, prompt and capsule-update behavior to the skills.
+- [ ] Add exact trigger, prompt and automatic Sheet-update behavior to the skills.
 - [ ] Replace imperative response formats with contextualized alternatives and user confirmation.
 - [ ] Run the full test suite and `git diff --check`.
 
-### Task 4: Portable private-state capsule
+### Task 4: Versioned private-state workbook
 
 **Files:**
-- Create: `work/build_private_state_template.mjs` (untracked intermediate)
-- Export: `work/Mi Liga Fantasy.xlsx` (untracked intermediate)
-- Create: `data/private_state_capsule.md`
+- Create: `templates/Fantasy-Estado-Privado.xlsx`
+- Create: `templates/README.md`
+- Create: `data/private_drive_state.md`
 
 **Interfaces:**
-- Consumes: capsule schema in the design spec.
-- Produces: a blank public template that the chat completes only inside the friend's conversation.
+- Consumes: workbook schema in the design spec.
+- Produces: a blank public template imported only to the friend's connected Drive.
 
-- [ ] Define the complete portable capsule with `UNKNOWN` defaults.
-- [ ] Document confirmation, regeneration and new-chat recovery behavior.
-- [ ] Verify no external account or real private data is required.
+- [ ] Create and visually verify the `.xlsx` workbook and evidence index.
+- [ ] Document import, confirmation, automatic writeback and new-chat recovery.
+- [ ] Verify the repository contains no real private data.
 
 ### Task 5: Integration
 

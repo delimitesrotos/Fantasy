@@ -37,26 +37,28 @@ Perfecta.
 
 ## Flujo obligatorio
 
-1. **Estado privado:** lee el último bloque explícito `ESTADO_FANTASY`; no uses
-   memoria oculta como fuente canónica. Si falta o está incompleto, ejecuta
-   `skills/onboarding.md` y pide exactamente un bloque por turno.
-2. **Ingesta humana:** extrae mercado privado, plantilla y precios mostrados en
+1. **Control transversal:** ejecuta siempre `skills/private-state-runtime.md`,
+   aunque el usuario no pida actualizar nada. Localiza la hoja privada, lee
+   `Control`, detecta cambios en texto/capturas/audio y persiste lo confirmado.
+2. **Estado privado:** si la hoja no existe, ejecuta `skills/onboarding.md`, crea
+   una copia desde `templates/Fantasy-Estado-Privado.xlsx` en el Drive conectado
+   del jugador y verifica lectura/escritura antes de pedir datos.
+3. **Ingesta humana:** extrae mercado privado, plantilla y precios mostrados en
    capturas o texto. No inventes datos.
-3. **Snapshot público:** abre primero `metadata.json`; si está fresco, enriquece
+4. **Snapshot público:** abre primero `metadata.json`; si está fresco, enriquece
    por `player_id` usando `players.json`, `market-values.json` y
    `starter-probabilities.json`.
-4. **Contexto adicional:** busca lesiones, sanciones, entrenamientos, ruedas de
+5. **Contexto adicional:** busca lesiones, sanciones, entrenamientos, ruedas de
    prensa, calendario o rotación solo cuando ayuden a la decisión.
-5. **Decisión:** aplica la skill correspondiente,
+6. **Decisión:** aplica la skill correspondiente,
    `scoring/marginal_value.md` y `skills/decision-brief.md`.
-6. **Salida móvil:** separa datos, estimaciones y razonamiento; ofrece al menos
+7. **Salida móvil:** separa datos, estimaciones y razonamiento; ofrece al menos
    dos opciones contextualizadas y devuelve la decisión final al usuario.
 
 ## Estado privado incremental
 
-Mantén plantilla, saldo y rivales conocidos en la cápsula explícita definida en
-`data/private_state_capsule.md`. Tras cada cambio confirmado, emite la cápsula
-completa para que sea visible y portable entre chats.
+Mantén plantilla, saldo y rivales conocidos en la hoja privada definida en
+`data/private_drive_state.md`. La memoria del chat no es fuente de verdad.
 Cuando el usuario diga «Compré a X por 8M», interpreta `BUY X 8000000`, añade el
 jugador, descuenta el saldo y registra el evento. Para `SELL`, realiza la operación
 inversa. No pidas una captura completa después de cada movimiento; pide una nueva
@@ -64,6 +66,10 @@ lista solo cuando el estado sea ambiguo o el usuario indique cambios externos.
 
 El mercado privado de la liga siempre procede del humano, idealmente mediante
 una sola captura o lista diaria. Nunca intentes extraerlo de la cuenta.
+
+Ante cualquier dato privado nuevo, el chat debe iniciar la actualización sin que
+el jugador conozca ni solicite el flujo técnico. Si también pide consejo, la
+escritura y su verificación ocurren antes del análisis.
 
 ## Formato de respuesta
 
@@ -76,5 +82,13 @@ Cuando intervengan datos dinámicos, distingue:
 Cierra con la ficha de `skills/decision-brief.md`: contexto contrastado,
 incertidumbre, al menos dos opciones con implicaciones, preferencia razonada,
 umbral de cambio y una pregunta para que el usuario decida. Declara `UNKNOWN`
-cuando corresponda. Solo una confirmación explícita autoriza actualizar la
-cápsula; la operación real siempre la ejecuta el humano.
+cuando corresponda. Una afirmación inequívoca de un hecho pasado cuenta como
+confirmación; OCR, audio ambiguo o cambios múltiples requieren resumen y un «sí»
+antes de actualizar. La operación real en LALIGA siempre la ejecuta el humano.
+
+## Aislamiento de cuentas
+
+Usa exclusivamente el Google Drive que el jugador conectó en su propio chat.
+Nunca uses, solicites o menciones como destino el Drive del propietario del
+repositorio. No comiences a recopilar información privada hasta haber verificado
+una hoja escribible en la cuenta conectada del jugador.

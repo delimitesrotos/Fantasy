@@ -9,14 +9,15 @@ chat memory and without turning recommendations into unexplained orders.
 ## Architecture
 
 The public repository remains the source for decision rules, onboarding and
-validated public data. A compact `ESTADO_FANTASY` capsule inside the normal chat
-is the explicit state for the user's league, roster, rivals, private market and
-confirmed events. The chat asks for one missing item at a time and rewrites the
-capsule only with confirmed facts.
+validated public data. A private Google Sheet created from the versioned `.xlsx`
+template in the player's own Drive is the canonical state for league, roster,
+rivals, private market, evidence and confirmed events. Every turn runs a private
+state controller before public analysis.
 
 No real league data, credentials or account access may enter this public
-repository. The repository contains only the blank capsule template. No Drive,
-external database, code execution or setup by the repository owner is required.
+repository. The repository contains only the blank workbook template. The
+repository owner provides no Drive account or external database; the player
+authorizes only their own Drive connection.
 
 ## Onboarding state machine
 
@@ -36,13 +37,13 @@ assistant does not issue a recommendation from partial private context. It
 explains the single missing input and asks for the smallest screenshot or value
 that advances the next stage.
 
-## Canonical private capsule
+## Canonical private workbook
 
-`data/private_state_capsule.md` defines the portable YAML block. The chat shows
-the complete updated capsule after every confirmed state change. If the friend
-opens a new chat, the onboarding asks for the last capsule; if it is unavailable,
-it reconstructs the state progressively from current screenshots. Thus the
-system does not depend on hidden cross-chat memory.
+`templates/Fantasy-Estado-Privado.xlsx` defines the workbook. The chat searches
+before creating, verifies the resulting Google Sheets URL, and rereads `Control`
+in every session. The controller detects new private facts in any message,
+persists them before analysis, and verifies writeback. New chats recover from
+Drive rather than hidden cross-chat memory.
 
 ## Freshness
 

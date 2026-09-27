@@ -1,8 +1,8 @@
 # Plantilla de estado privado del usuario
 
-> No introduzcas datos reales en este repositorio público. Usa la cápsula
-> `ESTADO_FANTASY` descrita en `data/private_state_capsule.md`; no dependas de
-> memoria oculta del chat.
+> No introduzcas datos reales en este repositorio público. Usa la copia privada
+> en el Drive del jugador descrita en `data/private_drive_state.md`; no dependas
+> de la memoria del chat.
 
 - **Sistema de puntuación:** `[Mixto / Sofascore / Picas / otro]`
 - **Saldo disponible:** `[ejemplo ficticio: 12,5 M€]`
@@ -18,8 +18,8 @@
 
 ## Eventos incrementales
 
-El chat debe mostrar el cambio propuesto, pedir confirmación y después emitir la
-cápsula actualizada sin solicitar una captura completa tras cada operación:
+El chat debe mostrar el cambio propuesto, pedir confirmación y después actualizar
+la hoja privada sin solicitar una captura completa tras cada operación:
 
 ```text
 BUY <player_id o nombre inequívoco> <precio>
