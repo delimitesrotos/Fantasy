@@ -1,15 +1,32 @@
-# Estado Privado del Usuario (User State)
+# Plantilla de estado privado del usuario
 
-*Este archivo evita que el LLM tenga que hacerte el "Grill" cada vez que inicias un chat. Actualiza estos datos manualmente de vez en cuando para que el Cerebro tome mejores decisiones.*
+> No introduzcas datos reales en este repositorio público. Copia esta plantilla
+> en tu chat o almacenamiento privado y mantenla allí.
 
-- **Sistema de Puntuación:** [Añadir sistema: ej. Mixto / Sofascore]
-- **Saldo Disponible (Cash):** [Añadir saldo: ej. 12.5M]
-- **Valor de Equipo:** [Añadir valor total si lo deseas]
-- **Reglas Especiales:** [Ej: Liga de 10 personas, no hay primas por punto]
-- **Intocables (Jugadores que NUNCA vendería):**
-  1. [Jugador A]
-  2. [Jugador B]
-- **Perfil de Inversor:** [Conservador / Agresivo]
+- **Sistema de puntuación:** `[Mixto / Sofascore / Picas / otro]`
+- **Saldo disponible:** `[ejemplo ficticio: 12,5 M€]`
+- **Valor de equipo:** `[opcional]`
+- **Reglas especiales:** `[límites, primas, clausulazos]`
+- **Perfil:** `[conservador / agresivo]`
+- **Plantilla:**
+  - `[POR ficticio]`
+  - `[DEF ficticio]`
+- **Intocables:** `[jugadores ficticios]`
+- **Rivales conocidos:** `[opcional]`
+- **Última reconciliación completa:** `[fecha]`
 
----
-*(Instrucción para el LLM: Lee SIEMPRE estos datos antes de procesar una captura de pantalla del mercado).*
+## Eventos incrementales
+
+El chat debe actualizar este estado lógicamente sin pedir una captura completa
+tras cada operación:
+
+```text
+BUY <player_id o nombre inequívoco> <precio>
+SELL <player_id o nombre inequívoco> <precio>
+CASH <nuevo saldo confirmado>
+LINEUP <lista de player_id>
+```
+
+Ejemplo ficticio: `BUY futbolfantasy:999999 8000000` añade el jugador, descuenta
+8 M€ y registra el movimiento. Si identidad, precio o saldo son ambiguos, el
+chat pregunta solo por el dato mínimo que falta.

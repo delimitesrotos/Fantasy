@@ -1,0 +1,50 @@
+[
+  {
+    "name": "A fresh snapshot wins",
+    "user_value": null,
+    "snapshot": {"value": 10800000, "freshness": "fresh", "platform": "laliga_fantasy_oficial"},
+    "canonical": null,
+    "search_snippet_value": null,
+    "expected": {"value": 10800000, "origin": "repository_snapshot"}
+  },
+  {
+    "name": "B stale snapshot is not current",
+    "user_value": null,
+    "snapshot": {"value": 10800000, "freshness": "stale", "platform": "laliga_fantasy_oficial"},
+    "canonical": null,
+    "search_snippet_value": null,
+    "expected": {"value": null, "origin": "unknown"}
+  },
+  {
+    "name": "C verified canonical LALIGA value is accepted",
+    "user_value": null,
+    "snapshot": null,
+    "canonical": {"value": 39200000, "verified": true, "platform": "laliga_fantasy_oficial"},
+    "search_snippet_value": null,
+    "expected": {"value": 39200000, "origin": "canonical_source"}
+  },
+  {
+    "name": "D ambiguous canonical platform is rejected",
+    "user_value": null,
+    "snapshot": null,
+    "canonical": {"value": 39200000, "verified": true, "platform": null},
+    "search_snippet_value": null,
+    "expected": {"value": null, "origin": "unknown"}
+  },
+  {
+    "name": "E search snippet is ignored",
+    "user_value": null,
+    "snapshot": null,
+    "canonical": null,
+    "search_snippet_value": 99900000,
+    "expected": {"value": null, "origin": "unknown"}
+  },
+  {
+    "name": "F official app value overrides snapshot",
+    "user_value": 39200000,
+    "snapshot": {"value": 38000000, "freshness": "fresh", "platform": "laliga_fantasy_oficial"},
+    "canonical": {"value": 37000000, "verified": true, "platform": "laliga_fantasy_oficial"},
+    "search_snippet_value": 36000000,
+    "expected": {"value": 39200000, "origin": "user_official_app"}
+  }
+]

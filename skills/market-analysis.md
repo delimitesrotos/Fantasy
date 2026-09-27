@@ -1,27 +1,28 @@
-# Skill: Market Analysis (Análisis Diario de Mercado)
+# Skill: Market Analysis
 
-**Cuándo usar:** El usuario sube una captura del mercado de fichajes y pregunta qué comprar, o dice "Analiza el mercado de hoy".
+**Cuándo usar:** el usuario envía una captura/lista de su mercado privado o pide
+analizar el mercado del día.
 
-## Pasos del Análisis
+## Workflow
 
-1. **Extracción:** Identifica todos los jugadores de la captura, su precio (VM) y su racha de puntos.
-2. **Contexto Externo (Vital):** Si el precio objetivo o la tendencia no se ven, busca en internet su tendencia de mercado actual (¿sube 100k al día? ¿está bajando?). 
-3. **Cruce con el User State:** Filtra aquellos jugadores que el usuario NO puede permitirse o que chocarían con restricciones de su liga.
-4. **Evaluación de Oportunidades:** Usa `scoring/marginal_value.md` para separar a los jugadores en tres buckets:
-   - **Rendimiento (Titulares fiables):** Para puntuar el fin de semana.
-   - **Trading (Especulación):** Jugadores baratos que están subiendo rápido de valor (lesionados que vuelven, revulsivos que acaban de marcar).
-   - **Evitar:** Sobrepreciados o bajando en picado.
+1. Extrae todos los jugadores y los precios que muestra la app; esos precios
+   explícitos tienen prioridad durante la conversación.
+2. Lee `data/public/latest/metadata.json`. Solo si mercado y/o titularidad están
+   `fresh`, carga en bloque `players.json`, `market-values.json` y
+   `starter-probabilities.json`.
+3. Resuelve identidades por `player_id`; usa nombre normalizado + equipo +
+   posición solo para localizar el ID. No unas jugadores únicamente por apellido.
+4. Usa el snapshot para valor de referencia, variación diaria y titularidad.
+   Nunca rellenes un valor ausente con otra plataforma o un snippet.
+5. Busca en web solo contexto complementario: lesión, sanción, entrenamiento,
+   rueda de prensa, rotación o calendario.
+6. Cruza con saldo/reglas y aplica `scoring/marginal_value.md`.
 
-## Formato de Salida
+Si el snapshot está `stale`, muestra el último valor conocido con fecha y
+advertencia. Si no puede verificarse, devuelve `UNKNOWN`.
 
-Devuelve SOLO un Top 3 de acciones recomendadas con este formato:
+## Salida
 
-1. **Jugador X:** [COMPRAR PARA RENDIMIENTO]
-   - Puja Máxima: [XX Millones]
-   - Riesgo: [Medio - Rotación por Champions]
-   - Motivo: Mejora tu centro del campo directamente.
-
-2. **Jugador Y:** [COMPRAR PARA ESPECULAR]
-   - Puja Máxima: [Precio mercado + 10%]
-   - Riesgo: [Bajo - Si no rinde se vende sin pérdida]
-   - Motivo: Sube 150k al día. Revender en 5 días.
+Devuelve un Top 3. Para cada jugador separa **HECHO** (precio/tendencia con
+fuente y fecha), **ESTIMACIÓN** (titularidad y jornada) y **ANÁLISIS** (acción,
+puja máxima, riesgo y motivo).

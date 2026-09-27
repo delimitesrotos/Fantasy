@@ -1,19 +1,22 @@
-# Fuentes Oficiales y de Referencia (Source Policy)
+# Fuentes oficiales y de referencia
 
-Para paliar la falta de conexión directa a una base de datos propia en Fase 1, el LLM debe considerar estas fuentes públicas como oráculo de verdad para resolver dudas antes de emitir una decisión.
+La política normativa vive en [`source/data-policy.md`](../source/data-policy.md).
+Este archivo se conserva por compatibilidad con la arquitectura original.
 
-Si en una captura falta información de lesiones, tendencias de valor o posibles onces, busca en la web:
+## Datos exactos y dinámicos
 
-1. **Jornada Perfecta (jornadaperfecta.com) / Comuniate (comuniate.com):**
-   - **Uso:** Onces probables, estatus de lesiones (duda, descartado), recomendación fantasy rápida.
-   - **Prioridad:** Alta para la jornada inminente.
+- Valor y variación de LALIGA Fantasy Oficial: snapshot fresco de
+  `data/public/latest/`, generado desde la página explícita de FútbolFantasy.
+- Probabilidad de titularidad: snapshot fresco de FútbolFantasy para la jornada
+  identificada.
+- Si plataforma o frescura no pueden probarse: `UNKNOWN`.
 
-2. **FutbolFantasy (futbolfantasy.com):**
-   - **Uso:** Minutos jugados, rotaciones esperadas, roles a balón parado.
-   - **Prioridad:** Alta para analizar el riesgo de un jugador (Risk Score).
+Nunca uses un snippet ni el valor de Comunio, Biwenger, Mister, Futmondo,
+Fantasy Marca u otra plataforma para completar un precio de LALIGA Fantasy.
 
-3. **Relevo / Marca / AS (Secciones Fantasy):**
-   - **Uso:** Noticias de impacto rápido (sanciones, broncas del entrenador, cambios de sistema).
+## Contexto deportivo
 
-**Regla de Extracción:**
-Nunca asumas que un jugador es titular indiscutible si su equipo juega competición europea esa misma semana. Confírmalo siempre buscando noticias de rotaciones recientes.
+Para lesiones, sanciones, entrenamientos, ruedas de prensa, calendario y
+rotaciones se permiten FútbolFantasy, fuentes oficiales de clubes/LALIGA y
+prensa deportiva fiable. Registra fuente y fecha, y no mezcles contexto con el
+hecho financiero exacto.
