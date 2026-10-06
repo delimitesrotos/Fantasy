@@ -5,14 +5,14 @@
     "starter_probabilities": 514
   },
   "dataset": "metadata",
-  "generated_at": "2026-10-05T23:30:16.153516+02:00",
-  "last_error": "market value changed by more than 50% for futbolfantasy:15696",
+  "generated_at": "2026-10-06T11:01:26.889628+02:00",
+  "last_error": "market value changed by more than 50% for futbolfantasy:12993",
   "pipeline_status": "failed",
   "platform": "laliga_fantasy_oficial",
   "schema_version": 1,
   "sources": {
     "market_values": {
-      "error": "market value changed by more than 50% for futbolfantasy:15696",
+      "error": "market value changed by more than 50% for futbolfantasy:12993",
       "freshness_max_age_hours": 30,
       "last_success": "2026-09-28T22:34:51.084438+02:00",
       "provider": "futbolfantasy",
@@ -22,7 +22,7 @@
       "url": "https://www.futbolfantasy.com/analytics/laliga-fantasy/mercado"
     },
     "starter_probabilities": {
-      "error": "market value changed by more than 50% for futbolfantasy:15696",
+      "error": "market value changed by more than 50% for futbolfantasy:12993",
       "freshness_max_age_hours": 8,
       "last_success": "2026-09-28T22:34:51.084438+02:00",
       "provider": "futbolfantasy",
