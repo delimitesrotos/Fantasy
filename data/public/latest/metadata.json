@@ -5,7 +5,7 @@
     "starter_probabilities": 514
   },
   "dataset": "metadata",
-  "generated_at": "2026-10-08T11:01:44.671141+02:00",
+  "generated_at": "2026-10-08T21:58:09.629601+02:00",
   "last_error": "market value changed by more than 50% for futbolfantasy:12993",
   "pipeline_status": "failed",
   "platform": "laliga_fantasy_oficial",
