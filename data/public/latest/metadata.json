@@ -5,7 +5,7 @@
     "starter_probabilities": 514
   },
   "dataset": "metadata",
-  "generated_at": "2026-10-21T01:12:19.688059+02:00",
+  "generated_at": "2026-10-21T09:42:20.738085+02:00",
   "last_error": "invalid daily change for player row",
   "pipeline_status": "failed",
   "platform": "laliga_fantasy_oficial",
